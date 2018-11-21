@@ -1,0 +1,472 @@
+,company,date,location,position,perfil_id,inicio,fim,atual,duracao
+0,Trojan Technologies,set de 2011 – o momento,Belo Horizonte/MG-Brazil,CEO and Founder,0,2011-09-01,2018-11-19,True,87.86666666666666
+6,Any Company,mar de 2016 – o momento,,Endeavor Entrepreneur,0,2016-03-01,2018-11-19,True,33.1
+7,Any Company,out de 2015 – o momento,Belo Horizonte/MG-Brazil,Investor and Board Member,0,2015-10-01,2018-11-19,True,38.166666666666664
+8,Any Company,out de 2012 – mai de 2013,"Santiago, Chile",Start-Up Chile Entrepreneur,0,2012-10-01,2013-05-01,False,7.066666666666666
+9,Any Company,set de 2009 – jan de 2011,São Paulo/SP-Brazil,Founder and Sales Director,0,2009-09-01,2011-01-01,False,16.233333333333334
+10,Trojan Technologies,jul de 2017 – o momento,Belo Horizonte/MG-Brazil,Product Manager,1,2017-07-01,2018-11-19,True,16.866666666666667
+11,Any Company,jan de 2017 – o momento,Belo Horizonte/MG-Brazil,Diretora de Whatever,1,2017-01-01,2018-11-19,True,22.9
+12,Trojan Technologies,mar de 2017 – jul de 2017,Belo Horizonte/MG-Brazil,Coordenadora de Onboarding,1,2017-03-01,2017-07-01,False,4.066666666666666
+13,Any Company,dez de 2016 – mar de 2017,Belo Horizonte/MG-Brazil,Coordenadora de aceleração,1,2016-12-01,2017-03-01,False,3.0
+14,Any Company,jun de 2016 – jan de 2017,Belo Horizonte/MG-Brazil,Subcoordenadora de Desenvolvimento de Negócios e Produto,1,2016-06-01,2017-01-01,False,7.133333333333334
+15,Any Company,jul de 2017 – o momento,Belo Horizonte/MG-Brazil,JavaScript Software Architect,2,2017-07-01,2018-11-19,True,16.866666666666667
+16,Trojan Technologies,nov de 2016 – o momento,Belo Horizonte/MG-Brazil,Full Stack Developer,2,2016-11-01,2018-11-19,True,24.933333333333334
+17,Any Company,dez de 2015 – o momento,Belo Horizonte/MG-Brazil,"Co-Founder, Full Stack Developer",2,2015-12-01,2018-11-19,True,36.13333333333333
+18,Any Company,abr de 2017 – jul de 2017,Belo Horizonte/MG-Brazil,Senior Frontend Software Engineer,2,2017-04-01,2017-07-01,False,3.033333333333333
+19,Any Company,ago de 2016 – fev de 2017,Belo Horizonte/MG-Brazil,Frontend Developer,2,2016-08-01,2017-02-01,False,6.133333333333334
+20,Trojan Technologies,ago de 2017 – o momento,,CRM Analyst,3,2017-08-01,2018-11-19,True,15.833333333333334
+21,Trojan Technologies,fev de 2017 – jul de 2017,,Customer Success,3,2017-02-01,2017-07-01,False,5.0
+23,Any Company,jul de 2016 – dez de 2016,Belo Horizonte/MG-Brazil,Equipe de Comunicação,3,2016-07-01,2016-12-01,False,5.1
+24,Trojan Technologies,mar de 2017 – o momento,,Sales Operations Coordinator,4,2017-03-01,2018-11-19,True,20.933333333333334
+25,Trojan Technologies,fev de 2017 – fev de 2017,Belo Horizonte/MG-Brazil,Commercial Analyst,4,2017-02-01,2017-02-01,False,0.0
+26,Trojan Technologies,jan de 2017 – jan de 2017,,Marketing Analyst,4,2017-01-01,2017-01-01,False,0.0
+27,Trojan Technologies,jul de 2016 – dez de 2016,Belo Horizonte/MG-Brazil,Intern,4,2016-07-01,2016-12-01,False,5.1
+28,Any Company,mai de 2016 – jun de 2016,Belo Horizonte/MG-Brazil,Certification Specialist,4,2016-05-01,2016-06-01,False,1.0333333333333334
+29,Trojan Technologies,jul de 2016 – o momento,,Key Account Manager,5,2016-07-01,2018-11-19,True,29.033333333333335
+30,Trojan Technologies,mai de 2015 – jun de 2016,,Analista de Relacionamento,5,2015-05-01,2016-06-01,False,13.233333333333333
+31,Any Company,abr de 2012 – ago de 2015,Belo Horizonte/MG-Brazil,Gerente de Relacionamento,5,2012-04-01,2015-08-01,False,40.56666666666667
+32,Any Company,mar de 2011 – abr de 2012,Belo Horizonte/MG-Brazil,Assistente de Gerência,5,2011-03-01,2012-04-01,False,13.233333333333333
+33,Any Company,jun de 2008 – mar de 2011,Belo Horizonte/MG-Brazil,Agente Comercial,5,2008-06-01,2011-03-01,False,33.43333333333333
+34,Trojan Technologies,nov de 2016 – o momento,Belo Horizonte/MG-Brazil,Software Engineer and Data Scientist,6,2016-11-01,2018-11-19,True,24.933333333333334
+35,Trojan Technologies,nov de 2016 – o momento,Belo Horizonte/MG-Brazil,Data Engineer,6,2016-11-01,2018-11-19,True,24.933333333333334
+36,Any Company,jul de 2005 – out de 2016,Belo Horizonte/MG-Brazil,Software Engineer,6,2005-07-01,2016-10-01,False,137.0
+37,Any Company,set de 2002 – jul de 2005,,Software Engineer,6,2002-09-01,2005-07-01,False,34.46666666666667
+38,Any Company,mai de 2001 – ago de 2002,Belo Horizonte/MG-Brazil,Software Engineer,6,2001-05-01,2002-08-01,False,15.233333333333333
+39,Trojan Technologies,abr de 2017 – o momento,Belo Horizonte/MG-Brazil,Aprediz administrativo,7,2017-04-01,2018-11-19,True,19.9
+40,Any Company,out de 2015 – abr de 2017,Belo Horizonte/MG-Brazil,Babysitter,7,2015-10-01,2017-04-01,False,18.266666666666666
+41,Trojan Technologies,jan de 2011 – o momento,Belo Horizonte/MG-Brazil,Founder and CFO,8,2011-01-01,2018-11-19,True,95.96666666666667
+42,Any Company,mar de 2016 – o momento,,Endeavor Entrepreneur,8,2016-03-01,2018-11-19,True,33.1
+43,Any Company,jan de 2017 – o momento,,Investor and Operator LP,8,2017-01-01,2018-11-19,True,22.9
+44,Any Company,out de 2015 – o momento,Belo Horizonte/MG-Brazil,Investor,8,2015-10-01,2018-11-19,True,38.166666666666664
+45,Any Company,out de 2012 – mai de 2013,"Santiago, Chile",Entrepreneur 5.2,8,2012-10-01,2013-05-01,False,7.066666666666666
+46,Trojan Technologies,ago de 2016 – o momento,Belo Horizonte/MG-Brazil,Sales Operations Manager,9,2016-08-01,2018-11-19,True,28.0
+47,Trojan Technologies,set de 2014 – jul de 2016,Belo Horizonte/MG-Brazil,Key Account Manager,9,2014-09-01,2016-07-01,False,22.3
+48,Any Company,nov de 2010 – jul de 2012,Belo Horizonte/MG-Brazil,Intern,9,2010-11-01,2012-07-01,False,20.266666666666666
+49,Trojan Technologies,mai de 2017 – o momento,Belo Horizonte/MG-Brazil,Head of In-Store Operation,10,2017-05-01,2018-11-19,True,18.9
+50,Trojan Technologies,jan de 2017 – abr de 2017,,Product Manager,10,2017-01-01,2017-04-01,False,3.0
+51,Trojan Technologies,dez de 2015 – jan de 2017,,Business Developer,10,2015-12-01,2017-01-01,False,13.233333333333333
+52,Trojan Technologies,abr de 2015 – dez de 2015,Belo Horizonte/MG-Brazil,Key Account Manager,10,2015-04-01,2015-12-01,False,8.133333333333333
+53,Any Company,jan de 2007 – abr de 2015,Nova Lima/MG-Brazil,Analista de Melhoria Operacional,10,2007-01-01,2015-04-01,False,100.4
+54,Trojan Technologies,set de 2017 – o momento,,People Consultant,11,2017-09-01,2018-11-19,True,14.8
+55,Trojan Technologies,jul de 2016 – o momento,,Key Account Manager,11,2016-07-01,2018-11-19,True,29.033333333333335
+56,Trojan Technologies,jan de 2016 – jun de 2016,,Digital Marketing Intern,11,2016-01-01,2016-06-01,False,5.066666666666666
+57,Trojan Technologies,fev de 2015 – dez de 2015,,Customer Success Intern,11,2015-02-01,2015-12-01,False,10.1
+58,Any Company,dez de 2014 – mar de 2015,,Public Relations Coordinator,11,2014-12-01,2015-03-01,False,3.0
+59,Trojan Technologies,set de 2017 – o momento,Belo Horizonte/MG-Brazil,Operações ERP,12,2017-09-01,2018-11-19,True,14.8
+60,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Time de Expansão,12,2017-03-01,2018-11-19,True,20.933333333333334
+61,Trojan Technologies,mar de 2016 – mar de 2017,Belo Horizonte/MG-Brazil,Analista Comercial,12,2016-03-01,2017-03-01,False,12.166666666666666
+62,Any Company,jan de 2014 – jan de 2015,Belo Horizonte/MG-Brazil,Gerente de Projetos,12,2014-01-01,2015-01-01,False,12.166666666666666
+63,Any Company,fev de 2014 – ago de 2014,Belo Horizonte/MG-Brazil,Coordenador Geral,12,2014-02-01,2014-08-01,False,6.033333333333333
+64,Trojan Technologies,ago de 2017 – o momento,Belo Horizonte/MG-Brazil,Estagiária de CRM,13,2017-08-01,2018-11-19,True,15.833333333333334
+65,Trojan Technologies,dez de 2016 – jul de 2017,Belo Horizonte/MG-Brazil,Customer Success,13,2016-12-01,2017-07-01,False,7.066666666666666
+66,Any Company,jul de 2016 – dez de 2016,,Diretora de Relacionamentos,13,2016-07-01,2016-12-01,False,5.1
+67,Any Company,jan de 2016 – jul de 2016,,Diretora de Marketing,13,2016-01-01,2016-07-01,False,6.066666666666666
+68,Any Company,jun de 2015 – jan de 2016,Belo Horizonte/MG-Brazil,"Gestora de Contas, Acessora de Marketing e de Produção.",13,2015-06-01,2016-01-01,False,7.133333333333334
+69,Trojan Technologies,mai de 2017 – o momento,Belo Horizonte/MG-Brazil,Product Manager,14,2017-05-01,2018-11-19,True,18.9
+70,Trojan Technologies,jan de 2017 – mai de 2017,Belo Horizonte/MG-Brazil,Business Development and Operations Manager,14,2017-01-01,2017-05-01,False,4.0
+71,Trojan Technologies,ago de 2016 – dez de 2016,Belo Horizonte/MG-Brazil,Business Development Manager,14,2016-08-01,2016-12-01,False,4.066666666666666
+72,Any Company,jan de 2016 – jul de 2016,São Paulo/SP-Brazil,Product Analyst,14,2016-01-01,2016-07-01,False,6.066666666666666
+73,Any Company,mai de 2015 – dez de 2015,São Paulo/SP-Brazil,Trainee,14,2015-05-01,2015-12-01,False,7.133333333333334
+74,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Key Account,15,2017-03-01,2018-11-19,True,20.933333333333334
+75,Any Company,mar de 2015 – o momento,,Gerente de Expansão,15,2015-03-01,2018-11-19,True,45.3
+76,Any Company,jun de 2016 – mar de 2017,Belo Horizonte/MG-Brazil,Comercial,15,2016-06-01,2017-03-01,False,9.1
+77,Any Company,out de 2013 – nov de 2014,,Comercial,15,2013-10-01,2014-11-01,False,13.2
+78,Any Company,jul de 2013 – out de 2013,,Gerente Regional,15,2013-07-01,2013-10-01,False,3.066666666666667
+79,Trojan Technologies,set de 2017 – o momento,Belo Horizonte/MG-Brazil,Head of People,16,2017-09-01,2018-11-19,True,14.8
+80,Trojan Technologies,mar de 2017 – ago de 2017,Belo Horizonte/MG-Brazil,People Consultant,16,2017-03-01,2017-08-01,False,5.1
+81,Any Company,out de 2015 – out de 2015,Governador Valadares/MG-Brazil,Produção Cultural,16,2015-10-01,2015-10-01,False,0.0
+82,Any Company,jan de 2015 – jun de 2015,Curitiba/PR-Brazil,Gerente de Gente & Gestão - Auto Serviço,16,2015-01-01,2015-06-01,False,5.033333333333333
+83,Any Company,jan de 2013 – dez de 2014,,Analista III da Universidade Ambev,16,2013-01-01,2014-12-01,False,23.3
+84,Trojan Technologies,ago de 2017 – o momento,Belo Horizonte/MG-Brazil,Public Relations Intern,17,2017-08-01,2018-11-19,True,15.833333333333334
+85,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Customer Success Intern,17,2017-03-01,2018-11-19,True,20.933333333333334
+86,Any Company,set de 2014 – jul de 2015,Dublin-Irlanda,Scholarship Holder,17,2014-09-01,2015-07-01,False,10.1
+87,Trojan Technologies,jul de 2017 – o momento,Belo Horizonte/MG-Brazil,Trade Marketing Analyst,18,2017-07-01,2018-11-19,True,16.866666666666667
+88,Trojan Technologies,abr de 2017 – jul de 2017,Belo Horizonte/MG-Brazil,B2B Customer Success Analyst and Farmer,18,2017-04-01,2017-07-01,False,3.033333333333333
+89,Any Company,mar de 2017 – jul de 2017,Belo Horizonte/MG-Brazil,Public Relations Consultant,18,2017-03-01,2017-07-01,False,4.066666666666666
+90,Trojan Technologies,out de 2016 – abr de 2017,Belo Horizonte/MG-Brazil,Customer Success Analyst,18,2016-10-01,2017-04-01,False,6.066666666666666
+91,Any Company,mar de 2016 – out de 2016,Belo Horizonte/MG-Brazil,Freelancer Content Producer,18,2016-03-01,2016-10-01,False,7.133333333333334
+92,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Customer Success - Intern,19,2017-03-01,2018-11-19,True,20.933333333333334
+93,Any Company,jan de 2016 – dez de 2016,,Estagiário Santander Financiamentos,19,2016-01-01,2016-12-01,False,11.166666666666666
+94,Any Company,ago de 2014 – dez de 2016,,Aprendiz,19,2014-08-01,2016-12-01,False,28.433333333333334
+95,Trojan Technologies,jan de 2017 – o momento,,Time de Expansão,20,2017-01-01,2018-11-19,True,22.9
+96,Any Company,dez de 2015 – o momento,,Diretora Comercial,20,2015-12-01,2018-11-19,True,36.13333333333333
+97,Any Company,mar de 2015 – nov de 2015,,Consultora de Projetos,20,2015-03-01,2015-11-01,False,8.166666666666666
+98,Trojan Technologies,fev de 2017 – o momento,,Onboarding Coordinator,21,2017-02-01,2018-11-19,True,21.866666666666667
+99,Any Company,ago de 2015 – out de 2016,,Diretor Executivo / COO,21,2015-08-01,2016-10-01,False,14.233333333333333
+100,Any Company,ago de 2014 – out de 2016,,Co-fundador e Sócio / Co-founder & Partner,21,2014-08-01,2016-10-01,False,26.4
+101,Any Company,out de 2014 – jul de 2015,,Gerente de Projetos / Project Manager,21,2014-10-01,2015-07-01,False,9.1
+102,Any Company,jul de 2011 – jun de 2014,Belo Horizonte/MG-Brazil,Coordenador / Coordinator,21,2011-07-01,2014-06-01,False,35.53333333333333
+103,Trojan Technologies,out de 2016 – o momento,,Analista de DP,22,2016-10-01,2018-11-19,True,25.966666666666665
+104,Trojan Technologies,abr de 2015 – out de 2016,,Customer Experience Analyst - Trojan Technologies,22,2015-04-01,2016-10-01,False,18.3
+105,Any Company,set de 2014 – dez de 2014,Belo Horizonte/MG-Brazil,Estágiária,22,2014-09-01,2014-12-01,False,3.033333333333333
+106,Any Company,abr de 2012 – fev de 2014,Contagem/MG-Brazil,Assistente Financeiro Sênior,22,2012-04-01,2014-02-01,False,22.366666666666667
+107,Any Company,jul de 2011 – mar de 2012,Contagem/MG-Brazil,Assistente Financeiro Pleno,22,2011-07-01,2012-03-01,False,8.133333333333333
+108,Trojan Technologies,jan de 2017 – o momento,Belo Horizonte/MG-Brazil,Diretora de arte,23,2017-01-01,2018-11-19,True,22.9
+109,Any Company,mar de 2015 – mar de 2016,,Bolsista de Iniciação Científica,23,2015-03-01,2016-03-01,False,12.2
+110,Any Company,2014 – 2016,,Assessora de Comunicação,23,2014-01-01,2016-01-01,False,24.333333333333332
+111,Trojan Technologies,ago de 2016 – o momento,Belo Horizonte/MG-Brazil,Engenheiro de Software,24,2016-08-01,2018-11-19,True,28.0
+112,Any Company,nov de 2015 – jul de 2016,Belo Horizonte/MG-Brazil,Desenvolvedor Web Full Stack,24,2015-11-01,2016-07-01,False,8.1
+113,Any Company,ago de 2005 – fev de 2013,Belo Horizonte/MG-Brazil,Gerente de TI,24,2005-08-01,2013-02-01,False,91.36666666666666
+114,Trojan Technologies,jan de 2017 – o momento,,Costomer Success,25,2017-01-01,2018-11-19,True,22.9
+115,Any Company,fev de 2016 – o momento,,Bolsista,25,2016-02-01,2018-11-19,True,34.06666666666667
+116,Any Company,ago de 2015 – o momento,,Cocriador,25,2015-08-01,2018-11-19,True,40.2
+118,Any Company,jan de 2012 – ago de 2012,Belo Horizonte/MG-Brazil,Auxiliar técnico de qualidade 1,25,2012-01-01,2012-08-01,False,7.1
+119,Any Company,jan de 2011 – jan de 2012,Belo Horizonte/MG-Brazil,Auxiliar de ferramentaria,25,2011-01-01,2012-01-01,False,12.166666666666666
+120,Trojan Technologies,fev de 2017 – o momento,Belo Horizonte/MG-Brazil,Customer Sucess Analyst,26,2017-02-01,2018-11-19,True,21.866666666666667
+121,Any Company,jun de 2016 – jan de 2017,Belo Horizonte/MG-Brazil,Estagiário de Produção,26,2016-06-01,2017-01-01,False,7.133333333333334
+122,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Estagiária de Customer Success,27,2017-03-01,2018-11-19,True,20.933333333333334
+123,Any Company,jul de 2016 – mar de 2017,,Estagiária de Marketing e Comunicação,27,2016-07-01,2017-03-01,False,8.1
+124,Any Company,jan de 2016 – jul de 2016,,Coordenadora de Planejamento,27,2016-01-01,2016-07-01,False,6.066666666666666
+125,Any Company,jul de 2015 – dez de 2015,Belo Horizonte/MG-Brazil,Assessora de Planejamento,27,2015-07-01,2015-12-01,False,5.1
+126,Any Company,jul de 2015 – dez de 2015,,Assessora de Administrativo Financeiro,27,2015-07-01,2015-12-01,False,5.1
+127,Trojan Technologies,mai de 2017 – o momento,Belo Horizonte/MG-Brazil,Coordenadora de Branding,28,2017-05-01,2018-11-19,True,18.9
+128,Trojan Technologies,fev de 2016 – abr de 2017,Belo Horizonte/MG-Brazil,Assessora de imprensa,28,2016-02-01,2017-04-01,False,14.166666666666666
+129,Any Company,ago de 2013 – jan de 2016,Belo Horizonte/MG-Brazil,Analista de Comunicação,28,2013-08-01,2016-01-01,False,29.433333333333334
+130,Any Company,mai de 2013 – jul de 2013,Belo Horizonte/MG-Brazil,Produtora plena,28,2013-05-01,2013-07-01,False,2.033333333333333
+131,Any Company,jul de 2012 – dez de 2012,Belo Horizonte/MG-Brazil,Assistente de Comunicação,28,2012-07-01,2012-12-01,False,5.1
+132,Trojan Technologies,out de 2016 – o momento,Manaus/AM-Brazil,Lead Software Developer,29,2016-10-01,2018-11-19,True,25.966666666666665
+133,Any Company,jan de 2014 – out de 2016,Manaus/AM-Brazil,Sr. Analyst Developer / Product Owner,29,2014-01-01,2016-10-01,False,33.46666666666667
+134,Any Company,mar de 2012 – dez de 2013,Manaus/AM-Brazil,"Sr. Analyst Developer, Project Leader",29,2012-03-01,2013-12-01,False,21.333333333333332
+135,Any Company,jan de 2010 – fev de 2012,Manaus/AM-Brazil,Application Developer,29,2010-01-01,2012-02-01,False,25.366666666666667
+136,Any Company,jan de 2005 – dez de 2009,Manaus/AM-Brazil,Software Developer,29,2005-01-01,2009-12-01,False,59.833333333333336
+137,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Customer Success,30,2017-03-01,2018-11-19,True,20.933333333333334
+138,Trojan Technologies,jul de 2016 – o momento,Belo Horizonte/MG-Brazil,Full Stack Engineer,31,2016-07-01,2018-11-19,True,29.033333333333335
+139,Any Company,abr de 2014 – jun de 2016,Juiz de Fora/MG-Brazil,Software Engineer,31,2014-04-01,2016-06-01,False,26.4
+140,Any Company,mar de 2010 – abr de 2014,Juiz de Fora/MG-Brazil,Web Developer,31,2010-03-01,2014-04-01,False,49.733333333333334
+141,Any Company,nov de 2007 – mar de 2010,Juiz de Fora/MG-Brazil,Software Developer,31,2007-11-01,2010-03-01,False,28.366666666666667
+142,Trojan Technologies,jul de 2017 – o momento,Belo Horizonte/MG-Brazil,Key Account Manager,32,2017-07-01,2018-11-19,True,16.866666666666667
+143,Trojan Technologies,fev de 2017 – o momento,Belo Horizonte/MG-Brazil,Business Sales Executive,32,2017-02-01,2018-11-19,True,21.866666666666667
+145,Any Company,out de 2015 – set de 2016,Belo Horizonte/MG-Brazil,Executiva de Contas Atacado,32,2015-10-01,2016-09-01,False,11.2
+146,Any Company,jun de 2012 – set de 2015,Belo Horizonte/MG-Brazil,Gerente de Relacionamento Comercial,32,2012-06-01,2015-09-01,False,39.56666666666667
+147,Any Company,mar de 2010 – jun de 2012,,Assessora de Relacionamento Comercial,32,2010-03-01,2012-06-01,False,27.433333333333334
+148,Trojan Technologies,out de 2013 – o momento,Belo Horizonte/MG-Brazil,"Lead Product Designer, Partner",33,2013-10-01,2018-11-19,True,62.5
+149,Any Company,jan de 2011 – jul de 2013,Rio de Janeiro/RJ-Brazil,Senior Product Designer,33,2011-01-01,2013-07-01,False,30.4
+150,Any Company,fev de 2008 – jan de 2011,,"Interaction Designer, Partner",33,2008-02-01,2011-01-01,False,35.5
+151,Any Company,abr de 2001 – jan de 2008,Belo Horizonte/MG-Brazil,"Web Designer, Developer",33,2001-04-01,2008-01-01,False,82.2
+152,Any Company,jun de 2000 – jan de 2001,,Graphic Designer,33,2000-06-01,2001-01-01,False,7.133333333333334
+153,Trojan Technologies,jul de 2016 – o momento,Belo Horizonte/MG-Brazil,Product Manager,34,2016-07-01,2018-11-19,True,29.033333333333335
+154,Any Company,set de 2015 – mai de 2016,,Product Manager,34,2015-09-01,2016-05-01,False,8.1
+155,Any Company,out de 2013 – ago de 2015,São Paulo/SP-Brazil,Co-Founder and Head of Product,34,2013-10-01,2015-08-01,False,22.3
+156,Any Company,fev de 2010 – fev de 2011,,Researcher,34,2010-02-01,2011-02-01,False,12.166666666666666
+157,Any Company,mar de 2009 – dez de 2009,Recife/PE-Brazil,Software Developer,34,2009-03-01,2009-12-01,False,9.166666666666666
+158,Trojan Technologies,dez de 2012 – o momento,Belo Horizonte/MG-Brazil,Engenheiro de software sênior,35,2012-12-01,2018-11-19,True,72.63333333333334
+160,Any Company,mai de 2009 – dez de 2012,Belo Horizonte/MG-Brazil,Software Engineer,35,2009-05-01,2012-12-01,False,43.666666666666664
+161,Any Company,mar de 2005 – out de 2010,,Master in Computer Science,35,2005-03-01,2010-10-01,False,68.0
+162,Any Company,ago de 2008 – mar de 2009,,Software Engineer,35,2008-08-01,2009-03-01,False,7.066666666666666
+163,Any Company,jan de 2008 – mai de 2008,,Intern,35,2008-01-01,2008-05-01,False,4.033333333333333
+164,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Customer Success,36,2017-03-01,2018-11-19,True,20.933333333333334
+165,Any Company,ago de 2015 – jul de 2016,Amesterdã-Holanda,Science without Borders Student,36,2015-08-01,2016-07-01,False,11.166666666666666
+166,Any Company,jul de 2014 – jul de 2015,Belo Horizonte/MG-Brazil,Intern and Manager of Internal Environment,36,2014-07-01,2015-07-01,False,12.166666666666666
+167,Trojan Technologies,jan de 2016 – o momento,Belo Horizonte/MG-Brazil,Software Developer,37,2016-01-01,2018-11-19,True,35.1
+168,Any Company,nov de 2013 – o momento,Belo Horizonte/MG-Brazil,Editor,37,2013-11-01,2018-11-19,True,61.46666666666667
+170,Any Company,nov de 2014 – jan de 2016,Belo Horizonte/MG-Brazil,Developer,37,2014-11-01,2016-01-01,False,14.2
+171,Any Company,mar de 2014 – dez de 2014,Belo Horizonte/MG-Brazil,Developer,37,2014-03-01,2014-12-01,False,9.166666666666666
+172,Any Company,jun de 2009 – dez de 2013,Belo Horizonte/MG-Brazil,Programador web,37,2009-06-01,2013-12-01,False,54.8
+173,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Arquiteto de soluções,38,2017-03-01,2018-11-19,True,20.933333333333334
+174,Trojan Technologies,abr de 2015 – o momento,Belo Horizonte/MG-Brazil,Engenheiro de Software,38,2015-04-01,2018-11-19,True,44.266666666666666
+175,Any Company,fev de 2013 – mar de 2015,Vitória/ES-Brazil,Coordenador de TI e Analista de Sistemas,38,2013-02-01,2015-03-01,False,25.266666666666666
+176,Any Company,dez de 2007 – jan de 2013,Belo Horizonte/MG-Brazil,Analista de Sistemas / Engenheiro de Software,38,2007-12-01,2013-01-01,False,61.93333333333333
+177,Trojan Technologies,out de 2016 – o momento,Belo Horizonte/MG-Brazil,Business Intelligence and Data Analyst,39,2016-10-01,2018-11-19,True,25.966666666666665
+178,Any Company,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Co Founder,39,2017-03-01,2018-11-19,True,20.933333333333334
+179,Any Company,ago de 2012 – out de 2016,Belo Horizonte/MG-Brazil,Inteligência de Mercado e Planejamento,39,2012-08-01,2016-10-01,False,50.733333333333334
+180,Any Company,jan de 2011 – abr de 2012,Belo Horizonte/MG-Brazil,Planejamento e estratégia de T&D,39,2011-01-01,2012-04-01,False,15.2
+181,Any Company,jan de 2009 – dez de 2010,Belo Horizonte/MG-Brazil,UAIE - Unidade de Atendimento Individual ao Empreendedor,39,2009-01-01,2010-12-01,False,23.3
+182,Trojan Technologies,mar de 2016 – o momento,Belo Horizonte/MG-Brazil,Tech Leader,40,2016-03-01,2018-11-19,True,33.1
+183,Any Company,nov de 2014 – mar de 2016,Belo Horizonte/MG-Brazil,Desenvolvedor frontend,40,2014-11-01,2016-03-01,False,16.2
+184,Any Company,jul de 2014 – nov de 2014,Belo Horizonte/MG-Brazil,Desenvolvedor Web,40,2014-07-01,2014-11-01,False,4.1
+185,Any Company,ago de 2014 – out de 2014,Belo Horizonte/MG-Brazil,Desenvolvedor Web,40,2014-08-01,2014-10-01,False,2.033333333333333
+186,Any Company,jan de 2011 – dez de 2011,,Diretor Presidente,40,2011-01-01,2011-12-01,False,11.133333333333333
+187,Trojan Technologies,jan de 2017 – o momento,Belo Horizonte/MG-Brazil,Analista financeiro,41,2017-01-01,2018-11-19,True,22.9
+188,Trojan Technologies,nov de 2015 – o momento,Belo Horizonte/MG-Brazil,Estagiária de finanças,41,2015-11-01,2018-11-19,True,37.13333333333333
+189,Any Company,mar de 2015 – mar de 2015,Sydney-Austrália,Tradução simultânea,41,2015-03-01,2015-03-01,False,0.0
+190,Any Company,mar de 2014 – out de 2014,Belo Horizonte/MG-Brazil,Estagiaria,41,2014-03-01,2014-10-01,False,7.133333333333334
+191,Any Company,set de 2013 – mar de 2014,Belo Horizonte/MG-Brazil,Auxiliar administrativo,41,2013-09-01,2014-03-01,False,6.033333333333333
+192,Trojan Technologies,jul de 2017 – o momento,Belo Horizonte/MG-Brazil,Analista financeiro,42,2017-07-01,2018-11-19,True,16.866666666666667
+193,Any Company,abr de 2014 – jul de 2016,Belo Horizonte/MG-Brazil,Estagiária de finanças,42,2014-04-01,2016-07-01,False,27.4
+194,Any Company,abr de 2012 – out de 2012,Belo Horizonte/MG-Brazil,Estagiária,42,2012-04-01,2012-10-01,False,6.1
+195,Trojan Technologies,out de 2016 – o momento,Belo Horizonte/MG-Brazil,Analista de controladoria,43,2016-10-01,2018-11-19,True,25.966666666666665
+196,Any Company,dez de 2014 – out de 2016,Belo Horizonte/MG-Brazil,Associate at Audit,43,2014-12-01,2016-10-01,False,22.333333333333332
+197,Trojan Technologies,ago de 2017 – o momento,Belo Horizonte/MG-Brazil,Software Architect,44,2017-08-01,2018-11-19,True,15.833333333333334
+198,Any Company,nov de 2015 – mai de 2017,Belo Horizonte/MG-Brazil,Senior Software Engineer,44,2015-11-01,2017-05-01,False,18.233333333333334
+199,Any Company,jul de 2015 – nov de 2015,,Senior Software Engineer Contract,44,2015-07-01,2015-11-01,False,4.1
+200,Any Company,jan de 2015 – jul de 2015,Belo Horizonte/MG-Brazil,Senior Software Engineer,44,2015-01-01,2015-07-01,False,6.033333333333333
+201,Any Company,out de 2014 – jan de 2015,Mountain View/CA-United State,Senior Software Engineer,44,2014-10-01,2015-01-01,False,3.066666666666667
+202,Trojan Technologies,mai de 2017 – o momento,Manaus/AM-Brazil,Desenvolvedor Júnior,45,2017-05-01,2018-11-19,True,18.9
+203,Trojan Technologies,out de 2016 – abr de 2017,,Desenvolvedor Trainee,45,2016-10-01,2017-04-01,False,6.066666666666666
+204,Any Company,fev de 2016 – set de 2016,,Bolsista - CPD,45,2016-02-01,2016-09-01,False,7.1
+205,Any Company,jun de 2013 – jan de 2014,,Estagiário de TI,45,2013-06-01,2014-01-01,False,7.133333333333334
+206,Trojan Technologies,out de 2016 – o momento,Belo Horizonte/MG-Brazil,Software Developer,46,2016-10-01,2018-11-19,True,25.966666666666665
+207,Trojan Technologies,out de 2016 – o momento,Belo Horizonte/MG-Brazil,Talent Acquisition,47,2016-10-01,2018-11-19,True,25.966666666666665
+208,Any Company,abr de 2014 – abr de 2016,,Estagiário,47,2014-04-01,2016-04-01,False,24.366666666666667
+209,Any Company,fev de 2014 – mar de 2014,,Estagiário,47,2014-02-01,2014-03-01,False,0.9333333333333333
+210,Any Company,ago de 2012 – fev de 2014,,Estagiário,47,2012-08-01,2014-02-01,False,18.3
+211,Trojan Technologies,jan de 2017 – o momento,Belo Horizonte/MG-Brazil,Gestora do time de Pessoas - Responsável por R&S e T&D,48,2017-01-01,2018-11-19,True,22.9
+213,Trojan Technologies,out de 2015 – dez de 2016,Belo Horizonte/MG-Brazil,Responsável por R&S no Trojan Technologies.,48,2015-10-01,2016-12-01,False,14.233333333333333
+214,Any Company,out de 2014 – jun de 2015,Belo Horizonte/MG-Brazil,Atendimento Clínico Individual,48,2014-10-01,2015-06-01,False,8.1
+215,Any Company,fev de 2012 – jul de 2014,Florianópolis/SC-Brazil,Psicóloga - R&S e T&D,48,2012-02-01,2014-07-01,False,29.366666666666667
+216,Any Company,fev de 2010 – mai de 2012,Universidade Federal de Santa Catarina,Atendimento Psicológico Clínico - Estágio,48,2010-02-01,2012-05-01,False,27.333333333333332
+217,Trojan Technologies,mar de 2015 – o momento,Belo Horizonte/MG-Brazil,Senior UX Designer,49,2015-03-01,2018-11-19,True,45.3
+218,Any Company,ago de 2013 – mar de 2015,Ouro Preto/MG-Brazil,Senior Designer,49,2013-08-01,2015-03-01,False,19.233333333333334
+219,Any Company,mai de 2011 – jun de 2013,Belo Horizonte/MG-Brazil,Co-Founder & UX Designer,49,2011-05-01,2013-06-01,False,25.4
+220,Any Company,mar de 2011 – fev de 2012,,Designer,49,2011-03-01,2012-02-01,False,11.233333333333333
+221,Any Company,jun de 2010 – mar de 2011,,Diretora de arte,49,2010-06-01,2011-03-01,False,9.1
+222,Trojan Technologies,jan de 2017 – o momento,Belo Horizonte/MG-Brazil,Director of Marketing,50,2017-01-01,2018-11-19,True,22.9
+223,Any Company,set de 2014 – jan de 2017,Rio de Janeiro/RJ-Brazil,Sr. Marketing Manager,50,2014-09-01,2017-01-01,False,28.433333333333334
+224,Any Company,jan de 2013 – set de 2014,Rio de Janeiro/RJ-Brazil,Marketing Coordinator,50,2013-01-01,2014-09-01,False,20.266666666666666
+225,Any Company,mar de 2012 – jan de 2013,Rio de Janeiro/RJ-Brazil,Analista de Marketing,50,2012-03-01,2013-01-01,False,10.2
+226,Any Company,jun de 2010 – fev de 2012,Elogia,Mídia Online,50,2010-06-01,2012-02-01,False,20.333333333333332
+227,Trojan Technologies,mar de 2015 – o momento,Belo Horizonte/MG-Brazil,COO,51,2015-03-01,2018-11-19,True,45.3
+228,Any Company,fev de 2014 – dez de 2015,Belo Horizonte/MG-Brazil,Cofundador,51,2014-02-01,2015-12-01,False,22.266666666666666
+231,Trojan Technologies,jul de 2014 – mar de 2015,Belo Horizonte/MG-Brazil,Diretor de Marketing,51,2014-07-01,2015-03-01,False,8.1
+232,Any Company,abr de 2013 – jan de 2014,Belo Horizonte/MG-Brazil,Gerente de futebol e Copa,51,2013-04-01,2014-01-01,False,9.166666666666666
+235,Any Company,set de 2012 – abr de 2013,Belo Horizonte/MG-Brazil,Gerente da Categoria Energético,51,2012-09-01,2013-04-01,False,7.066666666666666
+236,Trojan Technologies,jul de 2017 – o momento,Belo Horizonte/MG-Brazil,Product Growth Manager,52,2017-07-01,2018-11-19,True,16.866666666666667
+237,Trojan Technologies,ago de 2016 – jun de 2017,Belo Horizonte/MG-Brazil,Head of Growth,52,2016-08-01,2017-06-01,False,10.133333333333333
+238,Any Company,dez de 2013 – ago de 2016,Belo Horizonte/MG-Brazil,Digital Marketing Coordinator,52,2013-12-01,2016-08-01,False,32.46666666666667
+239,Any Company,jan de 2013 – jan de 2014,,Arquiteto de Informação,52,2013-01-01,2014-01-01,False,12.166666666666666
+240,Any Company,nov de 2010 – mai de 2011,,Analista de SEO,52,2010-11-01,2011-05-01,False,6.033333333333333
+241,Any Company,ago de 2017 – o momento,Belo Horizonte/MG-Brazil,Co-idealizador e Anfitrião,53,2017-08-01,2018-11-19,True,15.833333333333334
+242,Any Company,mai de 2017 – o momento,Belo Horizonte/MG-Brazil,Fundador e Head de Produto,53,2017-05-01,2018-11-19,True,18.9
+244,Trojan Technologies,jan de 2017 – o momento,Belo Horizonte/MG-Brazil,Creative Designer,53,2017-01-01,2018-11-19,True,22.9
+245,Any Company,set de 2016 – o momento,Belo Horizonte/MG-Brazil,Coordenador de Comunicação,53,2016-09-01,2018-11-19,True,26.966666666666665
+246,Any Company,jun de 2016 – o momento,Belo Horizonte/MG-Brazil,Coordenador de Comunicação e Marca,53,2016-06-01,2018-11-19,True,30.033333333333335
+247,Trojan Technologies,abr de 2014 – o momento,Belo Horizonte/MG-Brazil,Head of Customer Success,54,2014-04-01,2018-11-19,True,56.43333333333333
+249,Trojan Technologies,dez de 2013 – mar de 2014,Belo Horizonte/MG-Brazil,Gerente de Novos Negócios,54,2013-12-01,2014-03-01,False,3.0
+250,Any Company,jun de 2012 – dez de 2013,Belo Horizonte/MG-Brazil,Assistente de informação,54,2012-06-01,2013-12-01,False,18.266666666666666
+251,Any Company,jan de 2011 – dez de 2011,Governador Valadares/MG-Brazil,Estágio,54,2011-01-01,2011-12-01,False,11.133333333333333
+252,Any Company,jan de 2009 – dez de 2010,Governador Valadares/MG-Brazil,Proprietário,54,2009-01-01,2010-12-01,False,23.3
+253,Trojan Technologies,ago de 2017 – o momento,Belo Horizonte/MG-Brazil,Purchasing Analyst,55,2017-08-01,2018-11-19,True,15.833333333333334
+254,Trojan Technologies,fev de 2016 – ago de 2017,Belo Horizonte/MG-Brazil,Estagiário de finanças,55,2016-02-01,2017-08-01,False,18.233333333333334
+255,Any Company,jul de 2015 – jan de 2016,,Planner,55,2015-07-01,2016-01-01,False,6.133333333333334
+256,Any Company,dez de 2014 – out de 2015,,Assessor de comunicação EMEJ,55,2014-12-01,2015-10-01,False,10.133333333333333
+257,Any Company,mar de 2015 – ago de 2015,,Planner e Vendas,55,2015-03-01,2015-08-01,False,5.1
+258,Trojan Technologies,dez de 2016 – o momento,,Estágio em Marketing CRM,56,2016-12-01,2018-11-19,True,23.933333333333334
+259,Any Company,fev de 2016 – jul de 2016,Belo Horizonte/MG-Brazil,Gestora de Contas e Assessora de Qualidade,56,2016-02-01,2016-07-01,False,5.033333333333333
+260,Any Company,jul de 2015 – dez de 2015,,Planner e Assessora de Qualidade,56,2015-07-01,2015-12-01,False,5.1
+261,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Coordenadora de CS,57,2017-03-01,2018-11-19,True,20.933333333333334
+262,Any Company,jul de 2016 – mar de 2017,Belo Horizonte/MG-Brazil,Scrum Master,57,2016-07-01,2017-03-01,False,8.1
+263,Any Company,jun de 2016 – mar de 2017,Belo Horizonte/MG-Brazil,Consultant & Software Engineer,57,2016-06-01,2017-03-01,False,9.1
+264,Any Company,abr de 2016 – jun de 2016,Betim/MG-Brazil,Analista de Sistemas,57,2016-04-01,2016-06-01,False,2.033333333333333
+265,Any Company,jun de 2015 – nov de 2015,Belo Horizonte/MG-Brazil,Consultant Developer,57,2015-06-01,2015-11-01,False,5.1
+266,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Analista de DP,58,2017-03-01,2018-11-19,True,20.933333333333334
+267,Any Company,mar de 2016 – mar de 2017,,Assistente de RH,58,2016-03-01,2017-03-01,False,12.166666666666666
+268,Any Company,set de 2013 – fev de 2016,,Estagiária de RH,58,2013-09-01,2016-02-01,False,29.433333333333334
+269,Any Company,set de 2012 – set de 2013,,Aprendiz,58,2012-09-01,2013-09-01,False,12.166666666666666
+270,Trojan Technologies,dez de 2016 – o momento,,Estagiaria do Financeiro,59,2016-12-01,2018-11-19,True,23.933333333333334
+271,Any Company,jun de 2016 – dez de 2016,,Gerente de Projetos,59,2016-06-01,2016-12-01,False,6.1
+272,Any Company,mai de 2016 – dez de 2016,,Assessora Administrativa,59,2016-05-01,2016-12-01,False,7.133333333333334
+273,Any Company,dez de 2015 – jun de 2016,,Consultor,59,2015-12-01,2016-06-01,False,6.1
+274,Any Company,jan de 2015 – jun de 2016,,Diretor Administrativo e Financeiro,59,2015-01-01,2016-06-01,False,17.233333333333334
+275,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Head of Data Analytics,60,2017-03-01,2018-11-19,True,20.933333333333334
+276,Trojan Technologies,nov de 2012 – mar de 2017,Belo Horizonte/MG-Brazil,CTO,60,2012-11-01,2017-03-01,False,52.7
+277,Any Company,mar de 2009 – out de 2013,Belo Horizonte/MG-Brazil,Professor,60,2009-03-01,2013-10-01,False,55.833333333333336
+278,Any Company,dez de 2010 – dez de 2012,Belo Horizonte/MG-Brazil,Professor,60,2010-12-01,2012-12-01,False,24.366666666666667
+279,Any Company,out de 2010 – nov de 2012,Belo Horizonte/MG-Brazil,Co-founder,60,2010-10-01,2012-11-01,False,25.4
+280,Trojan Technologies,ago de 2016 – o momento,Belo Horizonte/MG-Brazil,Commercial Analyst,61,2016-08-01,2018-11-19,True,28.0
+281,Any Company,jun de 2013 – jun de 2014,Belo Horizonte/MG-Brazil,Advisor to the Presidency,61,2013-06-01,2014-06-01,False,12.166666666666666
+282,Any Company,set de 2013 – mai de 2014,Belo Horizonte/MG-Brazil,Intern,61,2013-09-01,2014-05-01,False,8.066666666666666
+283,Any Company,dez de 2012 – set de 2013,Belo Horizonte/MG-Brazil,Research Assistant,61,2012-12-01,2013-09-01,False,9.133333333333333
+284,Trojan Technologies,jun de 2017 – o momento,Belo Horizonte/MG-Brazil,Head Of Commercial,62,2017-06-01,2018-11-19,True,17.866666666666667
+285,Trojan Technologies,jun de 2014 – mai de 2017,Belo Horizonte/MG-Brazil,Key Account Manager,62,2014-06-01,2017-05-01,False,35.5
+286,Any Company,mai de 2014 – jun de 2014,Belo Horizonte/MG-Brazil,Social Media Manager,62,2014-05-01,2014-06-01,False,1.0333333333333334
+287,Any Company,jul de 2012 – fev de 2014,,Atendimento,62,2012-07-01,2014-02-01,False,19.333333333333332
+288,Any Company,jan de 2012 – jun de 2012,Belo Horizonte/MG-Brazil,Diretora de Arte,62,2012-01-01,2012-06-01,False,5.066666666666666
+289,Trojan Technologies,ago de 2017 – o momento,Belo Horizonte/MG-Brazil,Analista de tecnologia da informação,63,2017-08-01,2018-11-19,True,15.833333333333334
+290,Any Company,abr de 2017 – ago de 2017,Belo Horizonte/MG-Brazil,Estágio em Tecnologia da Informação - Faculdade de Letras UFMG,63,2017-04-01,2017-08-01,False,4.066666666666666
+291,Any Company,jan de 2017 – jun de 2017,Belo Horizonte/MG-Brazil,Mister King,63,2017-01-01,2017-06-01,False,5.033333333333333
+292,Any Company,jan de 2016 – jul de 2016,Belo Horizonte/MG-Brazil,Programador de Sistemas,63,2016-01-01,2016-07-01,False,6.066666666666666
+293,Any Company,nov de 2011 – dez de 2014,Belo Horizonte/MG-Brazil,Programador web,63,2011-11-01,2014-12-01,False,37.53333333333333
+294,Trojan Technologies,mar de 2015 – o momento,Belo Horizonte/MG-Brazil,Analista Financeiro,64,2015-03-01,2018-11-19,True,45.3
+295,Any Company,fev de 2012 – nov de 2014,,Supervisor de Secretaria,64,2012-02-01,2014-11-01,False,33.46666666666667
+296,Any Company,nov de 2011 – fev de 2012,Belo Horizonte/MG-Brazil,Assistente de Educação e Cultura,64,2011-11-01,2012-02-01,False,3.066666666666667
+297,Any Company,ago de 2011 – out de 2011,Belo Horizonte/MG-Brazil,Auxiliar Administrativo,64,2011-08-01,2011-10-01,False,2.033333333333333
+298,Any Company,mar de 2010 – dez de 2010,Belo Horizonte/MG-Brazil,Agente Censitário Municipal,64,2010-03-01,2010-12-01,False,9.166666666666666
+299,Trojan Technologies,2017 – o momento,Belo Horizonte/MG-Brazil,People Consultant,65,2017-01-01,2018-11-19,True,22.9
+300,Trojan Technologies,nov de 2014 – o momento,Belo Horizonte/MG-Brazil,Programador Front end,65,2014-11-01,2018-11-19,True,49.3
+301,Any Company,set de 2013 – out de 2014,,Analista de sistemas - Programador Front-End,65,2013-09-01,2014-10-01,False,13.166666666666666
+302,Trojan Technologies,nov de 2016 – o momento,Belo Horizonte/MG-Brazil,Business Development Manager,66,2016-11-01,2018-11-19,True,24.933333333333334
+303,Trojan Technologies,mar de 2017 – jul de 2017,Belo Horizonte/MG-Brazil,City Manager,66,2017-03-01,2017-07-01,False,4.066666666666666
+304,Any Company,nov de 2015 – out de 2016,Belo Horizonte/MG-Brazil,CEO & Partner,66,2015-11-01,2016-10-01,False,11.166666666666666
+305,Any Company,ago de 2015 – out de 2016,Belo Horizonte/MG-Brazil,Membro do Conselho,66,2015-08-01,2016-10-01,False,14.233333333333333
+306,Any Company,abr de 2013 – out de 2015,Belo Horizonte/MG-Brazil,COO & Partner,66,2013-04-01,2015-10-01,False,30.433333333333334
+307,Trojan Technologies,out de 2014 – o momento,,Customer Success,67,2014-10-01,2018-11-19,True,50.333333333333336
+309,Trojan Technologies,nov de 2015 – o momento,Belo Horizonte/MG-Brazil,Head of Trojan Technologies In-Store,68,2015-11-01,2018-11-19,True,37.13333333333333
+310,Any Company,2014 – 2015,São Paulo/SP-Brazil,Special Situations,68,2014-01-01,2015-01-01,False,12.166666666666666
+311,Any Company,2012 – 2014,,Asset Management,68,2012-01-01,2014-01-01,False,24.366666666666667
+312,Any Company,set de 2011 – fev de 2012,Rio de Janeiro/RJ-Brazil,Intern,68,2011-09-01,2012-02-01,False,5.1
+313,Any Company,jul de 2011 – ago de 2011,Belo Horizonte/MG-Brazil,Summer Job,68,2011-07-01,2011-08-01,False,1.0333333333333334
+314,Trojan Technologies,jul de 2016 – o momento,Belo Horizonte/MG-Brazil,Trade Marketing,69,2016-07-01,2018-11-19,True,29.033333333333335
+315,Any Company,jan de 2016 – jun de 2016,Itabira/MG-Brazil,Consultora,69,2016-01-01,2016-06-01,False,5.066666666666666
+316,Any Company,set de 2014 – dez de 2015,São Paulo/SP-Brazil,Analista de Negócios,69,2014-09-01,2015-12-01,False,15.2
+317,Any Company,dez de 2010 – nov de 2013,Belo Horizonte/MG-Brazil,Executivo de Contas,69,2010-12-01,2013-11-01,False,35.53333333333333
+318,Any Company,jan de 2009 – dez de 2010,São Paulo/SP-Brazil,Estagiária em Desenvolvimento de Negócios,69,2009-01-01,2010-12-01,False,23.3
+319,Trojan Technologies,jul de 2017 – o momento,Belo Horizonte/MG-Brazil,Sales Operations Analyst,70,2017-07-01,2018-11-19,True,16.866666666666667
+320,Trojan Technologies,fev de 2017 – jul de 2017,Belo Horizonte/MG-Brazil,Customer Success Coordinator,70,2017-02-01,2017-07-01,False,5.0
+321,Trojan Technologies,jun de 2016 – jan de 2017,,Customer Success,70,2016-06-01,2017-01-01,False,7.133333333333334
+323,Any Company,fev de 2017 – o momento,Belo Horizonte/MG-Brazil,English Teacher,71,2017-02-01,2018-11-19,True,21.866666666666667
+324,Trojan Technologies,nov de 2016 – o momento,,Estagiária de marketing,71,2016-11-01,2018-11-19,True,24.933333333333334
+325,Any Company,ago de 2016 – nov de 2016,,Auxiliar de Mídias de Performance,71,2016-08-01,2016-11-01,False,3.066666666666667
+326,Any Company,mar de 2015 – ago de 2016,,Estagiário de marketing,71,2015-03-01,2016-08-01,False,17.3
+327,Any Company,mar de 2015 – ago de 2016,Belo Horizonte/MG-Brazil,Estagiário de marketing,71,2015-03-01,2016-08-01,False,17.3
+328,Trojan Technologies,ago de 2015 – o momento,Belo Horizonte/MG-Brazil,Coordenador de marketing,72,2015-08-01,2018-11-19,True,40.2
+329,Any Company,fev de 2014 – ago de 2015,"Campinas e Região, Brasil",Consultor de Comunicação e Marketing,72,2014-02-01,2015-08-01,False,18.2
+330,Any Company,ago de 2014 – mar de 2015,"Campinas e Região, Brasil",Professor,72,2014-08-01,2015-03-01,False,7.066666666666666
+331,Any Company,out de 2013 – nov de 2014,São Paulo/SP-Brazil,Consultor de Comunicação e Marketing,72,2013-10-01,2014-11-01,False,13.2
+332,Any Company,ago de 2012 – jan de 2014,Chile/Brasil,Consultor de Comunicação e Marketing,72,2012-08-01,2014-01-01,False,17.266666666666666
+333,Any Company,ago de 2017 – o momento,,Writer,73,2017-08-01,2018-11-19,True,15.833333333333334
+334,Trojan Technologies,out de 2016 – o momento,,Android Developer,73,2016-10-01,2018-11-19,True,25.966666666666665
+335,Trojan Technologies,mar de 2017 – o momento,São Paulo/SP-Brazil,Commercial,74,2017-03-01,2018-11-19,True,20.933333333333334
+336,Any Company,abr de 2016 – fev de 2017,São Paulo/SP-Brazil,Commercial,74,2016-04-01,2017-02-01,False,10.2
+338,Any Company,abr de 2013 – dez de 2015,São Paulo/SP-Brazil,Commercial/Key Account Manager,74,2013-04-01,2015-12-01,False,32.46666666666667
+341,Any Company,out de 2010 – mar de 2013,São Paulo/SP-Brazil,Account Executive,74,2010-10-01,2013-03-01,False,29.4
+342,Any Company,mar de 2010 – out de 2010,São Paulo/SP-Brazil,Marketing/Merchandising Junior Analyst of Fragrance,74,2010-03-01,2010-10-01,False,7.133333333333334
+343,Trojan Technologies,fev de 2017 – o momento,Varginha/MG-Brazil,Gerente de operações,75,2017-02-01,2018-11-19,True,21.866666666666667
+344,Any Company,abr de 2013 – o momento,Belo Horizonte/MG-Brazil,Gerente Comercial e de Novos Negócios,75,2013-04-01,2018-11-19,True,68.6
+345,Any Company,mai de 2012 – abr de 2013,Belém/PA-Brazil,Commercial Manager,75,2012-05-01,2013-04-01,False,11.166666666666666
+346,Any Company,out de 2011 – jun de 2012,,Gerente Comercial Regional Norte,75,2011-10-01,2012-06-01,False,8.133333333333333
+347,Any Company,jul de 2007 – set de 2011,Belo Horizonte/MG-Brazil,Executivo de Contas,75,2007-07-01,2011-09-01,False,50.766666666666666
+348,Trojan Technologies,out de 2016 – o momento,Varginha/MG-Brazil,Trade Marketing,76,2016-10-01,2018-11-19,True,25.966666666666665
+349,Any Company,jun de 2015 – out de 2016,Três Corações/MG-Brazil,Analista de logística,76,2015-06-01,2016-10-01,False,16.266666666666666
+350,Trojan Technologies,mar de 2016 – o momento,São Paulo e Belo Horizonte,Key Account Manager,77,2016-03-01,2018-11-19,True,33.1
+351,Any Company,ago de 2014 – jan de 2016,São Paulo/SP-Brazil,Account Manager,77,2014-08-01,2016-01-01,False,17.266666666666666
+352,Any Company,nov de 2011 – abr de 2014,São Paulo/SP-Brazil,Executiva de Negocios E-commerce,77,2011-11-01,2014-04-01,False,29.4
+353,Any Company,jan de 2011 – out de 2011,,Executiva de Contas Jr.,77,2011-01-01,2011-10-01,False,9.1
+354,Trojan Technologies,out de 2016 – o momento,Belo Horizonte/MG-Brazil,Head of Product Design - UXP,78,2016-10-01,2018-11-19,True,25.966666666666665
+355,Any Company,abr de 2014 – set de 2016,São Paulo/SP-Brazil,User Experience Manager LATAM,78,2014-04-01,2016-09-01,False,29.466666666666665
+356,Any Company,ago de 2012 – mar de 2014,São Paulo/SP-Brazil,User Experience Lead LATAM,78,2012-08-01,2014-03-01,False,19.233333333333334
+357,Any Company,ago de 2008 – ago de 2012,,User Experience Manager,78,2008-08-01,2012-08-01,False,48.7
+358,Any Company,jul de 2003 – ago de 2008,,Coordenador de Webdesign,78,2003-07-01,2008-08-01,False,61.93333333333333
+359,Trojan Technologies,fev de 2017 – o momento,Manaus/AM-Brazil,Lead Software Developer,79,2017-02-01,2018-11-19,True,21.866666666666667
+360,Any Company,out de 2014 – jan de 2017,Manaus/AM-Brazil,iOS Teacher and Developer,79,2014-10-01,2017-01-01,False,27.433333333333334
+361,Any Company,ago de 2010 – jan de 2017,Manaus/AM-Brazil,Teacher,79,2010-08-01,2017-01-01,False,78.16666666666667
+362,Any Company,jan de 2013 – set de 2014,Manaus/AM-Brazil,Software Developer,79,2013-01-01,2014-09-01,False,20.266666666666666
+363,Any Company,jun de 2008 – jun de 2010,Manaus/AM-Brazil,Trainee,79,2008-06-01,2010-06-01,False,24.333333333333332
+364,Trojan Technologies,out de 2016 – o momento,Manaus/AM-Brazil,Software Test Developer II,80,2016-10-01,2018-11-19,True,25.966666666666665
+365,Any Company,fev de 2014 – mar de 2016,,Test Developer II,80,2014-02-01,2016-03-01,False,25.3
+366,Any Company,dez de 2013 – fev de 2014,,Analista de Teste Pleno,80,2013-12-01,2014-02-01,False,2.066666666666667
+367,Any Company,mar de 2013 – nov de 2013,Manaus/AM-Brazil,Analista de Teste Junior,80,2013-03-01,2013-11-01,False,8.166666666666666
+368,Any Company,set de 2012 – fev de 2013,,Test Developer Trainee,80,2012-09-01,2013-02-01,False,5.1
+369,Trojan Technologies,out de 2016 – o momento,Belo Horizonte/MG-Brazil,Finance Director,81,2016-10-01,2018-11-19,True,25.966666666666665
+370,Any Company,fev de 2016 – nov de 2016,"Rio de Janeiro and São Paulo Area, Brazil",Entrepreneur,81,2016-02-01,2016-11-01,False,9.133333333333333
+371,Any Company,fev de 2016 – nov de 2016,"Rio de Janeiro and São Paulo Area, Brazil",Country Manager,81,2016-02-01,2016-11-01,False,9.133333333333333
+372,Any Company,mai de 2014 – jun de 2015,,Credit Analyst,81,2014-05-01,2015-06-01,False,13.2
+373,Any Company,set de 2012 – mai de 2014,,Asset Management,81,2012-09-01,2014-05-01,False,20.233333333333334
+374,Trojan Technologies,jul de 2017 – o momento,Manaus/AM-Brazil,Desenvolvedor Jr,82,2017-07-01,2018-11-19,True,16.866666666666667
+375,Any Company,jan de 2017 – jun de 2017,Manaus/AM-Brazil,Estagiário de computação,82,2017-01-01,2017-06-01,False,5.033333333333333
+376,Any Company,mai de 2016 – fev de 2017,Manaus/AM-Brazil,Estagiário de computação,82,2016-05-01,2017-02-01,False,9.2
+377,Any Company,mar de 2015 – fev de 2016,,Aluno do projeto Bepid,82,2015-03-01,2016-02-01,False,11.233333333333333
+378,Any Company,out de 2013 – mai de 2015,,Estagiário desenvolvedor,82,2013-10-01,2015-05-01,False,19.233333333333334
+379,Trojan Technologies,fev de 2017 – o momento,Manaus/AM-Brazil,Desenvolvedor Junior,83,2017-02-01,2018-11-19,True,21.866666666666667
+380,Any Company,nov de 2016 – jan de 2017,,Estagiáro,83,2016-11-01,2017-01-01,False,2.033333333333333
+381,Any Company,mar de 2013 – out de 2013,,Estagiário de Desenvolvimento,83,2013-03-01,2013-10-01,False,7.133333333333334
+382,Trojan Technologies,out de 2016 – o momento,Manaus/AM-Brazil,Desenvolvedor Pleno I,84,2016-10-01,2018-11-19,True,25.966666666666665
+383,Any Company,abr de 2014 – jul de 2016,Icomp,Mestre em Informática,84,2014-04-01,2016-07-01,False,27.4
+384,Any Company,dez de 2011 – mar de 2013,Manaus/AM-Brazil,Estagiário,84,2011-12-01,2013-03-01,False,15.2
+385,Trojan Technologies,abr de 2017 – o momento,Manaus/AM-Brazil,iOS Developer,85,2017-04-01,2018-11-19,True,19.9
+386,Any Company,mar de 2015 – fev de 2016,Manaus/AM-Brazil,iOS Developer,85,2015-03-01,2016-02-01,False,11.233333333333333
+387,Any Company,fev de 2014 – out de 2015,Manaus/AM-Brazil,Estagiário de TI,85,2014-02-01,2015-10-01,False,20.233333333333334
+388,Any Company,fev de 2012 – fev de 2014,Manaus/AM-Brazil,Aprendiz de TI,85,2012-02-01,2014-02-01,False,24.366666666666667
+389,Trojan Technologies,out de 2016 – o momento,Manaus/AM-Brazil,Software Developer,86,2016-10-01,2018-11-19,True,25.966666666666665
+390,Any Company,abr de 2014 – abr de 2016,Manaus/AM-Brazil,M.Sc. Student,86,2014-04-01,2016-04-01,False,24.366666666666667
+391,Any Company,ago de 2012 – mar de 2014,Manaus/AM-Brazil,Systems Analyst,86,2012-08-01,2014-03-01,False,19.233333333333334
+392,Any Company,abr de 2012 – ago de 2012,Manaus/AM-Brazil,Informatics Analyst,86,2012-04-01,2012-08-01,False,4.066666666666666
+393,Any Company,jun de 2010 – mar de 2012,Manaus/AM-Brazil,Information Technology Support Specialist,86,2010-06-01,2012-03-01,False,21.3
+394,Trojan Technologies,out de 2016 – o momento,Brazil,Desenvolvedora de Software,87,2016-10-01,2018-11-19,True,25.966666666666665
+395,Trojan Technologies,out de 2016 – o momento,,Software Developer,88,2016-10-01,2018-11-19,True,25.966666666666665
+396,Any Company,out de 2015 – mar de 2016,Alvorada/RS-Brazil,Desenvolvedora,88,2015-10-01,2016-03-01,False,5.066666666666666
+397,Any Company,mar de 2013 – ago de 2013,Vieiralves/AM-Brazil,Estagiária de TI,88,2013-03-01,2013-08-01,False,5.1
+398,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Time de Expansão Local,89,2017-03-01,2018-11-19,True,20.933333333333334
+399,Any Company,dez de 2014 – jun de 2015,,Conselheiro Fiscal,89,2014-12-01,2015-06-01,False,6.066666666666666
+400,Any Company,nov de 2013 – dez de 2014,,Assessor de Administrativo Financeiro,89,2013-11-01,2014-12-01,False,13.166666666666666
+401,Trojan Technologies,mar de 2016 – o momento,Belo Horizonte/MG-Brazil,Data Engineer BI and Data Analyst,90,2016-03-01,2018-11-19,True,33.1
+402,Any Company,set de 2015 – fev de 2016,,Especialista em Arquitetura de Soluções,90,2015-09-01,2016-02-01,False,5.1
+403,Any Company,set de 2014 – fev de 2016,Barueri/SP-Brazil,Especialista em TI,90,2014-09-01,2016-02-01,False,17.266666666666666
+404,Any Company,mai de 2013 – ago de 2014,Barueri/SP-Brazil,Gerente de Projetos,90,2013-05-01,2014-08-01,False,15.233333333333333
+405,Any Company,fev de 2011 – fev de 2013,,Gerente de Desenvolvimento de Sistemas,90,2011-02-01,2013-02-01,False,24.366666666666667
+406,Trojan Technologies,jun de 2017 – o momento,Belo Horizonte/MG-Brazil,Especialista em Marketing de Performance,91,2017-06-01,2018-11-19,True,17.866666666666667
+407,Any Company,nov de 2016 – jun de 2017,Belo Horizonte/MG-Brazil,Coordenador SEO e Mídia,91,2016-11-01,2017-06-01,False,7.066666666666666
+408,Any Company,abr de 2016 – nov de 2016,Belo Horizonte/MG-Brazil,Analista SEO e Mídia,91,2016-04-01,2016-11-01,False,7.133333333333334
+409,Any Company,jan de 2015 – abr de 2016,,Coordenador SEO e PPC,91,2015-01-01,2016-04-01,False,15.2
+410,Any Company,mai de 2014 – jan de 2015,Belo Horizonte/MG-Brazil,Analista SEO e PPC,91,2014-05-01,2015-01-01,False,8.166666666666666
+411,Trojan Technologies,ago de 2014 – o momento,,Analista de Atendimento,92,2014-08-01,2018-11-19,True,52.36666666666667
+412,Trojan Technologies,jan de 2014 – ago de 2014,Belo Horizonte/MG-Brazil,Commercial Manager,92,2014-01-01,2014-08-01,False,7.066666666666666
+413,Trojan Technologies,mar de 2013 – jan de 2014,Belo Horizonte/MG-Brazil,Digital Marketing Intern,92,2013-03-01,2014-01-01,False,10.2
+414,Trojan Technologies,mar de 2017 – o momento,Belo Horizonte/MG-Brazil,Executivo de vendas,93,2017-03-01,2018-11-19,True,20.933333333333334
+415,Any Company,fev de 2015 – mar de 2017,Belo Horizonte/MG-Brazil,Gestora Comercial,93,2015-02-01,2017-03-01,False,25.3
+416,Any Company,nov de 2003 – jul de 2014,,Gerente Territorial Lojas Proprias,93,2003-11-01,2014-07-01,False,129.83333333333334
+417,Any Company,mar de 2000 – nov de 2003,,Supervisora de Marketing,93,2000-03-01,2003-11-01,False,44.666666666666664
+418,Trojan Technologies,abr de 2017 – o momento,São Paulo/SP-Brazil,Head Of Sales,94,2017-04-01,2018-11-19,True,19.9
+419,Any Company,mar de 2013 – o momento,São Paulo/SP-Brazil,Sócio Executivo,94,2013-03-01,2018-11-19,True,69.63333333333334
+420,Any Company,fev de 2011 – fev de 2013,São Paulo/SP-Brazil,Coordenador de vendas,94,2011-02-01,2013-02-01,False,24.366666666666667
+421,Any Company,jun de 2010 – jan de 2011,São Paulo/SP-Brazil,Representante de vendas,94,2010-06-01,2011-01-01,False,7.133333333333334
+422,Any Company,jun de 2007 – jun de 2010,,Executivo de vendas,94,2007-06-01,2010-06-01,False,36.53333333333333
+423,Trojan Technologies,ago de 2017 – o momento,Belo Horizonte/MG-Brazil,Head Of Strategy,95,2017-08-01,2018-11-19,True,15.833333333333334
+424,Any Company,dez de 2016 – ago de 2017,São Paulo/SP-Brazil,Associate,95,2016-12-01,2017-08-01,False,8.1
+425,Any Company,jan de 2015 – dez de 2016,São Paulo/SP-Brazil,Business Analyst,95,2015-01-01,2016-12-01,False,23.333333333333332
+426,Any Company,mar de 2014 – dez de 2014,Belo Horizonte/MG-Brazil,Trainee,95,2014-03-01,2014-12-01,False,9.166666666666666
+427,Any Company,set de 2013 – fev de 2014,Aulnoye Aymeries-France,Expatriate Intern,95,2013-09-01,2014-02-01,False,5.1
+428,Trojan Technologies,jun de 2017 – o momento,,Business Developer + Product Manager,96,2017-06-01,2018-11-19,True,17.866666666666667
+429,Any Company,mai de 2017 – o momento,,Board Member,96,2017-05-01,2018-11-19,True,18.9
+430,Any Company,2012 – o momento,,Founder and CEO,96,2012-01-01,2018-11-19,True,83.8
+431,Any Company,2010 – jun de 2013,São Paulo/SP-Brazil,Co-founder & CTO | Brazil,96,2010-01-01,2013-06-01,False,41.56666666666667
+432,Any Company,set de 2009 – 2013,,Partner,96,2009-09-01,2013-01-01,False,40.6
+433,Trojan Technologies,mar de 2017 – o momento,São Paulo/SP-Brazil,Executivo Comercial Senior,97,2017-03-01,2018-11-19,True,20.933333333333334
+434,Any Company,fev de 2015 – mar de 2017,São Paulo/SP-Brazil,Senior Executive Account Manager,97,2015-02-01,2017-03-01,False,25.3
+435,Any Company,dez de 2013 – jan de 2015,Santo André/SP-Brazil,Consultor de vendas sênior,97,2013-12-01,2015-01-01,False,13.2
+436,Any Company,abr de 2011 – dez de 2013,São Paulo/SP-Brazil,Consultor de Vendas,97,2011-04-01,2013-12-01,False,32.5
+437,Any Company,jun de 2005 – jan de 2011,Dourados/MS-Brazil,Gerente comercial,97,2005-06-01,2011-01-01,False,68.0
+438,Trojan Technologies,mai de 2017 – o momento,,Inside Sales,98,2017-05-01,2018-11-19,True,18.9
+439,Any Company,abr de 2017 – jul de 2017,Belo Horizonte/MG-Brazil,Gerente de Estágios Profissionais Corporativos,98,2017-04-01,2017-07-01,False,3.033333333333333
+440,Any Company,2016 – abr de 2017,,President,98,2016-01-01,2017-04-01,False,15.2
+441,Any Company,2016 – 2017,,Research And Development Intern,98,2016-01-01,2017-01-01,False,12.2
+442,Any Company,dez de 2015 – ago de 2016,,Event Manager,98,2015-12-01,2016-08-01,False,8.133333333333333
+443,Trojan Technologies,2017 – o momento,Rio de Janeiro/RJ-Brazil,Gerente Regional Rio de Janeiro,99,2017-01-01,2018-11-19,True,22.9
+444,Any Company,jan de 2011 – o momento,,Coordenadora Comercial Regional,99,2011-01-01,2018-11-19,True,95.96666666666667
+445,Any Company,abr de 2006 – abr de 2011,,Manager,99,2006-04-01,2011-04-01,False,60.86666666666667
+446,Any Company,mar de 2005 – mar de 2006,,Manager,99,2005-03-01,2006-03-01,False,12.166666666666666
+447,Any Company,out de 1996 – fev de 2005,,Manager,99,1996-10-01,2005-02-01,False,101.5
+448,Trojan Technologies,mar de 2017 – o momento,São Paulo/SP-Brazil,Coordenador Comercial,100,2017-03-01,2018-11-19,True,20.933333333333334
+450,Any Company,jul de 2011 – o momento,São Paulo/SP-Brazil,Owner and founder,100,2011-07-01,2018-11-19,True,89.93333333333334
+452,Any Company,ago de 2015 – mar de 2017,São Paulo/SP-Brazil,Executivo Comercial | Commercial Executive | Hunter,100,2015-08-01,2017-03-01,False,19.266666666666666
+454,Any Company,ago de 2013 – ago de 2015,São Paulo/SP-Brazil,CEO & Co-founder (Startup MEDGEST),100,2013-08-01,2015-08-01,False,24.333333333333332
+455,Any Company,dez de 2012 – ago de 2013,São Paulo/SP-Brazil,Gerente de Negócios | Business Manager (Head of Sales | Startup MEDGEST),100,2012-12-01,2013-08-01,False,8.1
+456,Trojan Technologies,fev de 2017 – o momento,São Paulo/SP-Brazil,Gerente comercial Sao Paulo,101,2017-02-01,2018-11-19,True,21.866666666666667
+457,Any Company,set de 2015 – o momento,,City Manager Senior,101,2015-09-01,2018-11-19,True,39.166666666666664
+458,Any Company,out de 2013 – o momento,,"City Manager SP Zona N/L, Alphaville e Grande ABC",101,2013-10-01,2018-11-19,True,62.5
+459,Any Company,ago de 2013 – nov de 2013,,Supervisor Comercial,101,2013-08-01,2013-11-01,False,3.066666666666667
+460,Any Company,jan de 2011 – set de 2013,,Executivo de Contas Sênior,101,2011-01-01,2013-09-01,False,32.46666666666667
+461,Trojan Technologies,fev de 2017 – o momento,São Paulo/SP-Brazil,Executiva de Contas,102,2017-02-01,2018-11-19,True,21.866666666666667
+462,Any Company,jun de 2014 – fev de 2017,São Paulo/SP-Brazil,Executiva de Contas Hunter,102,2014-06-01,2017-02-01,False,32.53333333333333
+463,Any Company,jan de 2013 – out de 2014,Santo André/SP-Brazil,Corretor imobiliário,102,2013-01-01,2014-10-01,False,21.266666666666666
+464,Any Company,dez de 2008 – dez de 2012,São Bernardo do Campo/SP-Brazil,Administrador de clínica médica,102,2008-12-01,2012-12-01,False,48.7
+465,Trojan Technologies,2017 – o momento,Brasília/DF-Brazil,Gerente Comercial e Operações Regional Centro-Oeste,103,2017-01-01,2018-11-19,True,22.9
+466,Any Company,mai de 2011 – mar de 2017,Brasília/DF-Brazil,Executiva de Contas,103,2011-05-01,2017-03-01,False,71.03333333333333
+467,Any Company,out de 2010 – mai de 2011,Santa Catarina,Executiva de Contas,103,2010-10-01,2011-05-01,False,7.066666666666666
+468,Any Company,dez de 2005 – nov de 2010,Brasília/DF-Brazil,Gerente Comercial,103,2005-12-01,2010-11-01,False,59.86666666666667
+469,Any Company,dez de 2008 – jul de 2009,Balneário Camboriú/SC-Brazil,Diretora de TV - Programa Atitude Positiva - Produção independente,103,2008-12-01,2009-07-01,False,7.066666666666666
+470,Trojan Technologies,mar de 2017 – o momento,São Paulo/SP-Brazil,Sales Executive,104,2017-03-01,2018-11-19,True,20.933333333333334
+471,Any Company,ago de 2015 – ago de 2016,São Paulo/SP-Brazil,Especialista de Planejamento,104,2015-08-01,2016-08-01,False,12.2
+472,Any Company,mai de 2015 – ago de 2015,São Paulo/SP-Brazil,Especialista de Planejamento,104,2015-05-01,2015-08-01,False,3.066666666666667
+473,Any Company,abr de 2010 – mai de 2015,,Consultor,104,2010-04-01,2015-05-01,False,61.86666666666667
+474,Any Company,jan de 2007 – mar de 2007,West Palm Beach/FL-United State,Vendedor,104,2007-01-01,2007-03-01,False,1.9666666666666666
+475,Trojan Technologies,jul de 2017 – o momento,Manaus/AM-Brazil,Software Architect,105,2017-07-01,2018-11-19,True,16.866666666666667
+476,Any Company,set de 2013 – jul de 2017,Manaus/AM-Brazil,System Analyst,105,2013-09-01,2017-07-01,False,46.63333333333333
+477,Any Company,abr de 2011 – ago de 2013,Manaus/AM-Brazil,Analista Desenvolvedor,105,2011-04-01,2013-08-01,False,28.433333333333334
+478,Any Company,nov de 2008 – mai de 2010,,Web Developer,105,2008-11-01,2010-05-01,False,18.2
+479,Any Company,2010 – 2010,,Developer,105,2010-01-01,2010-01-01,False,0.0
+480,Trojan Technologies,mar de 2017 – o momento,São Paulo/SP-Brazil,Executivo de vendas,106,2017-03-01,2018-11-19,True,20.933333333333334
+481,Any Company,jun de 2016 – fev de 2017,São Paulo/SP-Brazil,Executive Sales,106,2016-06-01,2017-02-01,False,8.166666666666666
+482,Any Company,jan de 2014 – jan de 2015,,Coordenadora de operações,106,2014-01-01,2015-01-01,False,12.166666666666666
+483,Any Company,mai de 2010 – mar de 2014,,Large Accounts Supervisor,106,2010-05-01,2014-03-01,False,46.666666666666664
+484,Any Company,mai de 2009 – mai de 2010,São Paulo/SP-Brazil,Executive Sales,106,2009-05-01,2010-05-01,False,12.166666666666666
+485,Trojan Technologies,jun de 2017 – o momento,São Paulo/SP-Brazil,Analista de marketing,107,2017-06-01,2018-11-19,True,17.866666666666667
+486,Trojan Technologies,abr de 2017 – jun de 2017,São Paulo/SP-Brazil,Estagiário,107,2017-04-01,2017-06-01,False,2.033333333333333
+487,Any Company,nov de 2016 – abr de 2017,São Paulo/SP-Brazil,Assistente de vendas,107,2016-11-01,2017-04-01,False,5.033333333333333
+488,Any Company,out de 2015 – jun de 2016,,Analista de Relacionamento com Parceiros - Pleno,107,2015-10-01,2016-06-01,False,8.133333333333333
+489,Any Company,fev de 2015 – set de 2015,,Analista de Relacionamento com Parceiros - Júnior,107,2015-02-01,2015-09-01,False,7.066666666666666
+491,Trojan Technologies,mar de 2017 – o momento,Porto Alegre/RS-Brazil,Gerente Regional Sul,109,2017-03-01,2018-11-19,True,20.933333333333334
+492,Any Company,nov de 2016 – mar de 2017,Porto Alegre/RS-Brazil,Regional Manager,109,2016-11-01,2017-03-01,False,4.0
+493,Any Company,jan de 2016 – nov de 2016,Porto Alegre/RS-Brazil,Head of Inside Sales Latam,109,2016-01-01,2016-11-01,False,10.166666666666666
+494,Any Company,out de 2014 – jan de 2016,Chile y Peru,Gerente General,109,2014-10-01,2016-01-01,False,15.233333333333333
+495,Any Company,jun de 2013 – out de 2014,,Country Manager - Chile - CL,109,2013-06-01,2014-10-01,False,16.233333333333334
+496,Trojan Technologies,fev de 2017 – o momento,,Software Developer,110,2017-02-01,2018-11-19,True,21.866666666666667

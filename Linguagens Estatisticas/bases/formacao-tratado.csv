@@ -1,0 +1,221 @@
+,date,degree,major,school,perfil_id,inicio,fim,duracao,grau,area
+0,2016 – 2016,"Executive Education, Innovation & Entrepreneurship",,Stanford University,0,2016,2016,0,3,Administração
+1,2007 – 2010,Economics,Economics,UFMG,0,2007,2010,3,3,Economia
+2,2015 – 2015,Master of Business Administration (MBA),Gestão de Negócios,Centro Universitário Newton Paiva,1,2015,2015,0,4,Administração
+3,2009 – 2012,Bacharel em Design de Ambientes,Design de Interiores,Universidade do Estado de Minas Gerais,1,2009,2012,3,3,Design
+4,2016 – 2019,Bachelor’s Degree,Computer Technology/Computer Systems Technology,UFMG,2,2016,2019,3,3,TI
+5,2013 – 2015,Technician,"Informatics, COLTEC",UFMG,2,2013,2015,2,2,TI
+6,2014 – 2019,Engenharia de Produção Civil,,Centro Federal de Educação Tecnológica de Minas Gerais,3,2014,2019,5,3,Engenharia
+7,2011 – 2016,Bachelor of Science (B.S.),Chemical Engineering,UFMG,4,2011,2016,5,3,Engenharia
+8,2015 – 2015,Bachelor of Science (B.S.),Chemical Engineering,California State University-Long Beach,4,2015,2015,0,3,Engenharia
+9,2011 – 2011,Pós Graduação em Gestão Estratégica de Negócios,Economia e Gestão Empresarial,Universidade FUMEC,5,2011,2011,0,4,Administração
+10,2006 – 2009,Bacharel em Publicidade e Propaganda,Publicidade,Uni-BH,5,2006,2009,3,3,Marketing
+11,1992 – 1998,Master's Degree,Information Retrieval,UFMG,6,1992,1998,6,5,TI
+12,2016 – 2019,Cursando administração,Administração de Empresas,FEAD,7,2016,2019,3,3,Administração
+13,2016 – 2016,,Innovation & Entrepreneurship,Stanford University,8,2016,2016,0,3,Administração
+14,2007 – 2009,,Economia,UFMG,8,2007,2009,2,3,Economia
+15,2007 – 2009,,Direito,Universidade FUMEC,8,2007,2009,2,3,Direito
+16,2013 – 2013,Master of Business Administration (MBA),Gestão Estratégica de Negócios,Uni-BH,9,2013,2013,0,4,Administração
+17,2008 – 2012,Bacharel,Ciências Atuariais,PUC Minas,9,2008,2012,4,3,Outros
+18,2008 – 2018,Bacharelado em Engenharia,Engenharia Mecânica,PUC Minas,10,2008,2018,10,3,Engenharia
+19,2005 – 2007,Técnico,Informática Gerencial,COTEMIG,10,2005,2007,2,2,TI
+20,2013 – 2017,Comunicação Social - Publicidade e Propaganda,Comunicação Aplicada,UFMG,11,2013,2017,4,3,Marketing
+21,2002 – 2012,Ensino Médio,,Colégio Santo Agostinho,11,2002,2012,10,1,Outros
+22,2013 – 2018,Graduação em Engenharia,Management Engineering,UFMG,12,2013,2018,5,3,Engenharia
+23,2002 – 2012,,,Colégio Santo Antônio,12,2002,2012,10,1,Outros
+24,2015 – 2019,,Comunicação Social - Publicidade,UFMG,13,2015,2019,4,3,Marketing
+25,2008 – 2014,Bachelor's Degree,Metallurgical Engineering,UFMG,14,2008,2014,6,3,Engenharia
+26,2015 – 2015,Business Specialist,Business,Business Training Company,14,2015,2015,0,4,Administração
+27,1990 – 1994,Administração em Comércio Exterior,Administração de Empresas,Centro Universitário UNA,15,1990,1994,4,3,Administração
+28,1990 – 1994,Bacharelado em Administração,,Centro Universitário UNA,15,1990,1994,4,3,Administração
+29,2008 – 2013,Bacharel em Ciências Econômicas,Economics,Universidade Federal de Viçosa,16,2008,2013,5,3,Economia
+30,2013 – 2015,Master of Business Administration (MBA),Project Management,Fundacao Getulio Vargas,16,2013,2015,2,4,Administração
+31,2011 – 2011,Bachelor's degree,Economics,University of West Florida,16,2011,2011,0,3,Economia
+32,2013 – 2017,Bachelor's Degree,Industrial and Product Design,Universidade do Estado de Minas Gerais,17,2013,2017,4,3,Design
+33,2014 – 2015,Study Abroad,Industrial and Product Design,University of Limerick,17,2014,2015,1,3,Design
+34,2017 – 2019,Master of Business Administration - MBA,Business Management,Ibmec,18,2017,2019,2,4,Administração
+35,2013 – 2017,Bacharelado em Comunicação Social ênfase em Relações Públicas,Comunicação Social e Economia,UFMG,18,2013,2017,4,3,Marketing
+36,2014 – 2018,,Engenharia de Produção,Uni-BH,19,2014,2018,4,3,Engenharia
+37,2015 – 2018,Ciências Econômicas,,PUC Minas,20,2015,2018,3,3,Outros
+38,2001 – 2014,Ensino Primário ao Ensino Médio,,Colégio Santo Agostinho,20,2001,2014,13,1,Outros
+39,2014 – 2014,Loyola Intensive English Program - Summer 2014,,Loyola University New Orleans,21,2014,2014,0,3,Engenharia
+40,2008 – 2012,Bachelor's degree,Engenharia Civil,Universidade FUMEC,21,2008,2012,4,3,Engenharia
+41,2015 – 2016,Master of Business Administration (MBA),Gestão de Projetos,Uni-BH,22,2015,2016,1,4,Administração
+42,2011 – 2014,Bacharel - Publicidade e Propaganda,Comunicação,Uni-BH,22,2011,2014,3,3,Marketing
+43,2003 – 2005,Ensino médio,,Escola Estadual Presidente Tancredo Neves,22,2003,2005,2,1,Outros
+44,2014 – 2019,Bacharelado em Engenharia,"Engenharia Aeroespacial, Aeronáutica e Astronáutica",UFMG,23,2014,2019,5,3,Engenharia
+45,2013 – 2015,Mestrado,Ciência da Computação,UFMG,24,2013,2015,2,5,TI
+46,2006 – 2011,Bacharelado,Ciência da Computação,UFMG,24,2006,2011,5,3,TI
+47,2002 – 2004,Técnico,Informática Industrial,Centro Federal de Educação Tecnológica de Minas Gerais,24,2002,2004,2,2,Controle e Automação
+48,2014 – 2019,Bacharelado,"Mecatrônica, Robótica e Engenharia de Controle e Automação",UFMG,25,2014,2019,5,3,Engenharia
+49,2014 – 2018,"Bacharelado em Comunicação Social, Publicidade e Propaganda",,PUC Minas,26,2014,2018,4,3,Marketing
+50,2014 – 2018,Bacharelado em Comunicação Social - Publicidade e Propaganda,Comunicação,UFMG,27,2014,2018,4,3,Marketing
+51,2012 – 2013,"Bacharel, jornalismo",Comunicação e Jornalismo,UFMG,28,2012,2013,1,3,Marketing
+52,2010 – 2011,Bacharel,Jornalismo,Universidade do Porto,28,2010,2011,1,3,Jornalismo
+53,2006 – 2011,Bachelor of Comunication,Public Relations/Image Management,UFMG,28,2006,2011,5,3,Marketing
+54,2009 – 2011,Masters,Computer Science,Universidade Federal do Amazonas,29,2009,2011,2,5,TI
+55,2001 – 2004,College,Computer Science,Universidade Federal do Amazonas,29,2001,2004,3,3,TI
+56,2000 – 2000,,,Colegio Militar de Manaus,29,2000,2000,0,1,Outros
+57,2014 – 2020,,Engenharia Mecânica,UFMG,30,2014,2020,6,3,Engenharia
+58,2008 – 2012,Bachelor,Computer Science,Universidade Federal de Juiz de Fora,31,2008,2012,4,3,TI
+59,2006 – 2008,Technical,Industrial Informatics,"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas",31,2006,2008,2,2,Controle e Automação
+60,2009 – 2011,2011,Administração,Universidade Estácio de Sá,32,2009,2011,2,3,Administração
+61,2007 – 2008,Post-graduate,Interaction Design,PUC Minas,33,2007,2008,1,4,Design
+62,1994 – 1998,Bachelor,Engineering,Escola de Engenharia Kennedy,33,1994,1998,4,3,Engenharia
+63,1991 – 1993,High School / Technical School,Information technology,Colégio Brasileiro,33,1991,1993,2,2,TI
+64,2010 – 2013,Master of Science (MSc),Distributed Systems,Universidade Federal de Pernambuco,34,2010,2013,3,5,Outros
+65,2004 – 2008,Bachelor of Science (B.Sc.),,Universidade Federal de Pernambuco,34,2004,2008,4,3,Outros
+66,,,,andre guedes,34,1,1,0,1,Outros
+67,2005 – 2009,Master,"Computer Science, Parallel Programing, Compilers",UFMG,35,2005,2009,4,5,TI
+68,2001 – 2004,Bachelor,Computer Science,UFMG,35,2001,2004,3,3,TI
+69,2014 – 2018,Bachelor of Industrial Engineering,,UFMG,36,2014,2018,4,3,Engenharia
+70,2016 – 2016,"Minor, International Financial Management",Finance and Accounting,Hogeschool van Amsterdam,36,2016,2016,0,3,Finanças
+71,2015 – 2016,"Minor, Business Process Integration Management",Business and SAP,Hogeschool van Amsterdam,36,2015,2016,1,3,Administração
+72,2008 – 2012,Bacharel em Sistemas de Informação,Sistemas de Informação,Colégio Cotemig,37,2008,2012,4,3,TI
+73,2011 – 2014,Graduação em Sistemas de Informação,Tecnologia da Informação,Faculdade Católica Salesiana do Espírito Santo,38,2011,2014,3,3,TI
+74,2016 – 2017,Pós Graduação em Ciência de Dados e Big Data,Data Science/Big Data,PUC Minas,39,2016,2017,1,4,Data Science
+75,2013,MBA em Consultoria Organizacional,Consultoria Organizacional,Centro Universitário UNA,39,1,1,0,4,Consultoria
+76,2012,Especialista em Gastronomia (Cozinheiro profissional),Culinary Arts/Chef Training,IGA - Instituto gastronomico argentino,39,1,1,0,4,Artes
+77,2015 – 2016,Pós Graduação em Design de Interação,Design de Interação,PUC Minas,40,2015,2016,1,4,Design
+78,2009 – 2014,Bacharel,Ciência da Computação,UFMG,40,2009,2014,5,3,TI
+79,2013 – 2017,Bacharelado em Administração,Administração de Empresas,Fundação Getulio Vargas,41,2013,2017,4,3,Administração
+80,2015 – 2015,Curso tecnico,Business e Marketing,Bridge Business College,41,2015,2015,0,2,Marketing
+81,2012 – 2016,Bachelor of Business Administration (B.B.A.),Administração de Empresas,Centro Federal de Educação Tecnológica de Minas Gerais,42,2012,2016,4,3,Administração
+82,2009 – 2012,Turismo e Lazer,Tourism and Travel Services Management,Centro Federal de Educação Tecnológica de Minas Gerais,42,2009,2012,3,3,Turismo
+83,2017 – 2017,Especialização,Planejamento e Conteúdo para Redes Sociais e Mídias Digitais,PUC Minas,42,2017,2017,0,4,Marketing
+84,2010 – 2014,Ciências Econômicas com Ênfase em Controladoria,Finanças e Controladoria,Universidade Federal de Alfenas,43,2010,2014,4,3,Finanças
+85,2010 – 2014,Ciências Econômicas com Ênfase em Controladoria,,Universidade Federal de Alfenas,43,2010,2014,4,3,Outros
+86,2006 – 2009,Technologist in,Internet Information Systems,Faculdade Pitágoras,44,2006,2009,3,2,TI
+87,2015,Bacharelado em Sistemas de Informação,,Universidade Federal do Amazonas,45,1,1,0,3,Outros
+88,2011 – 2013,Técnico em Informática,Tecnologia da Informação,"IFAM - Instituto Federal de Educação, Ciência e Técnologia do Amazonas",45,2011,2013,2,2,TI
+89,2012 – 2017,Bachelor’s Degree,Computer Software Engineering,Universidade Federal do Amazonas,46,2012,2017,5,3,Engenharia
+90,2014 – 2015,Non-degree Student,Computer Science,Kent State University,46,2014,2015,1,3,TI
+91,2015,Interniship,Computer Systems Networking and Telecommunications,The Catholic University of America,46,1,1,0,3,TI
+92,2011 – 2016,Psicologia,,UFMG,47,2011,2016,5,3,Outros
+93,1998 – 2009,,,Colégio Santo Antônio,47,1998,2009,11,1,Outros
+94,2007 – 2011,Psicóloga,Psicologia,Universidade Federal de Santa Catarina,48,2007,2011,4,3,RH
+95,2016 – 2017,Pós-graduação,Direito do Trabalho e Processo Trabalhista,UNINTER Centro Universitário Internacional,48,2016,2017,1,3,Direito
+96,2013 – 2015,Pós-Graduação,Psicanálise,Escola Brasileira de Psicanálise,48,2013,2015,2,3,RH
+97,2008 – 2011,Especialista,Design de Interação,PUC Minas,49,2008,2011,3,4,Design
+98,2002 – 2005,Engenharia da Computação,,Instituto de Estudos Superiores da Amazônia,49,2002,2005,3,3,Engenharia
+99,2012 – 2013,Master of Business Administration (MBA),Marketing,Fundação Getulio Vargas,50,2012,2013,1,4,Marketing
+100,2006 – 2011,Administracao de Empresas,,Universidade Federal Fluminense,50,2006,2011,5,3,Administração
+101,2006 – 2010,bacharelado,Ciências econômicas,UFMG,51,2006,2010,4,3,Economia
+102,,,,Marista,51,1,1,0,1,Outros
+103,2011 – 2015,Bachelor's degree,Information Technology,PUC Minas,52,2011,2015,4,3,TI
+104,2006 – 2008,Técnico em Informática,Ciências da Computação e Informática,Colégio COTEMIG,52,2006,2008,2,2,TI
+105,2006 – 2006,,,ETFG,52,2006,2006,0,1,Outros
+106,2013 – 2017,Comunicação Social - Publicidade e Propaganda,,UFMG,53,2013,2017,4,3,Marketing
+107,2008 – 2011,Bachelor of Business Administration (BBA),,Universidade Vale do Rio Doce,54,2008,2011,3,3,Administração
+108,2014 – 2017,Bacharel em Publicidade,,UFMG,55,2014,2017,3,3,Marketing
+109,1998 – 2012,,,Colégio Piracicabano,55,1998,2012,14,1,Outros
+110,2015 – 2018,Bacharelado,Comunicação Social (Publicidade e Propaganda),UFMG,56,2015,2018,3,3,Marketing
+111,2011 – 2013,Ensino Médio e Técnico em Eletrônica,,Colégio Técnico Industrial - Prof. Isaac Portal Roldán,56,2011,2013,2,2,Outros
+112,2012 – 2015,Tecnólogo em Analise e Desenvolvimento de Sistemas,Tecnologia da Informação,Faculdade Cotemig,57,2012,2015,3,3,TI
+113,2016 – 2020,Psicologia,,Centro Universitário Newton Paiva,58,2016,2020,4,3,Outros
+114,2015 – 2016,Psicologia,,Universidade Salgado de Oliveira,58,2015,2016,1,3,Outros
+115,2012 – 2013,Help Desk,,SENAC MG,58,2012,2013,1,1,Outros
+116,2015 – 2019,,Contabilidade,UFMG,59,2015,2019,4,3,Finanças
+117,2002 – 2014,,,Colégio Santo Agostinho,59,2002,2014,12,1,Outros
+118,2007 – 2008,Graduate,Interaction Design,PUC Minas,60,2007,2008,1,3,Design
+119,2000 – 2005,Under Graduate,Fine Arts,UFMG,60,2000,2005,5,3,Artes
+120,2010 – 2016,Bachelor's Degree,Chemical Engineering,UFMG,61,2010,2016,6,3,Engenharia
+121,2015 – 2016,Bachelor's Degree,Chemical Engineering,University of Connecticut,61,2015,2016,1,3,Engenharia
+122,2015 – 2016,Marketing Estratégico,,IEC - Instituto de Educação Continuada PUC Minas,62,2015,2016,1,1,Outros
+123,2011 – 2015,Publicidade e Propaganda,,PUC Minas,62,2011,2015,4,3,Marketing
+124,2017 – 2021,Sistemas de Informação,Ciências Exatas e da Terra,Universidade Estácio de Sá,63,2017,2021,4,3,Outros
+125,2014 – 2014,International Business Management,Business Administration,Caldwell Community College and Technical Institute,63,2014,2014,0,1,Administração
+126,2013 – 2014,Pós em Engenharia de Sotware,Ciências Exatas e da Terra,ÚNICA - Escola de Negócios,63,2013,2014,1,3,Engenharia
+127,2008 – 2012,Licenciatura em História,História,UFMG,64,2008,2012,4,3,Outros
+128,2013 – 2014,Pós Graduação,Gestão Estratégica de Pessoas,Faculdade Senac Minas,64,2013,2014,1,4,Administração
+129,2016 – 2017,People Management Specialization,Human Resources Management and Services,PUC Minas,65,2016,2017,1,4,Outros
+130,2006 – 2011,Bachelor's degree,Computer Science,Universidade Federal de Juiz de Fora,65,2006,2011,5,3,TI
+131,2010 – 2011,Pós-Graduação,Análise Financeira,Universidade Cândido Mendes,66,2010,2011,1,3,Finanças
+132,2005 – 2009,Graduação,Publicidade e Propaganda,Centro Universitário de Belo Horizonte - UNI-BH,66,2005,2009,4,3,Marketing
+133,2015 – 2016,Pós-Graduação em Comunicação Digital,,PUC Minas,67,2015,2016,1,3,Marketing
+134,2011 – 2014,,Publicidade e Propaganda,Uni-BH,67,2011,2014,3,3,Marketing
+135,2008 – 2011,"Bachelor of Science (B.S.), Economics",,Fundação Getulio Vargas,68,2008,2011,3,3,Economia
+136,2002 – 2007,,,Loyola,68,2002,2007,5,1,Outros
+137,2007 – 2010,,Propaganda e Marketing,Universidade Paulista,69,2007,2010,3,3,Marketing
+138,2015 – 2019,Bacharelado,Gestão de Sistemas de Informação,Centro Universitário UNA,70,2015,2019,4,3,Administração
+139,2013 – 2014,Tecnico,"Mecatrônica, Robótica e Engenharia de Controle e Automação",Polimig,70,2013,2014,1,1,Engenharia
+140,2015 – 2019,,,UFMG,71,2015,2019,4,3,Outros
+141,2015 – 2019,,Comunicação Social,UFMG,71,2015,2019,4,3,Marketing
+142,2004 – 2009,Bacharel em Propaganda e Marketing,Marketing,Facamp,72,2004,2009,5,3,Marketing
+143,2009,Graduação em Filmmaking,Direção Cinematográfica,Academia Internacional de Cinema,72,1,1,0,3,Outros
+144,2013 – 2016,Bacharelado,Sistemas de Informação,Universidade Federal do Amazonas,73,2013,2016,3,3,TI
+145,2006 – 2010,Bachelor of Business Administration (BBA),"Business Administration and Management, General",PUC-SP,74,2006,2010,4,3,Administração
+146,,,,,74,1,1,0,1,Outros
+147,2000 – 2003,Graduação,Administração de Empresas,Universidade FUMEC,75,2000,2003,3,3,Administração
+148,2008 – 2008,MBA Latu Sensu,Gestão Empresarial,Faculdade Pitágoras,75,2008,2008,0,4,Administração
+149,2016 – 2017,Master of Business Administration (MBA),Gestão Estratégica de Negócios,"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",76,2016,2017,1,4,Administração
+150,2013 – 2015,Graduação,Gestão de Produção Industrial,Universidade Vale do Rio Verde,76,2013,2015,2,3,Administração
+151,2013 – 2015,Marketing,"Vendas, Merchandising e Marketing",Universidade de Santo Amaro,77,2013,2015,2,3,Marketing
+152,2014 – 2014,Google AdWords Fundamentals,Marketing,Gawa,77,2014,2014,0,1,Marketing
+153,2014 – 2014,Analise Google Analytics,Marketing,Gawa,77,2014,2014,0,1,Marketing
+154,2004 – 2008,Bacharel,Publicidade e Propaganda,Universidade Presbiteriana Mackenzie,78,2004,2008,4,3,Marketing
+155,2011 – 2013,Master's degree,Informatics,Universidade Federal do Amazonas,79,2011,2013,2,5,TI
+156,2006 – 2010,B.S. in Computer Science,Information Technology,Faculdade FUCAPI,79,2006,2010,4,1,TI
+157,2008 – 2013,Bacharel em Engenharia da Computação,,Universidade Federal do Amazonas,80,2008,2013,5,3,Engenharia
+158,2012 – 2013,Specialization: Computation Statistics and Data Analysis,,Universidade Federal de Juiz de Fora,81,2012,2013,1,4,TI
+159,2008 – 2013,Bachelor of Business Administration (B.B.A.),Corporate Finance,Universidade Federal de Juiz de Fora,81,2008,2013,5,3,Finanças
+160,2010 – 2011,Bachelor of Business Administration (B.B.A.),Exchange Program,Universidade da Beira Interior,81,2010,2011,1,3,Administração
+161,2013 – 2017,bacharelado em Sistemas de Informação,Tecnologia da Informação,Universidade Federal do Amazonas,82,2013,2017,4,3,TI
+162,2010 – 2013,Técnico de Nível médio integrado em informática,Foco em desenvolvimento de sistemas,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",82,2010,2013,3,2,Outros
+163,2013 – 2016,Bacharelado em Ciência da Computação,Ciência da Computação,Ufam,83,2013,2016,3,3,TI
+164,2010 – 2012,Ensino Médio Integrado ao Técnico,Informática,Fundacao Nokia de Ensino,83,2010,2012,2,2,TI
+165,2008 – 2012,Engenheiro de Computação,Processamento Digital de Imagens,Universidade do Estado do Amazonas - UEA,84,2008,2012,4,3,Engenharia
+166,2014 – 2019,Engenharia da Computação,,Fucapi,85,2014,2019,5,3,Engenharia
+167,2014 – 2016,Master in Informatics,Database and Information Retrieval,Universidade Federal do Amazonas,86,2014,2016,2,5,TI
+168,2008 – 2013,Technologist in Data Processing,Data Processing,Amazonas State University - UEA,86,2008,2013,5,2,Data Science
+169,2011 – 2016,Bacharelado em Engenharia,Engenharia de Computação,Universidade Federal do Amazonas,87,2011,2016,5,3,Engenharia
+170,2014 – 2015,,Softwaretechnik,University of Stuttgart,87,2014,2015,1,3,Outros
+171,2014 – 2015,Interchange Student,,University of Stuttgart,87,2014,2015,1,3,Outros
+172,2013 – 2017,,Ciência da Computação,Universidade Federal do Amazonas,88,2013,2017,4,3,TI
+173,2010 – 2012,Técnico,Informática,Fundação Nokia,88,2010,2012,2,2,TI
+174,2017 – 2019,Bacharelado em Engenharia,"Mecatrônica, Robótica e Engenharia de Controle e Automação",UFMG,89,2017,2019,2,3,Engenharia
+175,2011 – 2016,Bacharelado em Engenharia,Engenharia Química,UFMG,89,2011,2016,5,3,Engenharia
+176,2002 – 2007,Bacharel em Sistemas de Informação,,PUC Minas,90,2002,2007,5,3,Outros
+177,1997 – 1999,Técnico em processamento de dados.,Desenvolvimento de Sistemas,Colégio Brasileiro,90,1997,1999,2,2,Outros
+178,2012,"Engenharia e Administração de Banco de Dados, Especialização",,UNICAMP - Universidade Estadual de Campinas,90,1,1,0,4,Engenharia
+179,2014 – 2014,Pós-Graduado,Marketing Digital e Mídias Sociais,Uni-BH,91,2014,2014,0,3,Marketing
+180,2009 – 2013,Bacharel em Comunicação Social Integrada,Relações Públicas/Gestão de Imagem,PUC Minas,91,2009,2013,4,3,Administração
+181,2011 – 2015,Comunicação Social - Publicidade e Propaganda,Publicidade e Propaganda,PUC Minas,92,2011,2015,4,3,Marketing
+182,,Processos Gerenciais,Tecnologia em Controle de Qualidade,Estácio de Sá,93,1,1,0,1,Outros
+183,,Ciência da Computação,Tecnologia da Informação,Universidade de Alfenas,93,1,1,0,3,TI
+184,2013 – 2014,Gestão de vendas e Negociação,,FIA - Fundação Instituto de Administração,94,2013,2014,1,1,Administração
+185,2006 – 2010,Bachelor of Business Administration (BBA),Business,PUC-SP,94,2006,2010,4,3,Administração
+186,2012 – 2012,,Marketing Digital,Ecommerce School,94,2012,2012,0,1,Marketing
+187,2009 – 2014,Bachelor's degree,Chemical Engineering,UFMG,95,2009,2014,5,3,Engenharia
+188,2011 – 2012,Bachelor's degree,Chemical Engineering,Universidade do Porto,95,2011,2012,1,3,Engenharia
+189,2006 – 2008,High School,High School,Colégio Santo Antônio,95,2006,2008,2,1,Outros
+190,2008 – 2011,Bachelor,Economics,PUC-SP,96,2008,2011,3,3,Economia
+191,2003 – 2008,Bachelor,Eletronic Engineer,PUC-SP,96,2003,2008,5,3,Engenharia
+192,,,,Lourenço Castanho,96,1,1,0,1,Outros
+193,2017 – 2017,Marketing Digital,Gestão de Marketing,Udacity Brasil,97,2017,2017,0,1,Marketing
+194,2013 – 2015,Comercio exterior,Negócios Internacionais e Comércio Exterior,Universidade do Grande ABC,97,2013,2015,2,3,Administração
+195,2005 – 2009,Bacharel,Publicidade e Propaganda,Centro Universitário da Grande Dourados,97,2005,2009,4,3,Marketing
+196,2013 – 2017,,Ingénierie des matériaux,Centro Federal de Educação Tecnológica de Minas Gerais,98,2013,2017,4,3,Outros
+197,2015,Master en ingénierie,Ingénierie des matériaux,Université catholique de Louvain,98,1,1,0,5,Outros
+198,2006 – 2008,MBA,Gestão Financeira e Contábil,Cedepe Business School,99,2006,2008,2,4,Administração
+199,2002 – 2003,Pós-Graduação,Comunicação Social,Esurp - Escola Superior de Relações Públicas,99,2002,2003,1,3,Marketing
+200,1997 – 2001,Graduação em Comunicação Social,Relações Públicas,Esurp - Escola Superior de Relações Públicas,99,1997,2001,4,3,Marketing
+201,2016 – 2017,MBA EM COMUNICAÇÃO E MARKETING,São Miguel,Universidade Cruzeiro do Sul,100,2016,2017,1,4,Outros
+202,2006 – 2008,Analise e Desenvolvimento de Sistemas,São Miguel,Universidade Cruzeiro do Sul,100,2006,2008,2,3,Outros
+203,2018,Psicologia,,Universidade Paulista,101,1,1,0,3,Outros
+204,,,,Universidade Paulista / UNIP,101,1,1,0,3,Outros
+205,2009 – 2012,Bacharelado em Administração de Empresas,Administração de Empresas,Anhanguera Educacional,102,2009,2012,3,3,Administração
+206,2011 – 2014,Bacharel em Administração de Empresas,,Universidade Católica de Brasília,103,2011,2014,3,3,Administração
+207,2015 – 2016,Pós Graduação,Marketing Digital e Mídias Sociais,UNICEUB - Brasília,103,2015,2016,1,4,Marketing
+208,2016 – 2017,Master’s Degree,"Business, Management, Marketing, and Related Support Services",Nova School of Business and Economics,104,2016,2017,1,5,Marketing
+209,2015 – 2016,Master’s Degree,"Business, Management, Marketing, and Related Support Services",Insper,104,2015,2016,1,5,Marketing
+210,2006 – 2011,Bachelor of Engineering (B.E.),Engineering/Industrial Management,Universidade Presbiteriana Mackenzie,104,2006,2011,5,3,Engenharia
+211,2006 – 2010,Bacherelando,Ciência da Computação,Instituto de Ensino Superior Fucapi,105,2006,2010,4,1,TI
+212,2015 – 2017,Gestão Comercial,Gestão Comercial,Universidade Anhembi Morumbi,106,2015,2017,2,3,Administração
+213,2016 – 2020,,Administração de Empresas,Centro Universitário Nove de Julho,107,2016,2020,4,3,Administração
+214,1991 – 2000,Graduação,Direito,Faculdade de direito UFPR,108,1991,2000,9,3,Direito
+215,2011 – 2012,Marketing Digital e Publicidade On Line,"Marketing Digital, Midias Socias",Marketing Digital- Claudio Torres,109,2011,2012,1,1,Marketing
+216,2009 – 2011,Analista de Sistemas,TI,FTEC,109,2009,2011,2,1,Outros
+217,1999 – 2006,Bacharel,Marketing,PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul,109,1999,2006,7,3,Marketing
+218,2014 – 2018,,Sistemas de Informação,Universidade Federal do Amazonas,110,2014,2018,4,3,TI
+219,2012 – 2014,Técnico em Informática,,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM",110,2012,2014,2,2,TI

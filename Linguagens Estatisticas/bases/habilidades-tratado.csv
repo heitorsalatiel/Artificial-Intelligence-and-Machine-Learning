@@ -1,0 +1,2178 @@
+,endorsement_count,name,perfil_id,area
+0,99,Empresas startups,0,Empreendedorismo e Inovação
+3,99,Empreendedorismo,0,Empreendedorismo e Inovação
+6,97,Start-ups,0,Empreendedorismo e Inovação
+9,73,Entrepreneurship,0,Empreendedorismo e Inovação
+10,75,New Business Development,0,Negócio
+11,67,Affiliate Marketing,0,Marketing
+12,67,Startup Development,0,Analista
+13,64,Online Advertising,0,Negócio
+14,71,Business Strategy,0,Gestão
+15,68,Comércio eletrônico,0,Negócio
+16,28,Growth Hacking,0,Negócio
+17,40,Affiliate Networks,0,Negócio
+18,36,SEO,0,Analista
+19,42,Online Lead Generation,0,Analista
+20,44,Business Intelligence,0,Negócio
+21,28,Stock Market Analysis,0,Negócio
+22,31,Trade Finance,0,Financeiro
+23,37,Finance,0,Financeiro
+24,31,Public Speaking,0,Retórica
+25,37,Google Analytics,0,Linguagens de Programação e AEDS
+26,22,Adobe Fireworks,0,Softwares
+27,24,Google Webmaster Tools,0,Linguagens de Programação e AEDS
+28,37,Desenvolvimento de novos negócios,0,Negócio
+29,49,Marketing afiliado,0,Marketing
+30,65,Publicidade online,0,Negócio
+31,36,Marketing digital,0,Marketing
+32,34,Marketing online,0,Marketing
+33,25,Marketing,0,Marketing
+34,22,Planejamento estratégico,0,Gestão
+35,25,SEO (Otimização de motores de busca),0,Analista
+36,22,Gestão,0,Gestão
+37,31,Estratégias de marketing,0,Gestão
+38,72,Estratégia empresarial,0,Gestão
+39,45,Planejamento estratégico,1,Gestão
+42,36,Gestão,1,Gestão
+44,34,Gestão de projetos,1,Gestão
+46,24,Liderança de equipe,1,Soft Skills
+47,21,Estratégia empresarial,1,Gestão
+48,18,Empreendedorismo,1,Empreendedorismo e Inovação
+49,15,Empresas startups,1,Empreendedorismo e Inovação
+50,12,Strategic Planning,1,Gestão
+51,10,Design de interiores,1,Design
+52,10,Start-ups,1,Empreendedorismo e Inovação
+53,10,Planejamento empresarial,1,Gestão
+54,8,Interior Design,1,Design
+55,8,Business Innovation,1,Empreendedorismo e Inovação
+56,8,Sistemas operacionais,1,Analista
+57,6,Management,1,Gestão
+58,6,Business Planning,1,Gestão
+59,4,Pesquisa,1,Negócio
+60,4,Estratégias de marketing,1,Gestão
+61,4,Marketing Strategy,1,Marketing
+62,4,Operating Systems,1,Analista
+63,4,Planejamento de projetos,1,Gestão
+64,4,Entrepreneurship,1,Empreendedorismo e Inovação
+65,3,Team Leadership,1,Gestão
+66,2,Research,1,Negócio
+67,2,Project Planning,1,Gestão
+68,0,Desenvolvimento de produtos,1,Analista
+69,11,Innovation,1,Empreendedorismo e Inovação
+70,1,Interior Lighting,1,Design
+71,8,JavaScript,2,Front End
+74,1,TypeScript,2,Front End
+76,1,Angular,2,Front End
+78,2,Node.js,2,Front End
+79,3,Git,2,Ferramenta de Versionamento de Software
+80,0,AWS,2,Computação em Nuvem
+81,7,HTML5,2,Front End
+82,1,React.js,2,Front End
+83,1,Redux,2,Front End
+84,6,AngularJS,2,Front End
+85,6,SASS,2,Front End
+86,6,CSS,2,Front End
+87,5,JQuery,2,Front End
+88,3,Material Design,2,Design
+89,4,Bootstrap,2,Front End
+90,3,Responsive Web Design,2,Design
+91,3,HTML,2,Front End
+92,2,User Experience,2,UX
+93,5,Web Development,2,Analista
+94,5,PHP,2,Back End
+95,2,WordPress,2,Front End
+96,2,OOP,2,Back End
+97,2,Scrum,2,Metodologias Gerenciemento de Software
+98,1,Databases,2,Banco de Dados e Web Services
+99,2,UML,2,Back End
+100,3,MySQL,2,Banco de Dados e Web Services
+101,2,MongoDB,2,Banco de Dados e Web Services
+102,2,Linux,2,SO
+103,2,Testing,2,Testing
+104,2,Jasmine Framework,2,Front End
+105,0,Karma,2,Softwares
+106,2,Google Analytics,2,Linguagens de Programação e AEDS
+107,2,SEO,2,Analista
+108,2,Subversion,2,Softwares
+109,2,AMP,2,Softwares
+110,2,RequireJS,2,Front End
+111,2,Software Development,2,Analista
+112,2,SQL,2,Banco de Dados e Web Services
+113,2,Socket.io,2,Web Services
+114,2,Gulp.js,2,Front End
+115,2,GruntJS,2,Front End
+116,1,Ionic Framework,2,Front End
+117,1,Apache Cordova,2,Softwares
+118,2,Algorithms,2,Linguagens de Programação e AEDS
+119,1,PhoneGap,2,Softwares
+120,0,Mustache,2,Softwares
+121,0,Handlebars.js,2,Softwares
+122,2,Net Promoter Score,3,Analista
+124,3,SQL,3,Banco de Dados e Web Services
+126,1,Marketing digital,3,Marketing
+128,1,Planejamento estratégico,3,Gestão
+129,1,Empreendedorismo,3,Empreendedorismo e Inovação
+130,1,Microsoft Office,3,Softwares
+131,1,AutoCAD,3,
+132,2,Engenharia,3,Engeharia
+133,2,Atendimento ao Cliente,3,Negócio
+134,13,Microsoft Office,4,Softwares
+137,13,English,4,Idioma
+140,12,Public Speaking,4,Retórica
+142,11,Strategic Planning,4,Gestão
+143,11,Project Management,4,Gestão
+144,9,Microsoft Word,4,Softwares
+145,9,Social Media,4,Marketing
+146,8,PowerPoint,4,Softwares
+147,8,Management,4,Gestão
+148,8,Leadership,4,Gestão
+149,1,Scilab,4,Softwares
+150,10,Business Strategy,5,Gestão
+153,9,Análise financeira,5,Financeiro
+155,9,Estratégia empresarial,5,Gestão
+158,9,Atendimento ao Cliente,5,Negócio
+159,8,Serviços bancários,5,Negócio
+160,8,Gestão de riscos,5,Gestão
+161,7,Microsoft Office,5,Softwares
+162,7,Planejamento empresarial,5,Gestão
+163,7,Planejamento estratégico,5,Gestão
+164,6,Project Management,5,Gestão
+165,6,Strategic Planning,5,Gestão
+166,5,Gestão de carteiras,5,Gestão
+167,5,Liderança de equipe,5,Soft Skills
+168,5,Liderança,5,Soft Skills
+169,5,Marketing,5,Marketing
+170,4,Marketing digital,5,Marketing
+171,4,Estratégias de marketing,5,Gestão
+172,3,Mercado de crédito,5,Negócio
+173,3,Negociação,5,Negócio
+174,3,Gestão de projetos,5,Gestão
+175,2,Microsoft Excel,5,Softwares
+176,2,Gestão,5,Gestão
+177,0,Marketing afiliado,5,Marketing
+178,0,Redes afiliadas,5,
+179,0,Marketing online,5,Marketing
+180,0,Experiência em marketing digital,5,
+181,0,WebTrends Analytics,5,Softwares
+182,0,Gestão comercial,5,Gestão
+183,0,Comércio eletrônico,5,Negócio
+184,23,Software Engineering,6,Engeharia
+187,18,Software Development,6,Analista
+190,11,MapReduce,6,Linguagens de Programação e AEDS
+193,10,Distributed Systems,6,Analista
+194,10,C++,6,Linguagens de Programação e AEDS
+195,9,Algorithms,6,Linguagens de Programação e AEDS
+196,8,Java,6,Back End
+197,8,Python,6,Back End
+198,7,Linux,6,SO
+199,3,Scrum,6,Metodologias Gerenciemento de Software
+200,3,Linguagem C,6,Linguagens de Programação e AEDS
+201,3,Git,6,Ferramenta de Versionamento de Software
+202,2,Software Design,6,Design
+203,2,Microsoft Office,6,Softwares
+204,2,Unix,6,Softwares
+205,1,Customer Service,6,Comercial
+206,1,Computer Science,6,Analista
+207,1,Microsoft Word,6,Softwares
+208,1,Subversion,6,Softwares
+209,1,PowerPoint,6,Softwares
+210,1,Scalability,6,Arquitetura de Software
+211,1,Microsoft Excel,6,Softwares
+212,0,Information Retrieval,6,Analista
+213,0,Microsoft Office,7,Softwares
+215,0,Microsoft Excel,7,Softwares
+217,0,Microsoft Word,7,Softwares
+219,0,Microsoft PowerPoint,7,Softwares
+220,0,Oratória,7,Retórica
+221,80,Estratégia empresarial,8,Gestão
+224,73,Empreendedorismo,8,Empreendedorismo e Inovação
+227,57,Business Strategy,8,Gestão
+230,52,Comércio eletrônico,8,Negócio
+231,50,E-commerce,8,Negócio
+232,47,Publicidade online,8,Negócio
+233,41,New Business Development,8,Negócio
+234,41,Business Planning,8,Gestão
+235,39,Marketing Strategy,8,Marketing
+236,38,Online Advertising,8,Negócio
+237,35,Estratégias de marketing,8,Gestão
+238,28,Empresas startups,8,Empreendedorismo e Inovação
+239,27,Affiliate Marketing,8,Marketing
+240,25,Affiliate Networks,8,Negócio
+241,25,Online Lead Generation,8,Analista
+242,23,Entrepreneurship,8,Empreendedorismo e Inovação
+243,22,Business Intelligence,8,Negócio
+244,22,Start-ups,8,Empreendedorismo e Inovação
+245,22,Planejamento empresarial,8,Gestão
+246,20,Angel Investing,8,Negócio
+247,19,Financial Analysis,8,Negócio
+248,18,Commerce,8,Negócio
+249,17,Start-up Environment,8,Empreendedorismo e Inovação
+250,17,Desenvolvimento de novos negócios,8,Negócio
+251,17,Planejamento estratégico,8,Gestão
+252,16,Business Valuation,8,Negócio
+253,16,Startup Development,8,Analista
+254,16,Startup Marketing,8,Marketing
+255,16,SEO (Otimização de motores de busca),8,Analista
+256,15,Trade Finance,8,Financeiro
+257,15,Estratégia,8,Gestão
+258,14,SEO,8,Analista
+259,14,Fusões e aquisições,8,Negócio
+260,14,Marketing digital,8,Marketing
+261,13,Stock Market Analysis,8,Negócio
+262,13,Marketing online,8,Marketing
+263,12,M&A experience,8,Negócio
+264,12,Stock Exchange,8,Negócio
+265,12,Análise financeira,8,Financeiro
+266,12,Digital Marketing,8,Marketing
+267,12,Online Marketing,8,Marketing
+268,11,Strategic Planning,8,Gestão
+269,10,Capital de risco,8,Negócio
+270,9,Business Development,8,Negócio
+271,9,Mergers & Acquisitions,8,Negócio
+272,8,Mergers,8,Negócio
+273,8,Venture Capital,8,Negócio
+274,15,Brazilian Laws,8,Direito
+275,12,Internet Entrepreneur,8,Empreendedorismo e Inovação
+276,12,Innovation,8,Empreendedorismo e Inovação
+277,21,Gestão de contas,9,Gestão
+279,17,Análise de dados,9,Data Science
+281,23,Comércio eletrônico,9,Negócio
+283,16,Marketing afiliado,9,Marketing
+284,17,Google Analytics,9,Linguagens de Programação e AEDS
+285,18,Marketing online,9,Marketing
+286,20,Mídias sociais,9,Marketing
+287,15,Marketing por e-mail,9,Marketing
+288,9,Resolução de problemas,9,Gestão
+289,13,E-commerce SEO,9,Negócio
+290,9,Comunicações de marketing,9,
+291,5,Banco de dados,9,Data Science
+292,8,Negociação de contratos,9,Negócio
+293,6,Implementação de pixel,9,Arquitetura de Software
+294,6,Soluções criativas,9,Gestão
+295,7,Atendimento ao Cliente,9,Negócio
+296,13,Microsoft Excel,9,Softwares
+297,7,Afiliação,9,Negócio
+298,14,Gestão,9,Gestão
+299,4,Investimentos,9,Negócio
+300,11,Microsoft Word,9,Softwares
+301,15,Marketing social,9,Marketing
+302,6,Desenvolvimento de novos negócios,9,Negócio
+303,6,Social Media,9,Marketing
+304,4,Revisão de texto,9,Retórica
+305,2,Análise de riscos,9,Negócio
+306,1,Satisfação do cliente,9,Comercial
+307,0,Seguros,9,Negócio
+308,0,Talento vocal,9,Design
+309,0,Edição de vídeo,9,Design
+310,1,Edição de imagens,9,Design
+311,0,Edição de áudio,9,Design
+312,4,Management,9,Gestão
+313,3,Strategic Planning,9,Gestão
+314,1,E-commerce,9,Negócio
+315,1,Social Media Marketing,9,Marketing
+316,4,Marketing Strategy,9,Marketing
+317,4,Marketing,9,Marketing
+318,2,Digital Marketing,9,Marketing
+319,1,Customer Service,9,Comercial
+320,1,Microsoft PowerPoint,9,Softwares
+321,1,New Business Development,9,Negócio
+322,0,Gestão de pessoal,9,Gestão
+323,3,Planejamento estratégico,9,Gestão
+324,4,Estratégias de marketing,9,Gestão
+325,3,Marketing digital,9,Marketing
+326,2,Business Development,9,Negócio
+327,10,Marketing digital,10,Marketing
+329,9,Inglês,10,Idioma
+331,9,Melhoria de processos empresariais,10,Gestão
+333,8,Seis Sigma,10,Gestão
+334,8,Gestão,10,Gestão
+335,8,Management,10,Gestão
+336,7,E-commerce SEO,10,Negócio
+337,6,JavaScript,10,Front End
+338,6,Melhoria de processos,10,Gestão
+339,5,Gestão Lean,10,Gestão
+340,5,Business Development,10,Negócio
+341,3,MySQL,10,Banco de Dados e Web Services
+342,3,Pensamento Lean,10,Gestão
+343,3,Ferramentas lean,10,Gestão
+344,2,PHP,10,Back End
+345,1,Planejamento estratégico,10,Gestão
+346,1,Desenvolvimento empresarial,10,Gestão
+347,1,Estratégia empresarial,10,Gestão
+348,28,Publicidade,11,Negócio
+351,29,Estratégias de marketing,11,Gestão
+354,9,Affiliation,11,Negócio
+356,15,Marketing Communications,11,Marketing
+357,13,Marketing digital,11,Marketing
+358,25,Mídias sociais,11,Marketing
+359,5,E-commerce SEO,11,Negócio
+360,20,Relações públicas,11,Negócio
+361,9,Estratégia digital,11,Gestão
+362,12,Publicidade online,11,Negócio
+363,3,Brand Development,11,Gestão
+364,6,Marketing por e-mail,11,Marketing
+365,24,Marketing,11,Marketing
+366,5,Liderança,11,Soft Skills
+367,4,Marketing direto,11,Marketing
+368,3,Melhoria de processos,11,Gestão
+369,4,Planejamento estratégico,11,Gestão
+370,1,Digital Strategy,11,Gestão
+371,8,Microsoft Excel,11,Softwares
+372,8,Marketing Strategy,11,Marketing
+373,1,E-commerce global,12,Negócio
+375,1,Sales Tracking,12,Comercial
+377,1,SQL,12,Banco de Dados e Web Services
+379,8,Engenharia de produção,12,Engeharia
+380,17,Gestão de projetos,12,Gestão
+381,8,Gestão empresarial,12,Gestão
+382,5,Gestão por indicadores,12,Gestão
+383,3,Gerenciamento de processos,12,Gestão
+384,9,Microsoft Excel,12,Softwares
+385,9,Inglês,12,Idioma
+386,10,Atendimento ao Cliente,13,Negócio
+388,13,Marketing,13,Marketing
+391,6,Gestão,13,Gestão
+393,8,Liderança,13,Soft Skills
+394,4,Oratória,13,Retórica
+395,5,Planejamento de eventos,13,Gestão
+396,7,Publicidade,13,Negócio
+397,1,Gestão de projetos,13,Gestão
+398,7,English,14,Idioma
+401,6,Negotiation,14,Negócio
+404,5,Team Leadership,14,Gestão
+406,4,Management,14,Gestão
+407,4,Engineering,14,Engeharia
+408,4,Marketing Strategy,14,Marketing
+409,3,Business Planning,14,Gestão
+410,1,Project Management,14,Gestão
+411,6,Microsoft Excel,16,Softwares
+413,6,English,16,Idioma
+415,4,Negotiation,16,Negócio
+417,4,Microsoft Office,16,Softwares
+418,3,Portuguese,16,Idioma
+419,3,Business Planning,16,Gestão
+420,3,Team Leadership,16,Gestão
+421,1,Strategic Planning,16,Gestão
+422,1,Business Strategy,16,Gestão
+423,1,Microsoft Word,16,Softwares
+424,1,PowerPoint,16,Softwares
+425,0,PDCA,16,Gestão
+426,0,SAP R/3,16,Gestão
+427,0,Spanish,16,Idioma
+428,0,Microsoft PowerPoint,16,Softwares
+429,3,English,17,Idioma
+431,2,Microsoft PowerPoint,17,Softwares
+433,2,Microsoft Office,17,Softwares
+435,2,SolidWorks,17,Softwares
+436,1,Sketching,17,Design
+437,1,Microsoft Excel,17,Softwares
+438,1,Engineering,17,Engeharia
+439,1,Microsoft Word,17,Softwares
+440,1,Product Design,17,Gestão
+441,1,Product Development,17,Gestão
+442,1,Teamwork,17,Gestão
+443,1,Living Abroad,17,Idioma
+444,2,Marketing,18,Marketing
+446,2,Relações públicas,18,Negócio
+448,2,Marketing comercial,18,Marketing
+450,1,Experiência do cliente,18,Comercial
+451,1,Gestão de equipes,18,Gestão
+452,1,Gestão de eventos,18,Gestão
+453,2,Microsoft Excel,19,Softwares
+456,2,Atendimento ao Cliente,19,Negócio
+458,1,Microsoft Office,19,Softwares
+460,0,Microsoft Project,19,Gestão
+461,0,Gestão,19,Gestão
+462,0,Microsoft PowerPoint,19,Softwares
+463,0,CEP (Controle estatístico de processos),19,Gestão
+464,1,Empreendedorismo,19,Empreendedorismo e Inovação
+465,0,Metrologia,19,Gestão
+466,0,CLP (Controlador lógico programável),19,Automação
+467,7,Microsoft Project,21,Gestão
+470,6,Liderança de equipe,21,Soft Skills
+472,6,Estratégia empresarial,21,Gestão
+475,5,Project Management,21,Gestão
+476,5,Inglês,21,Idioma
+477,5,Gestão de projetos,21,Gestão
+478,5,Negociação,21,Negócio
+479,4,Gestão,21,Gestão
+480,3,Gestão de obras,21,Gestão
+481,3,Management,21,Gestão
+482,3,Business Strategy,21,Gestão
+483,3,Planejamento de projetos,21,Gestão
+484,3,Engenharia civil,21,Engeharia
+485,3,Microsoft PowerPoint,21,Softwares
+486,3,Planejamento empresarial,21,Gestão
+487,3,Planejamento estratégico,21,Gestão
+488,3,Microsoft Word,21,Softwares
+489,3,Engenharia de projetos,21,Engeharia
+490,2,Sales Management,21,Gestão
+491,2,Estratégias de marketing,21,Gestão
+492,2,Gestão de contratos,21,Gestão
+493,10,Atendimento ao Cliente,22,Negócio
+495,8,Planejamento estratégico,22,Gestão
+497,7,Liderança,22,Soft Skills
+499,6,Organização de Eventos,22,Gestão
+500,5,Negociação,22,Negócio
+501,3,Microsoft Excel,22,Softwares
+502,3,Adobe Photoshop,22,Softwares
+503,3,Marketing,22,Marketing
+504,2,Formação de equipes,22,Gestão
+505,2,Adobe Illustrator,22,Design
+506,2,Marketing digital,22,Marketing
+507,1,Net Promoter Score,22,Analista
+508,3,Design gráfico,23,Design
+510,3,Marketing,23,Marketing
+512,2,Adobe Photoshop,23,Softwares
+514,1,Escrita,23,Retórica
+515,0,Adobe Illustrator,23,Design
+516,0,Ilustração,23,Design
+517,0,Adobe After Effects,23,Softwares
+518,1,Social Computing,24,Analista
+520,2,Data Analysis,24,Data Science
+522,1,Complex Networks,24,Analista
+524,2,Software Development,24,Analista
+525,1,Web Development,24,Analista
+526,1,Software Documentation,24,Analista
+527,1,Python,24,Back End
+528,1,Linguagem R,24,Linguagens de Programação e AEDS
+529,1,Ruby,24,Linguagens de Programação e AEDS
+530,1,C#,24,Back End
+531,1,PHP,24,Back End
+532,1,Linguagem C,24,Linguagens de Programação e AEDS
+533,2,C++,24,Linguagens de Programação e AEDS
+534,1,Ruby on Rails,24,Linguagens de Programação e AEDS
+535,1,.NET,24,Back End
+536,1,ASP.NET,24,Back End
+537,1,HTML,24,Front End
+538,1,CSS,24,Front End
+539,1,JavaScript,24,Front End
+540,1,JQuery,24,Front End
+541,1,XML,24,Web Services
+542,1,Git,24,Ferramenta de Versionamento de Software
+543,1,Web Hosting,24,Analista
+544,1,Infrastructure Management,24,Gestão
+545,1,Windows,24,Softwares
+546,1,Linux,24,SO
+547,1,MySQL,24,Banco de Dados e Web Services
+548,1,Microsoft SQL Server,24,Banco de Dados e Web Services
+549,1,Network Protocols,24,Analista
+550,1,Cloud Computing,24,Analista
+551,1,Customer Support,24,Comercial
+552,1,Teamwork,24,Gestão
+553,1,Fast Learning,24,Soft Skills
+554,1,Proactivity,24,Soft Skills
+555,2,.NET Framework,24,Front End
+556,48,Scrum,29,Metodologias Gerenciemento de Software
+559,43,Software Development,29,Analista
+562,33,Mobile Applications,29,Mobile
+565,2,Project Coordination,29,Gestão
+566,32,Android,29,Mobile
+567,31,Qt,29,Softwares
+568,21,Software Engineering,29,Engeharia
+569,18,Linguagem C,29,Linguagens de Programação e AEDS
+570,17,Java,29,Back End
+571,15,Open Source,29,Linguagens de Programação e AEDS
+572,17,C++,29,Linguagens de Programação e AEDS
+573,17,Git,29,Ferramenta de Versionamento de Software
+574,15,Linux,29,SO
+575,11,JavaScript,29,Front End
+576,8,UML,29,Back End
+577,5,Application Development,29,Analista
+578,8,Python,29,Back End
+579,6,Team Leadership,29,Gestão
+580,3,AJAX,29,Front End
+581,4,Computer Science,29,Analista
+582,7,Subversion,29,Softwares
+583,8,Design Patterns,29,Design
+584,3,WebKit,29,Analista
+585,3,Mozilla,29,Softwares
+586,3,JSON,29,Web Services
+587,3,Information Retrieval,29,Analista
+588,2,Maemo,29,Softwares
+589,2,OOP,29,Back End
+590,7,Agile Methodologies,29,Gestão
+591,1,GTK,29,Softwares
+592,1,Linux development,29,SO
+593,2,Mobile Devices,29,Mobile
+594,0,HTML/XML,29,Front End
+595,1,Data Extraction,29,Data Science
+596,0,Web Mining,29,Analista
+597,1,Product Development,29,Gestão
+598,1,Project Planning,29,Gestão
+599,1,Microsoft Project,29,Gestão
+600,4,Software Project Management,29,Gestão
+601,1,Project Estimation,29,Gestão
+602,0,Marketing digital,30,Marketing
+604,0,Desenho mecânico,30,Design
+606,0,SolidWorks,30,Softwares
+608,0,Microsoft Project,30,Gestão
+609,31,JavaScript,31,Front End
+612,9,Node.js,31,Front End
+615,28,PHP,31,Back End
+618,29,MySQL,31,Banco de Dados e Web Services
+619,0,React.js,31,Front End
+620,0,Python,31,Back End
+621,0,Docker,31,Banco de Dados e Web Services
+622,21,HTML,31,Front End
+623,4,SASS,31,Front End
+624,25,jQuery,31,Front End
+625,22,CSS,31,Front End
+626,1,Git,31,Ferramenta de Versionamento de Software
+627,16,Web Design,31,Design
+628,0,WebRTC,31,Softwares
+629,0,Apache Cordova,31,Softwares
+630,0,Electron,31,Softwares
+631,2,WebSockets,31,Web Services
+632,16,Java,31,Back End
+633,0,Gulp.js,31,Front End
+634,0,GruntJS,31,Front End
+635,1,NoSQL,31,Banco de Dados e Web Services
+636,7,PostgreSQL,31,Banco de Dados e Web Services
+637,1,SEO,31,Analista
+638,13,JSON,31,Web Services
+639,6,XML,31,Web Services
+640,4,OOP,31,Back End
+641,6,Software Engineering,31,Engeharia
+642,0,Scrum,31,Metodologias Gerenciemento de Software
+643,5,Web Services,31,Web Services
+644,4,Facebook API,31,Marketing
+645,2,C++,31,Linguagens de Programação e AEDS
+646,2,Linguagem C,31,Linguagens de Programação e AEDS
+647,6,HTML 5,31,Front End
+648,17,AJAX,31,Front End
+649,3,Photoshop,31,Softwares
+650,3,UML,31,Back End
+651,4,Microsoft SQL Server,31,Banco de Dados e Web Services
+652,2,WordPress,31,Front End
+653,1,Linux Server,31,SO
+654,1,Apache,31,Softwares
+655,1,Shell Scripting,31,Softwares
+656,3,Delphi,31,Linguagens de Programação e AEDS
+657,1,Material Design,31,Design
+658,9,Estratégia empresarial,32,Gestão
+660,5,Planejamento empresarial,32,Gestão
+662,4,Liderança de equipe,32,Soft Skills
+664,4,Negociação,32,Negócio
+665,1,Cartões de crédito,32,Negócio
+666,1,Português,32,Idioma
+667,1,Gestão de vendas,32,Gestão
+668,0,Credit Cards,32,
+669,0,PMI,32,Gestão
+670,0,Business Planning,32,Gestão
+671,0,Negotiation,32,Negócio
+672,0,DOS,32,Softwares
+673,0,Portuguese,32,Idioma
+674,0,COBIT,32,Analista
+675,0,Business Strategy,32,Gestão
+676,0,Sales Management,32,Gestão
+677,0,Team Leadership,32,Gestão
+678,0,Portfolio Management,32,Gestão
+679,34,User Interface Design,33,UX
+682,31,Interaction Design,33,Design
+685,28,Information Architecture,33,Analista
+688,27,User Experience,33,UX
+689,14,CSS,33,Front End
+690,12,Web Development,33,Analista
+691,10,Agile Project Management,33,Gestão
+692,11,Front-end,33,
+693,11,Usability Testing,33,UX
+694,3,A/B Testing,33,Testing
+695,6,HTML,33,Front End
+696,7,Graphic Design,33,Design
+697,4,Prototyping,33,Arquitetura de Software
+698,5,JavaScript,33,Front End
+699,5,PHP,33,Back End
+700,2,Git,33,Ferramenta de Versionamento de Software
+701,4,Visual Design,33,Design
+702,2,Photoshop,33,Softwares
+703,6,User Experience Design,33,UX
+704,3,Front-end Development,33,Analista
+705,8,Product Management,34,Gestão
+708,14,Mobile Devices,34,Mobile
+711,15,Web Development,34,Analista
+714,10,Agile Methodologies,34,Gestão
+715,7,Android Development,34,Mobile
+716,3,Mobile Application Development,34,Mobile
+717,11,Java,34,Back End
+718,5,Distributed Systems,34,Analista
+719,5,Ruby on Rails,34,Linguagens de Programação e AEDS
+720,3,Git,34,Ferramenta de Versionamento de Software
+721,2,Ruby,34,Linguagens de Programação e AEDS
+722,3,Mobile Applications,34,Mobile
+723,1,Heroku,34,Softwares
+724,1,Software Development,34,Analista
+725,2,Scrum,34,Metodologias Gerenciemento de Software
+726,0,Customer Focused Design,34,Comercial
+727,0,Customer development,34,Comercial
+728,0,Start-ups,34,Empreendedorismo e Inovação
+729,0,Mobile Product Development,34,Mobile
+730,0,Data Analysis,34,Data Science
+731,0,Hypothesis Testing,34,Testing
+732,0,User Experience,34,UX
+733,0,Cross-functional Team Leadership,34,Gestão
+734,0,Lean Startup,34,Gestão
+735,0,Entrepreneurship,34,Empreendedorismo e Inovação
+736,90,Linux,35,SO
+739,26,Open Source,35,Linguagens de Programação e AEDS
+741,19,MySQL,35,Banco de Dados e Web Services
+744,15,PHP,35,Back End
+745,54,Python,35,Back End
+746,36,Java,35,Back End
+747,29,C++,35,Linguagens de Programação e AEDS
+748,9,Operating Systems,35,Analista
+749,13,Bash,35,Softwares
+750,17,Distributed Systems,35,Analista
+751,1,Amazon Web Services,35,Web Services
+752,3,Chrome Extensions,35,Softwares
+753,10,Git,35,Ferramenta de Versionamento de Software
+754,15,Computer Science,35,Analista
+755,16,Software Development,35,Analista
+756,2,MongoDB,35,Banco de Dados e Web Services
+757,13,Linguagem C,35,Linguagens de Programação e AEDS
+758,10,Shell Scripting,35,Softwares
+759,8,Programming,35,Linguagens de Programação e AEDS
+760,6,Linux development,35,SO
+761,5,Algorithms,35,Linguagens de Programação e AEDS
+762,5,Eclipse,35,Softwares
+763,5,UML,35,Back End
+764,4,Android,35,Mobile
+765,5,JavaScript,35,Front End
+766,4,Parallel Programming,35,Linguagens de Programação e AEDS
+767,3,Compilers,35,Softwares
+768,3,Objective-C,35,
+769,3,Perl,35,Linguagens de Programação e AEDS
+770,3,Heroku,35,Softwares
+771,3,CVS,35,Softwares
+772,2,PostgreSQL,35,Banco de Dados e Web Services
+773,2,Object Oriented Design,35,Design
+774,1,Multithreading,35,Analista
+775,1,Parallel Computing,35,Analista
+776,1,Scalability,35,Arquitetura de Software
+777,21,Software Engineering,35,Engeharia
+778,1,Flask,35,Softwares
+779,1,Unix Shell Scripting,35,Softwares
+780,1,REST,35,Web Services
+781,1,Escalabilidade,35,UX
+782,2,Algoritmo,35,Linguagens de Programação e AEDS
+783,2,C (linguagem de programação),35,
+784,4,Engenharia de software,35,Engeharia
+785,3,Código aberto,35,
+786,3,Desenvolvimento de software,35,Analista
+787,1,Ciência da computação,35,Analista
+788,1,Programação de computadores,35,Linguagens de Programação e AEDS
+789,1,Shell script,35,Softwares
+790,1,Sistemas distribuídos,35,Softwares
+791,5,Inglês,36,Idioma
+793,4,Comunicação interpessoal,36,Marketing
+795,3,Motivação de equipes,36,Gestão
+797,2,Gerenciamento de processos de negócios,36,Gestão
+798,2,Língua Portuguesa,36,Idioma
+799,2,Liderança de equipe,36,Soft Skills
+800,2,Microsoft Office,36,Softwares
+801,28,PHP,37,Back End
+804,29,JavaScript,37,Front End
+807,21,Python,37,Back End
+810,4,Scrum,37,Metodologias Gerenciemento de Software
+811,13,Performance Improvement,37,Gestão
+812,8,Team Leadership,37,Gestão
+813,7,Linux,37,SO
+814,7,Git,37,Ferramenta de Versionamento de Software
+815,6,MySQL,37,Banco de Dados e Web Services
+816,3,Nginx,37,Softwares
+817,2,Django,37,Softwares
+818,5,Laravel,37,Back End
+819,2,WordPress,37,Front End
+820,1,PostgreSQL,37,Banco de Dados e Web Services
+821,1,AngularJS,37,Front End
+822,4,TDD,37,Softwares
+823,10,Python,38,Back End
+826,11,Scrum,38,Metodologias Gerenciemento de Software
+829,4,Desenvolvimento de software,38,Analista
+831,4,Engenharia de software,38,Engeharia
+832,2,Desenvolvimento orientado a testes,38,Testing
+833,3,Agile Methodologies,38,Gestão
+834,4,Análise de sistemas,38,Analista
+835,4,Análise de requisitos,38,Analista
+836,4,Linux,38,SO
+837,1,Coordenação de projetos,38,Gestão
+838,0,Liderança de equipe,38,Soft Skills
+839,3,PHP,38,Back End
+840,1,Java,38,Back End
+841,1,HTML5,38,Front End
+842,15,JavaScript,38,Front End
+843,4,jQuery,38,Front End
+844,5,CSS,38,Front End
+845,4,SQL,38,Banco de Dados e Web Services
+846,6,UML,38,Back End
+847,1,Web Services,38,Web Services
+848,0,REST,38,Web Services
+849,0,SOAP,38,Web Services
+850,1,Web Development,38,Analista
+851,2,Git,38,Ferramenta de Versionamento de Software
+852,1,PostgreSQL,38,Banco de Dados e Web Services
+853,3,Jenkins,38,Softwares
+854,0,Nginx,38,Softwares
+855,0,Servidor Apache,38,Softwares
+856,1,Sistemas operacionais,38,Analista
+857,14,Microsoft Excel,39,Softwares
+860,11,Microsoft Office,39,Softwares
+862,12,Microsoft PowerPoint,39,Softwares
+864,8,Planejamento empresarial,39,Gestão
+865,8,Planejamento estratégico,39,Gestão
+866,6,Business,39,Negócio
+867,8,Estratégia empresarial,39,Gestão
+868,4,Business Analysis,39,Negócio
+869,4,Business Planning,39,Gestão
+870,4,ERP (Planejamento de recursos empresariais),39,Gestão
+871,1,Excel Dashboards,39,Softwares
+872,4,Inglês,39,Idioma
+873,3,Gestão,39,Gestão
+874,5,Sistemas operacionais,39,Analista
+875,2,Business Intelligence Tools,39,Negócio
+876,2,Strategic Consulting,39,Gestão
+877,3,Liderança de equipe,39,Soft Skills
+878,1,Gestão de informações,39,Gestão
+879,2,Inteligência empresarial,39,Gestão
+880,1,Inteligência de mercado,39,Negócio
+881,1,Competitive Analysis,39,Negócio
+882,1,Dashboard,39,Analista
+883,1,Information Management,39,Gestão
+884,1,Data Analysis,39,Data Science
+885,1,Marketing digital,39,Marketing
+886,1,Operating Systems,39,Analista
+887,9,Microsoft Word,39,Softwares
+888,1,Business Intelligence,39,Negócio
+889,0,VBA,39,Analista
+890,0,Negociação,39,Negócio
+891,0,Marketing,39,Marketing
+892,0,Consultoria,39,Consultoria
+893,0,Análises,39,Gestão
+894,0,Consultoria de gestão,39,Consultoria
+895,0,Capacidade analítica,39,Soft Skills
+896,0,Planejamento de projetos,39,Gestão
+897,0,Empreendedorismo,39,Empreendedorismo e Inovação
+898,0,Análises de mercado,39,Gestão
+899,0,Estratégia,39,Gestão
+900,21,JavaScript,40,Front End
+903,6,Angular,40,Front End
+905,12,jQuery,40,Front End
+908,13,HTML,40,Front End
+909,13,CSS,40,Front End
+910,9,AJAX,40,Front End
+911,5,Ruby on Rails,40,Linguagens de Programação e AEDS
+912,7,User Interfaces,40,UX
+913,12,Linux,40,SO
+914,6,Python,40,Back End
+915,7,Programming,40,Linguagens de Programação e AEDS
+916,6,Programação de computadores,40,Linguagens de Programação e AEDS
+917,3,PHP,40,Back End
+918,2,Node.js,40,Front End
+919,0,Arquitetura de software,40,Analista
+920,3,Scrum,40,Metodologias Gerenciemento de Software
+921,0,SEO (Otimização de motores de busca),40,Analista
+922,2,Git,40,Ferramenta de Versionamento de Software
+923,1,SASS,40,Front End
+924,0,Chrome Developer Tools,40,Softwares
+925,0,Compatibilidade cross-browser,40,
+926,0,Design de interação,40,Design
+927,0,Microsoft Excel,42,Softwares
+929,0,Customer Service,42,Comercial
+931,0,Leadership,42,Gestão
+933,0,Microsoft Word,42,Softwares
+934,0,Microsoft Office,42,Softwares
+935,0,Research,42,Negócio
+936,0,Microsoft PowerPoint,42,Softwares
+937,0,Public Speaking,42,Retórica
+938,0,Social Media,42,Marketing
+939,0,Marketing,42,Marketing
+940,0,SAP ERP,42,Gestão
+941,5,Finanças,43,Negócio
+943,4,Contabilidade,43,Financeiro
+945,3,Microsoft Windows,43,Softwares
+947,2,Microsoft Excel,43,Softwares
+948,2,Microsoft Word,43,Softwares
+949,2,Microsoft PowerPoint,43,Softwares
+950,1,Microsoft Office,43,Softwares
+951,1,Auditoria,43,Gestão
+952,1,Management,43,Gestão
+953,1,Negociação,43,Negócio
+954,1,Microsoft Project,43,Gestão
+955,1,Negotiation,43,Negócio
+956,1,Customer Service,43,Comercial
+957,1,Leadership,43,Gestão
+958,1,Research,43,Negócio
+959,1,Windows,43,Softwares
+960,1,Pesquisa,43,Negócio
+961,1,Atendimento ao Cliente,43,Negócio
+962,1,Gestão,43,Gestão
+963,1,Inglês,43,Idioma
+964,1,Liderança,43,Soft Skills
+965,1,"Profissional competente, comunicativo e proativo.",43,Soft Skills
+966,1,Bom relacionamento para trabalhar em equipe.,43,Soft Skills
+967,1,Inglês Intermediário,43,Idioma
+968,2,Go,44,Linguagens de Programação e AEDS
+970,1,Google Cloud Platform,44,Linguagens de Programação e AEDS
+972,24,MySQL,44,Banco de Dados e Web Services
+975,1,Ceph,44,Softwares
+976,26,Linux,44,SO
+977,1,Redis,44,Softwares
+978,1,Nginx,44,Softwares
+979,19,Scrum,44,Metodologias Gerenciemento de Software
+980,3,Scalability,44,Arquitetura de Software
+981,4,Problem Solving,44,Gestão
+982,21,JavaScript,44,Front End
+983,23,PHP,44,Back End
+984,4,Software Engineering,44,Engeharia
+985,13,Web Development,44,Analista
+986,4,Ruby,44,Linguagens de Programação e AEDS
+987,1,Amazon Web Services (AWS),44,Web Services
+988,0,Lua,44,Softwares
+989,5,Social Web,44,Analista
+990,5,Team Management,44,Gestão
+991,4,Python,44,Back End
+992,6,Performance Tuning,44,Analista
+993,3,CSS,44,Front End
+994,4,Git,44,Ferramenta de Versionamento de Software
+995,3,Java,44,Back End
+996,3,Software Development,44,Analista
+997,0,Kubernetes,44,Softwares
+998,1,HTML 5,44,Front End
+999,2,Varnish Cache,44,Softwares
+1000,2,Google Analytics,44,Linguagens de Programação e AEDS
+1001,1,Product Management,44,Gestão
+1002,1,System Architecture,44,Analista
+1003,1,Development Management,44,Gestão
+1004,7,Facebook API,44,Marketing
+1005,1,DevOps,44,Arquitetura de Software
+1006,1,Social Networking,44,Analista
+1007,1,Shell Scripting,44,Softwares
+1008,1,User Experience,44,UX
+1009,7,OpenSocial,44,Linguagens de Programação e AEDS
+1010,0,Music Theory,44,Multimídia
+1011,0,SEO,44,Analista
+1012,8,jQuery,44,Front End
+1013,2,AJAX,44,Front End
+1014,1,HTML5,44,Front End
+1015,0,SQL,44,Banco de Dados e Web Services
+1016,0,HTML,44,Front End
+1017,0,Operating Systems,44,Analista
+1018,0,IT Service Management,44,Gestão
+1019,1,JavaScript,45,Front End
+1021,2,PHP,45,Back End
+1024,1,HTML,45,Front End
+1026,1,MySQL,45,Banco de Dados e Web Services
+1027,0,Python,45,Back End
+1028,0,Java,45,Back End
+1029,0,CSS,45,Front End
+1030,0,C++,45,Linguagens de Programação e AEDS
+1031,3,Desenvolvimento de software,45,Analista
+1032,0,Software Development,45,Analista
+1033,0,Web Development,45,Analista
+1034,0,Hardware Installation,45,Analista
+1035,2,Scrum,45,Metodologias Gerenciemento de Software
+1036,0,Git,46,Ferramenta de Versionamento de Software
+1038,0,Scrum,46,Metodologias Gerenciemento de Software
+1040,0,Web Development,46,Analista
+1042,0,HTML,46,Front End
+1043,0,CSS,46,Front End
+1044,0,JavaScript,46,Front End
+1045,0,Software Development,46,Analista
+1046,0,MySQL,46,Banco de Dados e Web Services
+1047,0,PHP,46,Back End
+1048,4,Psychological Assessment,47,Gestão
+1050,4,Psychometrics,47,Gestão
+1052,3,Research,47,Negócio
+1054,0,Recruitments,47,Gestão
+1055,6,Microsoft Excel,47,Softwares
+1056,5,Microsoft Word,47,Softwares
+1057,0,PowerPoint,47,Softwares
+1058,0,English,47,Idioma
+1059,0,Negotiation,47,Negócio
+1060,1,Liderança de equipe,47,Soft Skills
+1061,2,Microsoft Office,47,Softwares
+1062,1,Português,47,Idioma
+1063,0,Strategic Planning,47,Gestão
+1064,3,Microsoft PowerPoint,47,Softwares
+1065,3,Inglês,47,Idioma
+1066,1,Planejamento estratégico,47,Gestão
+1067,1,Estratégia empresarial,47,Gestão
+1068,1,Human Resources,47,Gestão
+1069,36,Interaction Design,49,Design
+1072,27,User Experience,49,UX
+1074,22,Design da Experiência do Usuário,49,UX
+1076,21,User Interface Design,49,UX
+1077,20,Information Architecture,49,Analista
+1078,20,Layout,49,Design
+1079,20,Design de interação,49,Design
+1080,19,Design de interface do usuário,49,UX
+1081,18,User-centered Design,49,UX
+1082,16,Arquitetura de informação,49,Analista
+1083,16,Experiência do usuário,49,UX
+1084,14,Web design,49,Analista
+1085,11,User Experience Design,49,UX
+1086,11,Marketing digital,49,Marketing
+1087,11,Adobe Photoshop,49,Softwares
+1088,10,Usability,49,UX
+1089,10,Adobe Illustrator,49,Design
+1090,10,Design gráfico,49,Design
+1091,8,Web Design,49,Design
+1092,8,Photoshop,49,Softwares
+1093,6,Design Thinking,49,Soft Skills
+1094,6,Axure,49,Front End
+1095,6,Graphic Design,49,Design
+1096,6,Layout gráfico,49,Design
+1097,5,Experience Design,49,Design
+1098,4,Design de experiência,49,Design
+1099,0,Usabilidade,49,UX
+1100,2,Digital Marketing,49,Marketing
+1101,0,Design thinking,49,Soft Skills
+1102,1,ActionScript,49,Front End
+1103,1,Accessibility,49,Arquitetura de Software
+1104,1,Illustrator,49,Design
+1105,1,mobile application design,49,Mobile
+1106,1,Design voltado para o usuário,49,UX
+1107,0,Responsiveness,49,Arquitetura de Software
+1108,0,Web Application Design,49,Design
+1109,60,Marketing digital,50,Marketing
+1112,49,Marketing de motor de busca,50,Marketing
+1114,43,Marketing,50,Marketing
+1117,35,Publicidade online,50,Negócio
+1118,34,Estratégias de marketing,50,Gestão
+1119,29,Digital Marketing,50,Marketing
+1120,21,Marketing por e-mail,50,Marketing
+1121,17,Marketing social,50,Marketing
+1122,16,Online Advertising,50,Negócio
+1123,14,Social Media Marketing,50,Marketing
+1124,13,Marketing Strategy,50,Marketing
+1125,12,Google Analytics,50,Linguagens de Programação e AEDS
+1126,11,Digital Media,50,Marketing
+1127,11,Digital Strategy,50,Gestão
+1128,11,Estratégia digital,50,Gestão
+1129,10,Email Marketing,50,Marketing
+1130,9,Mídias sociais,50,Marketing
+1131,9,Comércio eletrônico,50,Negócio
+1132,8,Mídia digital,50,Marketing
+1133,7,Facebook,50,Marketing
+1134,5,Social Media,50,Marketing
+1135,5,CRM,50,Gestão
+1136,5,Google AdWords,50,Linguagens de Programação e AEDS
+1137,5,Comunicações de marketing,50,
+1138,4,Google Adwords,50,Linguagens de Programação e AEDS
+1139,4,SEM,50,Negócio
+1140,4,Advertising,50,Negócio
+1141,4,Análise de rede,50,Analista
+1142,4,SEO (Otimização de motores de busca),50,Analista
+1143,4,Gestão de relação de clientes,50,Gestão
+1144,3,Web Analytics,50,Analista
+1145,3,E-commerce,50,Negócio
+1146,3,Mobile Marketing,50,Marketing
+1147,3,Media Planning,50,Marketing
+1148,3,Marketing para dispositivos móveis,50,Marketing
+1149,3,Planejamento de mídia,50,Gestão
+1150,3,Publicidade,50,Negócio
+1151,2,SEO,50,Analista
+1152,2,Marketing Communications,50,Marketing
+1153,1,Trade Marketing,50,Marketing
+1154,25,Team Leadership,51,Gestão
+1157,23,Sales Operations,51,Comercial
+1160,21,Sales Management,51,Gestão
+1163,16,Trade Marketing,51,Marketing
+1164,16,Strategic Planning,51,Gestão
+1165,12,PDCA,51,Gestão
+1166,11,Portuguese,51,Idioma
+1167,11,Pricing Strategy,51,Gestão
+1168,10,English,51,Idioma
+1169,8,Supply Chain,51,Gestão
+1170,3,Spanish,51,Idioma
+1171,27,Optimization Strategies,52,Gestão
+1173,42,SEO,52,Analista
+1175,65,Google Analytics,52,Linguagens de Programação e AEDS
+1178,18,Usability Testing,52,UX
+1179,19,Conversion Optimization,52,Analista
+1180,23,Usability,52,UX
+1181,30,Digital Marketing,52,Marketing
+1182,13,Information Architecture,52,Analista
+1183,17,Web Analytics,52,Analista
+1184,16,Digital Advertising,52,Negócio
+1185,5,Inbound Marketing,52,Marketing
+1186,6,Digital Strategy,52,Gestão
+1187,19,jQuery,52,Front End
+1188,38,CSS,52,Front End
+1189,24,WordPress,52,Front End
+1190,11,HTML 5,52,Front End
+1191,14,PHP,52,Back End
+1192,6,CSS3,52,Front End
+1193,7,Google Adwords,52,Linguagens de Programação e AEDS
+1194,4,Semantic HTML,52,Front End
+1195,5,Mobile Devices,52,Mobile
+1196,8,Wireframes,52,Softwares
+1197,4,PPC,52,Negócio
+1198,4,SEM,52,Negócio
+1199,3,Landing Page Optimization,52,Analista
+1200,9,JavaScript,52,Front End
+1201,3,E-commerce Optimization,52,Negócio
+1202,3,E-commerce Consulting,52,Consultoria
+1203,7,Online Advertising,52,Negócio
+1204,9,Social Media Marketing,52,Marketing
+1205,3,Social Media Advertising,52,Marketing
+1206,6,Online Marketing,52,Marketing
+1207,3,Digital Media Services,52,Marketing
+1208,2,Accessibility,52,Arquitetura de Software
+1209,2,Sitemap,52,Softwares
+1210,2,Web Standards,52,Analista
+1211,5,Social Media,52,Marketing
+1212,33,SEO (Otimização de motores de busca),52,Analista
+1213,39,Marketing digital,52,Marketing
+1214,9,Marketing de motor de busca,52,Marketing
+1215,21,JQuery,52,Front End
+1216,12,Marketing online,52,Marketing
+1217,12,Mídias sociais,52,Marketing
+1218,9,Marketing social,52,Marketing
+1219,8,Arquitetura de informação,52,Analista
+1220,12,Publicidade online,52,Negócio
+1221,7,Análise de rede,52,Analista
+1222,4,Usabilidade,52,UX
+1223,6,Estratégia digital,52,Gestão
+1224,7,HTML5,52,Front End
+1225,9,Copywriting,53,Softwares
+1228,20,Social Media,53,Marketing
+1231,17,Digital Marketing,53,Marketing
+1234,10,Art Direction,53,Design
+1235,22,Mídias sociais,53,Marketing
+1236,13,Comunicações de marketing,53,
+1237,12,Publicidade,53,Negócio
+1238,19,Marketing digital,53,Marketing
+1239,16,Estratégias de marketing,53,Gestão
+1240,9,Publicidade online,53,Negócio
+1241,11,Redação,53,Retórica
+1242,3,Video Production,53,Gestão
+1243,14,Adobe Photoshop,53,Softwares
+1244,5,Inglês,53,Idioma
+1245,7,Planejamento estratégico,53,Gestão
+1246,4,Gestão,53,Gestão
+1247,7,Adobe Illustrator,53,Design
+1248,3,Photoshop,53,Softwares
+1249,5,Marketing social,53,Marketing
+1250,8,Marketing,53,Marketing
+1251,7,Microsoft Office,53,Softwares
+1252,3,Microsoft Excel,53,Softwares
+1253,14,Business Planning,54,Gestão
+1256,12,Marketing digital,54,Marketing
+1258,12,Estratégias de marketing,54,Gestão
+1260,7,Publicidade online,54,Negócio
+1261,7,Business Strategy,54,Gestão
+1262,6,Business Intelligence,54,Negócio
+1263,6,Business Development,54,Negócio
+1264,7,Gestão,54,Gestão
+1265,5,New Business Development,54,Negócio
+1266,5,Comércio eletrônico,54,Negócio
+1267,4,Gestão de relação de clientes,54,Gestão
+1268,4,Relações com os clientes,54,Comercial
+1269,3,Google Analytics,54,Linguagens de Programação e AEDS
+1270,3,Inteligência empresarial,54,Gestão
+1271,3,Planejamento empresarial,54,Gestão
+1272,7,Estratégia empresarial,54,Gestão
+1273,3,Desenvolvimentos de clientes,54,Comercial
+1274,18,Mídias sociais,55,Marketing
+1277,15,Estratégias de marketing,55,Gestão
+1279,13,Marketing,55,Marketing
+1282,11,Planejamento estratégico,55,Gestão
+1283,10,Publicidade,55,Negócio
+1284,10,Microsoft Office,55,Softwares
+1285,8,Marketing digital,55,Marketing
+1286,7,Social Media Marketing,55,Marketing
+1287,6,Comunicações de marketing,55,
+1288,6,Marketing Communications,55,Marketing
+1289,5,Social Media,55,Marketing
+1290,3,Inglês,55,Idioma
+1291,2,Microsoft PowerPoint,55,Softwares
+1292,2,Publicidade online,55,Negócio
+1293,2,Relações públicas,55,Negócio
+1294,1,Adobe Photoshop,55,Softwares
+1295,7,Marketing,56,Marketing
+1297,5,Planejamento estratégico,56,Gestão
+1299,5,Marketing digital,56,Marketing
+1301,4,Publicidade,56,Negócio
+1302,3,Gestão de projetos,56,Gestão
+1303,35,Scrum,57,Metodologias Gerenciemento de Software
+1306,27,Desenvolvimento de sistemas,57,Analista
+1308,32,Java,57,Back End
+1311,26,JavaScript,57,Front End
+1312,26,SQL,57,Banco de Dados e Web Services
+1313,11,Palestras,57,Gestão
+1314,19,Analise de sistemas,57,Analista
+1315,16,Ruby,57,Linguagens de Programação e AEDS
+1316,18,Microsoft SQL Server,57,Banco de Dados e Web Services
+1317,16,CSS,57,Front End
+1318,13,Gerenciamento de serviços de TI,57,Gestão
+1319,13,Liderança de equipe,57,Soft Skills
+1320,12,Servidor Windows,57,Softwares
+1321,11,Linux,57,SO
+1322,16,HTML,57,Front End
+1323,12,Git,57,Ferramenta de Versionamento de Software
+1324,9,Tableau,57,Softwares
+1325,10,Microsoft Project,57,Gestão
+1326,12,UML,57,Back End
+1327,15,Sistemas operacionais,57,Analista
+1328,11,ITIL,57,Analista
+1329,27,ITIL,58,Analista
+1332,18,Gerenciamento de serviços de TI,58,Gestão
+1334,14,Sistemas operacionais,58,Analista
+1336,11,Liderança de equipe,58,Soft Skills
+1337,10,COBIT,58,Analista
+1338,9,ERP (Planejamento de recursos empresariais),58,Gestão
+1339,9,Gestão de TI,58,Gestão
+1340,8,Centro de processamento de dados,58,Data Science
+1341,8,Microsoft Excel,58,Softwares
+1342,7,IT Service Management,58,Gestão
+1343,7,ERP,58,Gestão
+1344,7,Microsoft Project,58,Gestão
+1345,6,Business Intelligence,58,Negócio
+1346,6,Data Center,58,Data Science
+1347,6,5S,58,Gestão
+1348,6,IT Management,58,Gestão
+1349,5,Team Leadership,58,Gestão
+1350,5,Terceirização de serviços,58,Gestão
+1351,5,Recursos humanos,58,Gestão
+1352,5,Operating Systems,58,Analista
+1353,5,Microsoft Office,58,Softwares
+1354,15,Microsoft Excel,59,Softwares
+1357,12,Microsoft Office,59,Softwares
+1360,9,Liderança,59,Soft Skills
+1362,8,Gestão de projetos,59,Gestão
+1363,8,Microsoft PowerPoint,59,Softwares
+1364,6,Microsoft Word,59,Softwares
+1365,5,Gestão de programas,59,Gestão
+1366,4,Gestão,59,Gestão
+1367,3,Atendimento ao Cliente,59,Negócio
+1368,3,Planejamento estratégico,59,Gestão
+1369,3,Consultoria de gestão,59,Consultoria
+1370,2,Liderança de equipe,59,Soft Skills
+1371,2,Planejamento empresarial,59,Gestão
+1372,2,Leadership,59,Gestão
+1373,2,Management,59,Gestão
+1374,2,PowerPoint,59,Softwares
+1375,2,Project Management,59,Gestão
+1376,1,Treinamento,59,Gestão
+1377,5,Product Development,60,Gestão
+1379,4,Business Development,60,Negócio
+1381,4,Amazon Web Services (AWS),60,Web Services
+1383,3,Project Management,60,Gestão
+1384,10,iOS development,60,Mobile
+1385,6,MySQL,60,Banco de Dados e Web Services
+1386,11,JavaScript,60,Front End
+1387,11,HTML 5,60,Front End
+1388,7,CSS3,60,Front End
+1389,7,PHP,60,Back End
+1390,6,Python,60,Back End
+1391,88,Interaction Design,60,Design
+1392,72,User Experience,60,UX
+1393,4,Business Model Canvas,60,Negócio
+1394,60,User-centered Design,60,UX
+1395,53,Usability Testing,60,UX
+1396,51,Usability,60,UX
+1397,36,Information Architecture,60,Analista
+1398,32,Design Thinking,60,Soft Skills
+1399,27,Information Design,60,Design
+1400,21,Experience Design,60,Design
+1401,20,Heuristic Evaluation,60,Analista
+1402,17,User Interface Design,60,UX
+1403,13,CSS,60,Front End
+1404,11,Prototype,60,Analista
+1405,11,Front-end,60,
+1406,9,Persona,60,Negócio
+1407,9,User Experience Design,60,UX
+1408,9,Ethnography,60,Historia
+1409,8,Digital Marketing,60,Marketing
+1410,7,Paper Prototyping,60,Arquitetura de Software
+1411,8,jQuery,60,Front End
+1412,7,Usability Engineering,60,UX
+1413,7,Mobile Design,60,Mobile
+1414,6,Human Computer Interaction,60,Analista
+1415,5,Axure,60,Front End
+1416,4,Design Strategy,60,Gestão
+1417,4,Service Design,60,Design
+1418,5,Wireframes,60,Softwares
+1419,4,Contextual Inquiry,60,
+1420,5,MongoDB,60,Banco de Dados e Web Services
+1421,4,Heroku,60,Softwares
+1422,3,Rapid Prototyping,60,Arquitetura de Software
+1423,2,Design Research,60,Negócio
+1424,2,Prototyping,60,Arquitetura de Software
+1425,2,Personas,60,Negócio
+1426,1,customer development,60,Comercial
+1427,3,Entrepreneurship,61,Empreendedorismo e Inovação
+1429,2,Microsoft Office,61,Softwares
+1431,2,Project Management,61,Gestão
+1433,1,Critical Thinking,61,Soft Skills
+1434,1,Business Management,61,Gestão
+1435,0,Data Analysis,61,Data Science
+1436,0,SQL,61,Banco de Dados e Web Services
+1437,0,Big Data Analytics,61,Data Science
+1438,0,Operations Management,61,Gestão
+1439,0,Affiliate Marketing,61,Marketing
+1440,0,Digital Marketing,61,Marketing
+1441,0,Data Analytics,61,Data Science
+1442,0,"Extract, Transform, Load (ETL)",61,
+1443,46,Marketing digital,62,Marketing
+1446,32,Affiliation,62,Negócio
+1448,35,Publicidade online,62,Negócio
+1451,26,Fotografia,62,Multimídia
+1452,22,E-commerce SEO,62,Negócio
+1453,16,Marketing por e-mail,62,Marketing
+1454,24,Corporate Branding,62,Gestão
+1455,32,Marketing,62,Marketing
+1456,21,Estratégias de marketing,62,Gestão
+1457,15,Mídias sociais,62,Marketing
+1458,15,Comércio eletrônico,62,Negócio
+1459,10,Planejamento estratégico,62,Gestão
+1460,11,Email Marketing,62,Marketing
+1461,22,Online Advertising,62,Negócio
+1462,12,Marketing online,62,Marketing
+1463,14,Marketing Communications,62,Marketing
+1464,16,Identidade de marca corporativa,62,Gestão
+1465,9,Marketing social,62,Marketing
+1466,10,Comunicações de marketing,62,
+1467,29,Adobe Photoshop,62,Softwares
+1468,13,InDesign,62,Design
+1469,19,Adobe Illustrator,62,Design
+1470,12,Microsoft Office,62,Softwares
+1471,6,Social Media,62,Marketing
+1472,2,Social Media Marketing,62,Marketing
+1473,44,JavaScript,63,Front End
+1476,41,CSS,63,Front End
+1478,3,Tecnologia da informação,63,Analista
+1480,9,Suporte técnico,63,Analista
+1481,23,Linux,63,SO
+1482,18,Sistemas operacionais,63,Analista
+1483,9,Scrum,63,Metodologias Gerenciemento de Software
+1484,2,Tecnologias educacionais,63,Escolar e Acadêmico
+1485,33,E-learning,63,Softwares
+1486,41,MySQL,63,Banco de Dados e Web Services
+1487,27,PHP,63,Back End
+1488,19,Moodle,63,Softwares
+1489,13,Multimídia,63,Multimídia
+1490,2,Empreendedorismo social,63,Empreendedorismo e Inovação
+1491,1,Facilitador Educacional,63,Escolar e Acadêmico
+1492,11,Microsoft Excel,63,Softwares
+1493,12,SQL,63,Banco de Dados e Web Services
+1494,9,Microsoft SQL Server,63,Banco de Dados e Web Services
+1495,2,Gestão de projetos de software,63,Gestão
+1496,7,HTML5,63,Front End
+1497,23,Microsoft Office,63,Softwares
+1498,18,HTML,63,Front End
+1499,1,Novos negócios,63,Negócio
+1500,2,Gestão de Pessoas,64,Gestão
+1502,3,Comunicação interna,64,Marketing
+1504,2,Gestão da mudanças,64,Gestão
+1506,3,Melhoria de processos,64,Gestão
+1507,2,History,64,Historia
+1508,2,Pesquisa,64,Negócio
+1509,2,Organizações sem fins lucrativos,64,Gestão
+1510,2,Visão sistêmica,64,Soft Skills
+1511,2,Microsoft Windows,64,Softwares
+1512,2,Liderança,64,Soft Skills
+1513,1,Mídias sociais,64,Marketing
+1514,9,SQL,65,Banco de Dados e Web Services
+1517,8,JavaScript,65,Front End
+1520,8,jQuery,65,Front End
+1523,8,PHP,65,Back End
+1524,7,CSS,65,Front End
+1525,7,MySQL,65,Banco de Dados e Web Services
+1526,5,GruntJS,65,Front End
+1527,5,HTML,65,Front End
+1528,5,SASS,65,Front End
+1529,3,Scrum,65,Metodologias Gerenciemento de Software
+1530,2,Gulp.js,65,Front End
+1531,2,LESS,65,Linguagens de Programação e AEDS
+1532,2,Node.js,65,Front End
+1533,2,Facebook API,65,Marketing
+1534,2,Git,65,Ferramenta de Versionamento de Software
+1535,2,C#,65,Back End
+1536,2,Laravel,65,Back End
+1537,1,Microsoft SQL Server,65,Banco de Dados e Web Services
+1538,1,Linux,65,SO
+1539,5,Search Engine Optimization (SEO),65,Analista
+1540,25,Marketing Strategy,66,Marketing
+1543,21,Marketing,66,Marketing
+1546,16,Estratégia empresarial,66,Gestão
+1549,15,Estratégias de marketing,66,Gestão
+1550,11,Sales Management,66,Gestão
+1551,12,Business Strategy,66,Gestão
+1552,13,Microsoft Office,66,Softwares
+1553,8,New Business Development,66,Negócio
+1554,9,Business Planning,66,Gestão
+1555,9,Marketing Management,66,Marketing
+1556,9,Gestão de vendas,66,Gestão
+1557,6,Gestão de marketing,66,Gestão
+1558,6,Managing Distribution Channels,66,Negócio
+1559,6,Competitive Analysis,66,Negócio
+1560,7,Planejamento empresarial,66,Gestão
+1561,5,Microsoft Word,66,Softwares
+1562,5,Desenvolvimento de novos negócios,66,Negócio
+1563,4,Brand Development,66,Gestão
+1564,4,Team Management,66,Gestão
+1565,5,Planejamento estratégico,66,Gestão
+1566,5,Negociação,66,Negócio
+1567,5,Marketing digital,66,Marketing
+1568,5,Gestão,66,Gestão
+1569,3,Relationship Marketing,66,Marketing
+1570,3,Advertising,66,Negócio
+1571,3,Telecommunications,66,Negócio
+1572,3,Liderança,66,Soft Skills
+1573,4,Liderança de equipe,66,Soft Skills
+1574,3,Análise da competitividade,66,Negócio
+1575,3,Publicidade online,66,Negócio
+1576,3,Gestão de projetos,66,Gestão
+1577,3,Comunicações de marketing,66,
+1578,4,Estratégia,66,Gestão
+1579,3,Vendas,66,Comercial
+1580,3,Comércio eletrônico,66,Negócio
+1581,4,Marketing no Facebook,66,Marketing
+1582,3,Google Analytics,66,Linguagens de Programação e AEDS
+1583,3,Ajuda no sucesso do cliente,66,Comercial
+1584,4,Experiência do usuário,66,UX
+1585,4,Marketing online,66,Marketing
+1586,2,Marketing inbound,66,Marketing
+1587,0,Strategic Planning,66,Gestão
+1588,0,Negotiation,66,Negócio
+1589,1,Digital Marketing,66,Marketing
+1590,8,Design gráfico,67,Design
+1592,11,Marketing,67,Marketing
+1595,8,Advertising,67,Negócio
+1598,4,Redação,67,Retórica
+1599,6,Negociação,67,Negócio
+1600,5,Estratégia empresarial,67,Gestão
+1601,4,Comunicação digital,67,Marketing
+1602,2,Publicidade,67,Negócio
+1603,2,Estratégia digital,67,Gestão
+1604,22,Estratégia empresarial,68,Gestão
+1606,14,Gestão de ativos,68,Gestão
+1608,13,Mercado de capitais,68,Negócio
+1610,10,Modelagem financeira,68,Financeiro
+1611,10,Finanças corporativas,68,Negócio
+1612,8,Microsoft Excel,68,Softwares
+1613,8,Planejamento estratégico,68,Gestão
+1614,7,Investimentos,68,Negócio
+1615,7,Microsoft Office,68,Softwares
+1616,5,Economia,68,Negócio
+1617,4,Business Planning,68,Gestão
+1618,3,Análise financeira,68,Financeiro
+1619,2,Mercados financeiros,68,Negócio
+1620,2,Avaliação financeira,68,Financeiro
+1621,2,Asset Management,68,Gestão
+1622,1,Planejamento empresarial,68,Gestão
+1623,21,Gestão de relação de clientes,69,Gestão
+1625,19,Estratégia empresarial,69,Gestão
+1627,17,Estratégias de marketing,69,Gestão
+1629,9,Marketing digital,69,Marketing
+1630,8,Negociação,69,Negócio
+1631,7,Planejamento empresarial,69,Gestão
+1632,6,DOS,69,Softwares
+1633,5,Gestão de produtos,69,Gestão
+1634,5,Business Strategy,69,Gestão
+1635,4,Strategic Planning,69,Gestão
+1636,17,Atendimento ao Cliente,70,Negócio
+1638,12,Inovação aberta,70,Empreendedorismo e Inovação
+1640,4,Customer Success,70,Comercial
+1642,11,Liderança inovadora,70,Soft Skills
+1643,5,Gestão,70,Gestão
+1644,0,Microsoft Office,70,Softwares
+1645,6,Java,70,Back End
+1646,7,Vendas,70,Comercial
+1647,7,Desenvolvimento de software,70,Analista
+1648,12,Oratória,70,Retórica
+1649,7,Experiência do cliente,70,Comercial
+1650,5,Experiência do usuário,70,UX
+1651,2,Customer Satisfaction,70,Comercial
+1652,4,Liderança,70,Soft Skills
+1653,6,Gestão de projetos,70,Gestão
+1654,3,Management,70,Gestão
+1655,3,Project Management,70,Gestão
+1656,3,Digital Marketing,70,Marketing
+1657,5,Microsoft Word,70,Softwares
+1658,1,Marketing digital,70,Marketing
+1659,1,Microsoft Excel,70,Softwares
+1660,1,Microsoft PowerPoint,70,Softwares
+1661,5,Marketing digital,71,Marketing
+1663,5,Publicidade online,71,Negócio
+1665,5,Mídia digital,71,Marketing
+1667,4,Publicidade,71,Negócio
+1668,4,Marketing online,71,Marketing
+1669,3,Estratégia digital,71,Gestão
+1670,2,Comunicação empresarial,71,Marketing
+1671,1,Relações com a mídia,71,Negócio
+1672,1,Google AdWords,71,Linguagens de Programação e AEDS
+1673,0,Marketing de influenciadores,71,Marketing
+1674,0,Mídias sociais,71,Marketing
+1675,17,Marketing Strategy,72,Marketing
+1678,13,Creative Direction,72,Design
+1680,13,Film Production,72,Gestão
+1683,12,Short Films,72,Multimídia
+1684,12,Advertising,72,Negócio
+1685,12,Digital Marketing,72,Marketing
+1686,12,Online Advertising,72,Negócio
+1687,11,Social Media,72,Marketing
+1688,10,Photoshop,72,Softwares
+1689,10,Illustrator,72,Design
+1690,8,Estratégias de marketing,72,Gestão
+1691,6,Comunicações de marketing,72,
+1692,6,Comunicação empresarial,72,Marketing
+1693,6,Planejamento estratégico,72,Gestão
+1694,5,Gestão de projetos,72,Gestão
+1695,5,Communicação estratégica,72,Marketing
+1696,4,Strategic Planning,72,Gestão
+1697,4,Compositing,72,Multimídia
+1698,3,Marketing digital,72,Marketing
+1699,2,Mídias sociais,72,Marketing
+1700,2,Publicidade online,72,Negócio
+1701,4,Java,73,Back End
+1703,2,Linguagem C,73,Linguagens de Programação e AEDS
+1705,1,Scrum,73,Metodologias Gerenciemento de Software
+1707,1,Git,73,Ferramenta de Versionamento de Software
+1708,0,HTML,73,Front End
+1709,0,Usability Testing,73,UX
+1710,41,Estratégias de marketing,74,Gestão
+1713,24,Negociação,74,Negócio
+1715,21,Marketing,74,Marketing
+1717,13,Microsoft Excel,74,Softwares
+1718,10,Marketing digital,74,Marketing
+1719,10,Vendas,74,Comercial
+1720,7,Digital Marketing,74,Marketing
+1721,7,B2B,74,Negócio
+1722,7,Gestão de vendas,74,Gestão
+1723,7,Planejamento de mercado,74,Gestão
+1724,7,Gestão de relação de clientes,74,Gestão
+1725,6,E-commerce,74,Negócio
+1726,6,Marketing Strategy,74,Marketing
+1727,6,Sales,74,Comercial
+1728,6,Negotiation,74,Negócio
+1729,6,Comércio eletrônico,74,Negócio
+1730,6,Inglês,74,Idioma
+1731,5,Start-ups,74,Empreendedorismo e Inovação
+1732,5,Marketing social,74,Marketing
+1733,4,Salesforce.com,74,Comercial
+1734,4,Português,74,Idioma
+1735,4,Empresas startups,74,Empreendedorismo e Inovação
+1736,3,CRM,74,Gestão
+1737,3,Marketing por e-mail,74,Marketing
+1738,2,Portuguese,74,Idioma
+1739,2,English,74,Idioma
+1740,2,Email Marketing,74,Marketing
+1741,2,SEM,74,Negócio
+1742,2,Google Analytics,74,Linguagens de Programação e AEDS
+1743,2,Social Media Marketing,74,Marketing
+1744,2,Market Planning,74,Gestão
+1745,2,Sales Management,74,Gestão
+1746,13,Estratégia empresarial,75,Gestão
+1748,11,Linhas aéreas,75,Engeharia
+1750,6,Turismo,75,Historia
+1752,6,Estratégias de marketing,75,Gestão
+1753,6,Precificação,75,Negócio
+1754,5,Vendas,75,Comercial
+1755,4,Atendimento ao Cliente,75,Negócio
+1756,3,Português,75,Idioma
+1757,2,Microsoft Excel,75,Softwares
+1758,2,Business Strategy,75,Gestão
+1759,1,Microsoft Office,75,Softwares
+1760,0,Customer Service,75,Comercial
+1761,0,Sabre,75,Softwares
+1762,0,Amadeus,75,Softwares
+1763,0,Oracle Hyperion Web Analysis,75,Banco de Dados e Web Services
+1764,0,Navitaire SkySpeed 3.4,75,Softwares
+1765,0,Oracle i-Expenses,75,Banco de Dados e Web Services
+1766,4,Foco no cliente,76,Comercial
+1768,3,Comunicação interpessoal,76,Marketing
+1770,3,Proatividade,76,Soft Skills
+1772,3,Persistência,76,Soft Skills
+1773,3,Sociabilidade,76,Soft Skills
+1774,3,Sensibilidade,76,Soft Skills
+1775,26,Comércio eletrônico,77,Negócio
+1778,19,Google Analytics,77,Linguagens de Programação e AEDS
+1781,19,Marketing digital,77,Marketing
+1784,13,Google AdWords,77,Linguagens de Programação e AEDS
+1785,12,E-commerce,77,Negócio
+1786,11,Estratégias de marketing,77,Gestão
+1787,8,Marketing online,77,Marketing
+1788,8,Análise de rede,77,Analista
+1789,7,Estratégia digital,77,Gestão
+1790,6,Digital Strategy,77,Gestão
+1791,6,Digital Media,77,Marketing
+1792,6,Online Marketing,77,Marketing
+1793,5,Digital Marketing,77,Marketing
+1794,5,Web Analytics,77,Analista
+1795,5,Marketing,77,Marketing
+1796,4,SEO,77,Analista
+1797,4,Google Adwords,77,Linguagens de Programação e AEDS
+1798,4,Publicidade online,77,Negócio
+1799,4,Planejamento estratégico,77,Gestão
+1800,4,Marketing por e-mail,77,Marketing
+1801,4,Marketing social,77,Marketing
+1802,3,Mídias sociais,77,Marketing
+1803,3,Marketing Strategy,77,Marketing
+1804,3,SEO (Otimização de motores de busca),77,Analista
+1805,2,Mobile Marketing,77,Marketing
+1806,2,Estratégia empresarial,77,Gestão
+1807,2,Publicidade,77,Negócio
+1808,2,Mídia digital,77,Marketing
+1809,1,Gestão,77,Gestão
+1810,1,Negociação,77,Negócio
+1811,48,User Experience,78,UX
+1814,36,Information Architecture,78,Analista
+1817,24,E-commerce,78,Negócio
+1820,23,Experiência do usuário,78,UX
+1821,18,Front-end,78,
+1822,17,Web Analytics,78,Analista
+1823,17,User Interface Design,78,UX
+1824,16,Usability,78,UX
+1825,14,Axure,78,Front End
+1826,14,Usability Testing,78,UX
+1827,13,Google Analytics,78,Linguagens de Programação e AEDS
+1828,12,DOS,78,Softwares
+1829,12,Comércio eletrônico,78,Negócio
+1830,11,Scrum,78,Metodologias Gerenciemento de Software
+1831,10,Interaction Design,78,Design
+1832,10,SEO,78,Analista
+1833,9,Digital Strategy,78,Gestão
+1834,8,User Interface,78,UX
+1835,8,SEM,78,Negócio
+1836,7,Wireframes,78,Softwares
+1837,7,Mobile Design,78,Mobile
+1838,7,Web Design,78,Design
+1839,7,Agile Methodologies,78,Gestão
+1840,6,User-centered Design,78,UX
+1841,5,Kanban,78,Metodologias Gerenciemento de Software
+1842,5,jQuery,78,Front End
+1843,4,Web Standards,78,Analista
+1844,4,Usabilidade,78,UX
+1845,3,Mobile Applications,78,Mobile
+1846,3,Sistema front-end,78,Front End
+1847,3,Teste de usabilidade,78,Testing
+1848,3,SEO (Otimização de motores de busca),78,Analista
+1849,2,Web design,78,Analista
+1850,2,JQuery,78,Front End
+1851,52,Linux,79,SO
+1854,49,C++,79,Linguagens de Programação e AEDS
+1857,39,Python,79,Back End
+1860,39,Scrum,79,Metodologias Gerenciemento de Software
+1861,32,Linguagem C,79,Linguagens de Programação e AEDS
+1862,28,Software Engineering,79,Engeharia
+1863,25,Qt,79,Softwares
+1864,20,Git,79,Ferramenta de Versionamento de Software
+1865,16,Embedded Systems,79,Analista
+1866,15,Shell Scripting,79,Softwares
+1867,14,Swift,79,Softwares
+1868,13,Objective-C,79,
+1869,10,Software Development,79,Analista
+1870,8,iOS Development,79,Mobile
+1871,7,Bash,79,Softwares
+1872,6,Algorithms,79,Linguagens de Programação e AEDS
+1873,6,MySQL,79,Banco de Dados e Web Services
+1874,3,Django,79,Softwares
+1875,3,Web Development,79,Analista
+1876,34,Scrum,80,Metodologias Gerenciemento de Software
+1879,16,Java,80,Back End
+1882,13,Mobile Testing,80,Mobile
+1885,13,Metodologias ágeis,80,Gestão
+1886,12,Agile Methodologies,80,Gestão
+1887,12,Automação de testes,80,Testing
+1888,11,JIRA,80,
+1889,10,Bug Tracking,80,Testing
+1890,9,TestLink,80,Testing
+1891,8,Test Automation,80,Testing
+1892,8,Eclipse,80,Softwares
+1893,7,Windows Phone,80,Softwares
+1894,6,Teamwork,80,Gestão
+1895,6,Selenium,80,Softwares
+1896,5,MySQL,80,Banco de Dados e Web Services
+1897,3,Test Strategy,80,Testing
+1898,3,PostgreSQL,80,Banco de Dados e Web Services
+1899,3,C#,80,Back End
+1900,3,C++,80,Linguagens de Programação e AEDS
+1901,2,Brazilian Portuguese,80,Idioma
+1902,2,JMeter,80,Softwares
+1903,2,Fitnesse,80,Softwares
+1904,2,Microsoft Visual Studio,80,Softwares
+1905,2,Engenharia de software,80,Engeharia
+1906,2,Acompanhamento de bugs,80,Testing
+1907,1,Automated Software Testing,80,Testing
+1908,1,System Testing,80,Testing
+1909,1,BDD,80,Analista
+1910,1,Cucumber,80,Softwares
+1911,1,Microsoft Test Manager,80,Testing
+1912,1,Team Foundation Server,80,Softwares
+1913,1,Selenium Webdriver,80,Softwares
+1914,11,Software Testing Process,80,Testing
+1915,3,Cobertura for J2ME,80,Softwares
+1916,3,Selenium RC/IDE,80,Softwares
+1917,1,eFitnesse,80,Softwares
+1918,1,JMUnit,80,Softwares
+1919,1,Coded UI,80,Softwares
+1920,1,Robotium,80,Softwares
+1921,1,Monkeyrunner,80,Softwares
+1922,1,Sikuli,80,Softwares
+1923,15,Valuation,81,Negócio
+1926,15,Corporate Finance,81,Financeiro
+1929,12,Financial Modeling,81,Negócio
+1932,10,Finance,81,Financeiro
+1933,7,Capital Markets,81,Negócio
+1934,4,VBA,81,Analista
+1935,3,PowerPoint,81,Softwares
+1936,2,Data Analysis,81,Data Science
+1937,4,Scrum,82,Metodologias Gerenciemento de Software
+1939,3,Engenharia de software,82,Engeharia
+1941,3,MySQL,82,Banco de Dados e Web Services
+1943,3,UML,82,Back End
+1944,3,Java,82,Back End
+1945,2,C (linguagem de programação),82,
+1946,2,Desenvolvimento de produtos,82,Analista
+1947,2,Frameworks PHP,82,Front End
+1948,2,Desenvolvimento para iOS,82,Mobile
+1949,2,PHP,82,Back End
+1950,2,Linux,82,SO
+1951,1,Swift,82,Softwares
+1952,1,SQL,82,Banco de Dados e Web Services
+1953,1,JavaScript,82,Front End
+1954,1,HTML,82,Front End
+1955,1,CSS,82,Front End
+1956,1,Liderança de equipe,82,Soft Skills
+1957,1,Metodologias ágeis,82,Gestão
+1958,1,Git,82,Ferramenta de Versionamento de Software
+1959,1,Android,82,Mobile
+1960,1,HTML5,82,Front End
+1961,1,Desenvolvimento de sites,82,Analista
+1962,0,Desenvolvimento de software,82,Analista
+1963,0,Linguagem C,82,Linguagens de Programação e AEDS
+1964,0,Sistemas operacionais,82,Analista
+1965,0,Programação de computadores,82,Linguagens de Programação e AEDS
+1966,1,Tétriz,82,Softwares
+1967,5,Desenvolvimento Android,83,Mobile
+1969,5,Java,83,Back End
+1971,3,C#,83,Back End
+1973,1,SQL,83,Banco de Dados e Web Services
+1974,2,PHP,83,Back End
+1975,2,MySQL,83,Banco de Dados e Web Services
+1976,1,Microsoft SQL Server,83,Banco de Dados e Web Services
+1977,2,Visual Basic,83,Softwares
+1978,1,Programming Languages,83,Linguagens de Programação e AEDS
+1979,1,Software Development,83,Analista
+1980,1,Development Programming,83,Linguagens de Programação e AEDS
+1981,1,HTML,83,Front End
+1982,2,C++,83,Linguagens de Programação e AEDS
+1983,2,HTML 5,83,Front End
+1984,2,Linguagem C,83,Linguagens de Programação e AEDS
+1985,1,Python,83,Back End
+1986,1,Prolog,83,Linguagens de Programação e AEDS
+1987,1,Delphi,83,Linguagens de Programação e AEDS
+1988,1,PostgreSQL,83,Banco de Dados e Web Services
+1989,9,Linux,84,SO
+1992,6,C++,84,Linguagens de Programação e AEDS
+1995,5,PHP,84,Back End
+1998,5,C (linguagem de programação),84,
+1999,4,MySQL,84,Banco de Dados e Web Services
+2000,4,JavaScript,84,Front End
+2001,4,SQL,84,Banco de Dados e Web Services
+2002,3,HTML,84,Front End
+2003,3,Scrum,84,Metodologias Gerenciemento de Software
+2004,2,Software Development,84,Analista
+2005,2,Python,84,Back End
+2006,1,Desenvolvimento de software,84,Analista
+2007,3,Inglês,85,Idioma
+2009,4,Swift,85,Softwares
+2012,4,iOS,85,Mobile
+2015,2,CBL,85,
+2016,0,Objective-C,85,
+2017,3,Scrum,85,Metodologias Gerenciemento de Software
+2018,11,Android Development,86,Mobile
+2021,10,MySQL,86,Banco de Dados e Web Services
+2024,9,PHP,86,Back End
+2027,9,JavaScript,86,Front End
+2028,7,Scrum,86,Metodologias Gerenciemento de Software
+2029,7,Desenvolvimento Android,86,Mobile
+2030,6,SQL,86,Banco de Dados e Web Services
+2031,5,Digital TV,86,Marketing
+2032,5,Java Enterprise Edition,86,Back End
+2033,5,Linux,86,SO
+2034,4,HTML,86,Front End
+2035,4,C++,86,Linguagens de Programação e AEDS
+2036,3,JavaSE,86,Back End
+2037,3,Lua,86,Softwares
+2038,3,phpMyAdmin,86,Banco de Dados e Web Services
+2039,3,SQLite,86,Banco de Dados e Web Services
+2040,3,CSS,86,Front End
+2041,3,EJB,86,Softwares
+2042,3,JSF,86,Softwares
+2043,3,JDBC,86,Softwares
+2044,3,Data Mining,86,Data Science
+2045,3,Java,86,Back End
+2046,2,Oracle SQL,86,Banco de Dados e Web Services
+2047,2,DHTML,86,Front End
+2048,2,Windows,86,Softwares
+2049,2,JPA,86,Softwares
+2050,2,Information Retrieval,86,Analista
+2051,2,Machine Learning,86,Analista
+2052,2,UML,86,Back End
+2053,2,Python,86,Back End
+2054,3,Context Sensitive Solutions,86,
+2055,3,ITS,86,Analista
+2056,2,Chrome Extensions,86,Softwares
+2057,1,Unified Modeling Language (UML),86,Back End
+2058,3,C++,87,Linguagens de Programação e AEDS
+2060,3,Python,87,Back End
+2062,6,Java,87,Back End
+2064,3,MySQL,87,Banco de Dados e Web Services
+2065,12,Java,88,Back End
+2067,9,SQL,88,Banco de Dados e Web Services
+2069,8,Microsoft SQL Server,88,Banco de Dados e Web Services
+2071,8,C (linguagem de programação),88,
+2072,7,MySQL,88,Banco de Dados e Web Services
+2073,6,Objective-C,88,
+2074,6,Desenvolvimento de software,88,Analista
+2075,5,Visual Basic,88,Softwares
+2076,4,Linguagem C,88,Linguagens de Programação e AEDS
+2077,4,Software Development,88,Analista
+2078,4,C++,88,Linguagens de Programação e AEDS
+2079,4,Scrum,88,Metodologias Gerenciemento de Software
+2080,3,C#,88,Back End
+2081,3,CSS,88,Front End
+2082,3,HTML,88,Front End
+2083,3,Swift,88,Softwares
+2084,3,Microsoft Office,88,Softwares
+2085,2,JSON,88,Web Services
+2086,2,J2ME,88,Softwares
+2087,2,LaTeX,88,Softwares
+2088,2,Prolog,88,Linguagens de Programação e AEDS
+2089,2,Python,88,Back End
+2090,1,Jade,88,Softwares
+2091,1,JavaScript,88,Front End
+2092,3,Object Pascal,88,Linguagens de Programação e AEDS
+2093,2,SML,88,Softwares
+2094,1,Inglês,89,Idioma
+2096,0,Microsoft Office,89,Softwares
+2098,0,Microsoft PowerPoint,89,Softwares
+2100,0,Microsoft Word,89,Softwares
+2101,0,Engenharia,89,Engeharia
+2102,0,Engenharia de processos,89,Engeharia
+2103,21,Scrum,90,Metodologias Gerenciemento de Software
+2106,20,Sistemas operacionais,90,Analista
+2109,19,SQL,90,Banco de Dados e Web Services
+2112,17,Linux,90,SO
+2113,16,MySQL,90,Banco de Dados e Web Services
+2114,10,PostgreSQL,90,Banco de Dados e Web Services
+2115,9,Operating Systems,90,Analista
+2116,8,Java,90,Back End
+2117,7,UML,90,Back End
+2118,7,Shell script,90,Softwares
+2119,5,Microsoft Project,90,Gestão
+2120,4,Database Administration,90,Banco de Dados e Web Services
+2121,4,Databases,90,Banco de Dados e Web Services
+2122,4,Delphi,90,Linguagens de Programação e AEDS
+2123,4,Software Development,90,Analista
+2124,4,Banco de dados,90,Data Science
+2125,3,Shell Scripting,90,Softwares
+2126,3,IT Management,90,Gestão
+2127,3,Gestão de TI,90,Gestão
+2128,2,JSF,90,Softwares
+2129,2,C/C++,90,Linguagens de Programação e AEDS
+2130,2,Visual Basic 5.0/6.0,90,Softwares
+2131,2,FreeBSD,90,Softwares
+2132,2,ETL,90,
+2133,2,Data Warehousing,90,Data Science
+2134,2,XML,90,Web Services
+2135,2,Windows,90,Softwares
+2136,2,Windows Server,90,Softwares
+2137,2,Unix Shell Scripting,90,Softwares
+2138,2,Debian,90,SO
+2139,2,Visual Basic,90,Softwares
+2140,1,Ubuntu,90,SO
+2141,1,CVS,90,Softwares
+2142,1,VMware,90,Softwares
+2143,1,Amazon EC2,90,Softwares
+2144,1,Pentaho,90,Softwares
+2145,1,"ETL (Extração, transformação e carregamento)",90,
+2146,0,MS Project,90,Gestão
+2147,0,Linguagem R,90,Linguagens de Programação e AEDS
+2148,0,Data Mining,90,Data Science
+2149,0,BMC Remedy,90,Analista
+2150,0,Zabbix,90,Softwares
+2151,0,Nagios,90,Softwares
+2152,0,Barman (Backup and Recovery Manager) - PostgreSQL,90,Banco de Dados e Web Services
+2153,0,Hyperic HQ,90,Softwares
+2154,31,Marketing digital,91,Marketing
+2157,23,Google AdWords,91,Linguagens de Programação e AEDS
+2160,22,Google Analytics,91,Linguagens de Programação e AEDS
+2163,17,Digital Marketing,91,Marketing
+2164,20,Marketing de motor de busca,91,Marketing
+2165,40,Mídias sociais,91,Marketing
+2166,28,Marketing,91,Marketing
+2167,21,Estratégias de marketing,91,Gestão
+2168,13,Social Media,91,Marketing
+2169,15,Marketing social,91,Marketing
+2170,9,Marketing online,91,Marketing
+2171,12,SEO (Otimização de motores de busca),91,Analista
+2172,8,Planejamento estratégico,91,Gestão
+2173,6,SEM,91,Negócio
+2174,6,Publicidade,91,Negócio
+2175,7,Publicidade online,91,Negócio
+2176,7,Social Media Marketing,91,Marketing
+2177,6,Marketing Strategy,91,Marketing
+2178,3,Graphic Design,91,Design
+2179,3,Adobe Creative Suite,91,Design
+2180,4,Advertising,91,Negócio
+2181,3,Comunicações de marketing,91,
+2182,3,SEO,91,Analista
+2183,2,Web Design,91,Design
+2184,2,Runrun.it,91,Softwares
+2185,3,Estratégia empresarial,91,Gestão
+2186,1,Marketing de Conteúdo,91,Marketing
+2187,16,Negociação,93,Negócio
+2189,15,Gestão,93,Gestão
+2191,15,Planejamento estratégico,93,Gestão
+2193,12,Microsoft Excel,93,Softwares
+2194,11,Microsoft Office,93,Softwares
+2195,10,Inteligência empresarial,93,Gestão
+2196,7,Marketing,93,Marketing
+2197,6,Vendas,93,Comercial
+2198,5,Gestão de equipes,93,Gestão
+2199,5,Microsoft Word,93,Softwares
+2200,4,Negotiation,93,Negócio
+2201,4,Empresas startups,93,Empreendedorismo e Inovação
+2202,2,Trade Marketing,93,Marketing
+2203,2,Strategic Planning,93,Gestão
+2204,2,Marketing comercial,93,Marketing
+2205,2,Pré-vendas,93,Comercial
+2206,2,Centrais de atendimento,93,Comercial
+2207,1,Business Intelligence,93,Negócio
+2208,1,Call Centers,93,Negócio
+2209,1,Team Management,93,Gestão
+2210,1,Management,93,Gestão
+2211,1,Pre-sales,93,Comercial
+2212,1,Start-ups,93,Empreendedorismo e Inovação
+2213,1,Estratégia empresarial,93,Gestão
+2214,24,Market Planning,94,Gestão
+2217,23,Marketing Strategy,94,Marketing
+2220,23,Operating Systems,94,Analista
+2223,19,Digital Marketing,94,Marketing
+2224,15,DOS,94,Softwares
+2225,14,Trade Marketing,94,Marketing
+2226,13,E-commerce,94,Negócio
+2227,11,Sales,94,Comercial
+2228,9,Negotiation,94,Negócio
+2229,8,Sales Management,94,Gestão
+2230,6,Online Advertising,94,Negócio
+2231,4,Marketing Management,94,Marketing
+2232,4,Market Analysis,94,Negócio
+2233,3,Business Planning,94,Gestão
+2234,2,Recruiting,94,Gestão
+2235,2,Strategic Sales,94,Gestão
+2236,10,Consulting,95,Consultoria
+2238,9,Management Consulting,95,Gestão
+2240,4,Business Strategy,95,Gestão
+2242,12,Chemical Engineering,95,Engeharia
+2243,11,Software Development,95,Analista
+2244,11,VBA,95,Analista
+2245,8,Microsoft Excel,95,Softwares
+2246,6,Management,95,Gestão
+2247,8,Process Engineering,95,Engeharia
+2248,8,Metallurgy,95,Engeharia
+2249,6,Team Leadership,95,Gestão
+2250,32,Business Strategy,96,Gestão
+2253,29,E-commerce,96,Negócio
+2255,26,Business Intelligence,96,Negócio
+2257,19,Start-ups,96,Empreendedorismo e Inovação
+2258,19,Entrepreneurship,96,Empreendedorismo e Inovação
+2259,15,Scrum,96,Metodologias Gerenciemento de Software
+2260,15,Cloud Computing,96,Analista
+2261,15,Project Management,96,Gestão
+2262,14,Strategic Planning,96,Gestão
+2263,11,Business Analysis,96,Negócio
+2264,11,Business Planning,96,Gestão
+2265,9,Team Leadership,96,Gestão
+2266,6,ITIL,96,Analista
+2267,5,IT Management,96,Gestão
+2268,5,Strategy,96,Gestão
+2269,4,Information Security,96,Analista
+2270,3,COBIT,96,Analista
+2271,3,PHP,96,Back End
+2272,2,Mobile Applications,96,Mobile
+2273,2,Outsourcing,96,Analista
+2274,2,Digital Marketing,96,Marketing
+2275,1,PMI,96,Gestão
+2276,1,ERP,96,Gestão
+2277,1,Business Process Improvement,96,Gestão
+2278,1,Agile Methodologies,96,Gestão
+2279,2,Governance,96,Linguagens de Programação e AEDS
+2280,15,Negociação,97,Negócio
+2282,10,B2B,97,Negócio
+2284,10,Estratégia empresarial,97,Gestão
+2286,7,Business Strategy,97,Gestão
+2287,7,Negotiation,97,Negócio
+2288,7,Estratégias de marketing,97,Gestão
+2289,6,Marketing Strategy,97,Marketing
+2290,6,Gestão de vendas,97,Gestão
+2291,5,Gestão,97,Gestão
+2292,5,Vendas,97,Comercial
+2293,5,Planejamento estratégico,97,Gestão
+2294,4,Microsoft Office,97,Softwares
+2295,3,Desenvolvimento de novos negócios,97,Negócio
+2296,3,Liderança de equipe,97,Soft Skills
+2297,2,Marketing digital,97,Marketing
+2298,2,Microsoft Word,97,Softwares
+2299,2,Sales Management,97,Gestão
+2300,2,Microsoft PowerPoint,97,Softwares
+2301,2,PowerPoint,97,Softwares
+2302,1,Inglês,97,Idioma
+2303,1,Desenvolvimento empresarial,97,Gestão
+2304,1,Salesforce.com,97,Comercial
+2305,0,New Business Development,97,Negócio
+2306,0,Business Development,97,Negócio
+2307,6,Microsoft Office,98,Softwares
+2309,5,Microsoft PowerPoint,98,Softwares
+2311,4,Microsoft Word,98,Softwares
+2313,3,Liderança de equipe,98,Soft Skills
+2314,2,Oratória,98,Retórica
+2315,2,Liderança,98,Soft Skills
+2316,1,Microsoft Excel,98,Softwares
+2317,1,Management,98,Gestão
+2318,0,Pesquisa,98,Negócio
+2319,0,Sales Operations,98,Comercial
+2320,8,E-commerce,99,Negócio
+2323,6,Digital Marketing,99,Marketing
+2325,5,DAS,99,Empreendedorismo e Inovação
+2327,5,Business Strategy,99,Gestão
+2328,5,Business Planning,99,Gestão
+2329,4,Portuguese,99,Idioma
+2330,4,Online Advertising,99,Negócio
+2331,4,Marketing Strategy,99,Marketing
+2332,4,Market Planning,99,Gestão
+2333,3,Trade Marketing,99,Marketing
+2334,3,Marketing Management,99,Marketing
+2335,3,Operating Systems,99,Analista
+2336,2,Strategic Planning,99,Gestão
+2337,2,Negotiation,99,Negócio
+2338,2,Management,99,Gestão
+2339,2,Team Leadership,99,Gestão
+2340,2,Sales Management,99,Gestão
+2341,2,Microsoft Office,99,Softwares
+2342,2,English,99,Idioma
+2343,2,Social Media Marketing,99,Marketing
+2344,2,PowerPoint,99,Softwares
+2345,41,Sistemas operacionais,100,Analista
+2348,29,Gestão,100,Gestão
+2350,20,Negociação,100,Negócio
+2352,18,Marketing digital,100,Marketing
+2353,18,ERP (Planejamento de recursos empresariais),100,Gestão
+2354,16,Estratégia empresarial,100,Gestão
+2355,15,Planejamento estratégico,100,Gestão
+2356,13,Empresas startups,100,Empreendedorismo e Inovação
+2357,12,Vendas,100,Comercial
+2358,12,Planejamento empresarial,100,Gestão
+2359,9,Operating Systems,100,Analista
+2360,7,Gestão de vendas,100,Gestão
+2361,5,Gestão de relação de clientes,100,Gestão
+2362,5,Management,100,Gestão
+2363,5,Negotiation,100,Negócio
+2364,4,Sales Management,100,Gestão
+2365,4,Digital Marketing,100,Marketing
+2366,4,Venda de soluções de software,100,Analista
+2367,3,Microsoft CRM,100,Gestão
+2368,3,Web 2.0,100,Analista
+2369,3,Start-ups,100,Empreendedorismo e Inovação
+2370,2,Web Analytics,100,Analista
+2371,2,Web Design,100,Design
+2372,2,Vendor Management,100,Gestão
+2373,2,Vendor Relations,100,Negócio
+2374,2,Pre-sales Technical Support,100,Comercial
+2375,2,Google Adwords,100,Linguagens de Programação e AEDS
+2376,2,Google Analytics,100,Linguagens de Programação e AEDS
+2377,2,IT Outsourcing,100,Analista
+2378,2,Mobile Telecommunications,100,Mobile
+2379,2,Corporate Management,100,Gestão
+2380,2,Key Account Management,100,Gestão
+2381,2,Field Marketing,100,Marketing
+2382,2,Sales Representatives,100,Comercial
+2383,2,Insurance,100,Negócio
+2384,2,Social Media,100,Marketing
+2385,2,Social Media Marketing,100,Marketing
+2386,2,ERP,100,Gestão
+2387,2,Business Coaching,100,Consultoria
+2388,2,Coaching,100,Consultoria
+2389,2,Executive Coaching,100,Consultoria
+2390,2,Solution Selling,100,Comercial
+2391,2,Selling Skills,100,Soft Skills
+2392,2,Sales,100,Comercial
+2393,2,Sales Process,100,Comercial
+2394,2,Social Skills,100,Soft Skills
+2395,1,SEO,100,Analista
+2396,1,Direct Sales,100,Comercial
+2397,3,ERP/CRM,100,Gestão
+2398,2,Solutions Selling,100,Comercial
+2399,25,Marketing digital,101,Marketing
+2401,23,Sistemas operacionais,101,Analista
+2404,15,Comércio eletrônico,101,Negócio
+2406,14,Estratégias de marketing,101,Gestão
+2407,10,Publicidade online,101,Negócio
+2408,8,Digital Marketing,101,Marketing
+2409,7,Marketing,101,Marketing
+2410,3,Online Advertising,101,Negócio
+2411,5,Marketing,102,Marketing
+2413,5,Gestão,102,Gestão
+2415,4,Publicidade online,102,Negócio
+2417,3,Atendimento ao Cliente,102,Negócio
+2418,2,Marketing digital,102,Marketing
+2419,2,Microsoft Office,102,Softwares
+2420,2,Mídias sociais,102,Marketing
+2421,2,Comércio eletrônico,102,Negócio
+2422,2,Liderança,102,Soft Skills
+2423,2,Gestão de projetos,102,Gestão
+2424,2,Administração,102,Gestão
+2425,2,Microsoft Word,102,Softwares
+2426,2,Microsoft Excel,102,Softwares
+2427,28,Estratégias de marketing,103,Gestão
+2429,22,Planejamento estratégico,103,Gestão
+2431,11,Publicidade online,103,Negócio
+2433,17,Estratégia empresarial,103,Gestão
+2434,14,Negociação,103,Negócio
+2435,10,Marketing,103,Marketing
+2436,6,Marketing online,103,Marketing
+2437,1,Empresas startups,103,Empreendedorismo e Inovação
+2438,7,Microsoft PowerPoint,103,Softwares
+2439,3,Marketing Strategy,103,Marketing
+2440,1,Digital Marketing,103,Marketing
+2441,4,Business Strategy,103,Gestão
+2442,2,Online Advertising,103,Negócio
+2443,1,E-commerce,103,Negócio
+2444,5,Negotiation,103,Negócio
+2445,2,Strategic Planning,103,Gestão
+2446,5,Comércio eletrônico,103,Negócio
+2447,6,Marketing digital,103,Marketing
+2448,5,Liderança de equipe,103,Soft Skills
+2449,4,Gestão de vendas,103,Gestão
+2450,3,Inglês,103,Idioma
+2451,3,Consultoria de gestão,103,Consultoria
+2452,3,Terceirização de serviços,103,Gestão
+2453,3,Mídias sociais,103,Marketing
+2454,6,Estratégia,103,Gestão
+2455,2,Sales Management,103,Gestão
+2456,2,Team Leadership,103,Gestão
+2457,1,Social Media,103,Marketing
+2458,1,Marketing por e-mail,103,Marketing
+2459,1,Administração,103,Gestão
+2460,2,Strategy,103,Gestão
+2461,4,Microsoft Office,103,Softwares
+2462,2,Consultoria,103,Consultoria
+2463,3,Gestão,103,Gestão
+2464,2,Vendas,103,Comercial
+2465,2,Marketing social,103,Marketing
+2466,1,Integração,103,Gestão
+2467,8,PMO,104,Gestão
+2469,5,ITIL,104,Analista
+2471,3,Microsoft Excel,104,Softwares
+2473,2,Strategic Planning,104,Gestão
+2474,2,Business Planning,104,Gestão
+2475,2,English,104,Idioma
+2476,2,Team Leadership,104,Gestão
+2477,2,Operating Systems,104,Analista
+2478,1,Marketing Strategy,104,Marketing
+2479,0,Pre-sales,104,Comercial
+2480,0,Marketing,104,Marketing
+2481,0,Microsoft Office,104,Softwares
+2482,0,Teamwork,104,Gestão
+2483,0,Management,104,Gestão
+2484,0,Business Strategy,104,Gestão
+2485,0,Customer Service,104,Comercial
+2486,0,Quality Management,104,Gestão
+2487,0,Business Intelligence,104,Negócio
+2488,0,Sales & Marketing,104,Marketing
+2489,0,Sports,104,Escolar e Acadêmico
+2490,0,Business Analysis,104,Negócio
+2491,0,Data Analysis,104,Data Science
+2492,0,Planning,104,Gestão
+2493,7,Python,105,Back End
+2496,2,Docker,105,Banco de Dados e Web Services
+2498,18,Linux,105,SO
+2501,0,Rancher,105,Softwares
+2502,0,Continuous Integration,105,Gestão
+2503,9,Web Development,105,Analista
+2504,7,HTML 5,105,Front End
+2505,17,JavaScript,105,Front End
+2506,4,AngularJS,105,Front End
+2507,16,PHP,105,Back End
+2508,1,Silex,105,Softwares
+2509,3,Django,105,Softwares
+2510,6,PHPUnit,105,Back End
+2511,7,CSS3,105,Front End
+2512,4,Jasmine,105,Softwares
+2513,13,MySQL,105,Banco de Dados e Web Services
+2514,7,Apache,105,Softwares
+2515,5,front-end,105,Front End
+2516,4,jQuery,105,Front End
+2517,7,Wordpress,105,
+2518,2,Dojo,105,Linguagens de Programação e AEDS
+2519,3,Amazon S3,105,Softwares
+2520,4,Amazon EC2,105,Softwares
+2521,4,CSS,105,Front End
+2522,5,Git,105,Ferramenta de Versionamento de Software
+2523,1,Doctrine,105,Softwares
+2524,4,Kanban,105,Metodologias Gerenciemento de Software
+2525,3,Scrum,105,Metodologias Gerenciemento de Software
+2526,5,Planejamento estratégico,106,Gestão
+2528,5,Negociação,106,Negócio
+2530,5,Liderança de equipe,106,Soft Skills
+2532,5,Microsoft Excel,106,Softwares
+2533,5,Gestão,106,Gestão
+2534,4,Microsoft Office,106,Softwares
+2535,4,Estratégia empresarial,106,Gestão
+2536,4,Microsoft PowerPoint,106,Softwares
+2537,4,Gestão de vendas,106,Gestão
+2538,4,Atendimento ao Cliente,106,Negócio
+2539,4,Vendas,106,Comercial
+2540,3,Planejamento empresarial,106,Gestão
+2541,2,Estratégias de marketing,106,Gestão
+2542,4,Microsoft Excel,107,Softwares
+2544,4,Salesforce.com,107,Comercial
+2546,2,Microsoft PowerPoint,107,Softwares
+2548,2,Atendimento ao cliente,107,Comercial
+2549,1,CRM Solve360,107,Gestão
+2550,1,Exact Sales,107,Comercial
+2551,0,Inglês básico,107,Idioma
+2552,54,Negociação,109,Negócio
+2554,36,Gestão de vendas,109,Gestão
+2556,32,Gestão,109,Gestão
+2558,24,Marketing digital,109,Marketing
+2559,18,Estratégia empresarial,109,Gestão
+2560,17,Estratégias de marketing,109,Gestão
+2561,13,Liderança de equipe,109,Soft Skills
+2562,10,Marketing,109,Marketing
+2563,9,Vendas,109,Comercial
+2564,8,Planejamento estratégico,109,Gestão
+2565,6,Gestão de contas,109,Gestão
+2566,6,Salesforce.com,109,Comercial
+2567,6,Comércio eletrônico,109,Negócio
+2568,5,Negotiation,109,Negócio
+2569,4,Sales Management,109,Gestão
+2570,4,Mídias sociais,109,Marketing
+2571,3,Digital Marketing,109,Marketing
+2572,3,Planejamento empresarial,109,Gestão
+2573,3,Management,109,Gestão
+2574,2,Social Media,109,Marketing
+2575,2,Social Media Marketing,109,Marketing
+2576,2,Processo de venda,109,Comercial
+2577,2,Publicidade online,109,Negócio
+2578,2,Marketing social,109,Marketing
+2579,2,Computação em nuvem,109,
+2580,1,Excel,109,Softwares
+2581,1,Windows,109,Softwares
+2582,1,Online Marketing,109,Marketing
+2583,1,Venda de soluções de software,109,Analista
+2584,1,Operações de vendas,109,Comercial
+2585,1,Team Leadership,109,Gestão
+2586,1,Microsoft Office,109,Softwares
+2587,1,Estratégia,109,Gestão
+2588,1,SEO (Otimização de motores de busca),109,Analista
+2589,1,Business Planning,109,Gestão
+2590,0,Sales Management Coaching,109,Gestão
+2591,0,Empresas startups,109,Empreendedorismo e Inovação
+2592,0,Gestão de relação de clientes,109,Gestão
+2593,0,Publicidade,109,Negócio
